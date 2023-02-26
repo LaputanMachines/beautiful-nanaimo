@@ -1,7 +1,7 @@
 ---
 username: olivia
 name: Olivia Grant
-image: '/images/olivia-grant-profile-pic.png'
+image: '/images/olivia-grant-profile-pic.jpg'
 website: 
 twitter: 
 facebook: 
