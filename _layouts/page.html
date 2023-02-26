@@ -8,14 +8,15 @@ layout: default
     <div class="page__info">
       <h1 class="page__title">{{ page.title | escape }}</h1>
       {% if page.description %}
-        <p class="page__description">{{ page.description }}</p>
+      <p class="page__description">{{ page.description }}</p>
       {% endif %}
     </div>
 
     {% if page.video_embed %}
     <div class="page-video">
       <div class="page-video__wrap">
-        <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="{{ page.video_embed }}" loading="lazy" width="640" height="360" frameborder="0"
+          webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
     </div>
 
@@ -28,11 +29,11 @@ layout: default
     {% endif %}
 
     {% if page.image_caption %}
-      <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
+    <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
     {% endif %}
 
     {% endif %}
-  
+
   </div>
 </div>
 
@@ -48,7 +49,7 @@ layout: default
 </div>
 <!-- end page -->
 
-{% if page.name == '404.html' %}
+{% if page.name == '404.html' or page.name == 'welcome.html' %}
 <!-- begin recent posts -->
 <div class="recent-posts animate">
   <div class="container">
@@ -68,7 +69,7 @@ layout: default
   <div class="container">
     <div class="row">
       {% for post in site.posts limit:3 %}
-        {% include article.html %}
+      {% include article.html %}
       {% endfor %}
     </div>
   </div>
