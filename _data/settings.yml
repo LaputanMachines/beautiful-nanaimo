@@ -87,7 +87,8 @@ social:
 - {icon: "ion-ios-business", color: "#0a243f", name: Strong Towns Homepage, link: "https://www.strongtowns.org"}
 - {icon: "ion-ios-boat", color: "#00b9f1", name: Nanaimo Official City Plan, link: "https://www.nanaimo.ca/property-development/community-planning-land-use/city-plan"}
 - {icon: "ion-ios-build", color: "#004475", name: Nanaimo City Projects, link: "https://www.nanaimo.ca/your-government/projects"}
-- {icon: "ion-ios-bicycle", color: "#00668d", name: Get Involved Nanaimo, link: "https://www.getinvolvednanaimo.ca/"}
+- {icon: "ion-ios-bicycle", color: "#00668d", name: Get Involved Nanaimo, link: "https://www.getinvolvednanaimo.ca"}
+- {icon: "ion-md-contacts", color: "#444444", name: Volunteer Nanaimo, link: "https://www.volunteernanaimo.ca"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
 # Other icons can be found at https://ionicons.com/v4/
