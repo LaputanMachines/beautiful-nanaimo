@@ -56,9 +56,9 @@ tag:
 # Newsletter Settings
 mailchimp:
   enable: true
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp__identifier: https://bc2089c3.sibforms.com/serve/MUIEAAOSzKqSStZTACBWK2hNIl9ucHbLHSaGl7WNZJmVN_PdDJhkurSKDCy-OMSXhBltjlYSTXwpczGV37Gh7hQBqjp6NeZXKX10XITizKUnQTPu6zjzXEQFvBFY2t0M9D9ns1CME7K5967yMGjvgd8UVUpsbifrLSMyKAfggTkxrjjbWl8IA0CfvFIi034MwIsxNzj0Gv_gWcAU
   mailchimp__title: Connect With Us
-  mailchimp__description: Subscribe to our newsletter and we'll send you emails of new posts.
+  mailchimp__description: Subscribe to our newsletter and we'll send you emails of new posts. I promise that we won't spam your inbox 🤞
   mailchimp__input__text: Your Email Address
   mailchimp__button__text: Connect
   mailchimp__background__image: "/images/nanaimo-photos/nanaimo-harbour-3.jpg"
@@ -96,7 +96,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: michael@beautifulnanaimo.ca
 
 # NOTE
 # Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

@@ -6,20 +6,34 @@
         <div class="subscribe__inner">
           <div class="subscribe__content">
             {% if site.data.settings.mailchimp.mailchimp__title %}
-              <h3 class="subscribe__title">{{ site.data.settings.mailchimp.mailchimp__title }}</h3>
+            <h3 class="subscribe__title">{{ site.data.settings.mailchimp.mailchimp__title }}</h3>
             {% endif %}
             {% if site.data.settings.mailchimp.mailchimp__description %}
-              <p class="subscribe__description">{{ site.data.settings.mailchimp.mailchimp__description }}</p>
+            <p class="subscribe__description">{{ site.data.settings.mailchimp.mailchimp__description }}</p>
             {% endif %}
           </div>
-          <form class="subscribe-form validate"
-            action="{% if site.data.settings.mailchimp.mailchimp__identifier %}//{{site.data.settings.mailchimp.mailchimp__identifier}}{% else %}#{% endif %}" method="POST"
-            id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
-            <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
-              placeholder="{% if site.data.settings.mailchimp.mailchimp__input__text %}{{ site.data.settings.mailchimp.mailchimp__input__text }}{% else %}Email address{% endif %}">
-            <button class="button button--primary subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp__button__text }}</button>
+          <form class="subscribe-form validate" id="sib-form" method="POST"
+            action="https://bc2089c3.sibforms.com/serve/MUIEABot8qVXy9wyLHUzgi7wtcMYFZoU2qj6vxnsPRzY4NKwJEEFGfHuIpyo-CYpEv8cqUtBGgkOnQSJTKPqGBboEDPe8joAy1b45dYawIOBO_ji91AQG-CLVACCDJS7cFTPgDgeJtgb2MGPMYPt9CebTl7D3u4Ns9s0csf_gygA3r2H9JPGnEVIvb9y7BK_4fdkbdMDu-kmlsKE">
+            <div style="padding: 8px 0;">
+              <div class="sib-input sib-form-block">
+                <div class="form__entry entry_block">
+                  <div class="form__label-row ">
+                    <div class="entry__field">
+                      <input class="input subscribe-email required email " type="text" id="EMAIL" name="EMAIL"
+                        autocomplete="off" placeholder="Your Email Address" data-required="true" required />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div style="padding: 8px 0;">
+              <div class="sib-form-block" style="text-align: left">
+                <button class="button button--primary subscribe-button" id="membedded-subscribe" form="sib-form"
+                  type="submit" name="subscribe">{{ site.data.settings.mailchimp.mailchimp__button__text }}</button>
+              </div>
+            </div>
           </form>
+
         </div>
         <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailchimp.mailchimp__background__image}}"></div>
       </div>
