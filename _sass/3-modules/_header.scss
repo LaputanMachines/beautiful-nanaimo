@@ -3,7 +3,7 @@
 
   &.header--dark {
     color: var(--white);
-    background-color: var(--dark);
+    background-color: var(--st-blue);
 
     .hamburger div,
     .hamburger div:after,
@@ -38,14 +38,17 @@
       .nav__list {
         .nav__link {
           text-underline-offset: 3px;
+
           &:hover {
             text-decoration-color: var(--link-color);
           }
+
           &.active-link {
             text-decoration-color: var(--link-color);
           }
         }
       }
+
       .nav-button {
         color: var(--link-color);
       }
@@ -59,7 +62,7 @@
     flex-wrap: wrap;
     padding: 40px $base-spacing-unit;
     line-height: 1;
-  
+
     @media (max-width: $desktop) {
       padding: 40px $base-spacing-unit;
     }
