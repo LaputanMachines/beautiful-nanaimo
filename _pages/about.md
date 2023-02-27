@@ -1,23 +1,22 @@
 ---
 layout: page
-title: About
-description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
+title: About Us
+description: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. 
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+image: '/images/nanaimo-photos/nanaimo-harbour-1.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Strong Towns are critical to the sustainable development of cities and towns. They represent a way of thinking about urban planning and development that prioritizes the needs of the community, rather than those of developers or other stakeholders. Strong Towns are characterized by a number of important features, including productive land use, wise infrastructure investment, incremental building, people-focused planning, and bottom-up decision-making.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Strong Towns are critical to the sustainable development of cities and towns. They represent a way of thinking about urban planning and development that prioritizes the needs of the community, rather than those of developers or other stakeholders. Strong Towns are characterized by a number of important features, including productive land use, wise infrastructure investment, incremental building, people-focused planning, and bottom-up decision-making.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> The best thing we can do for the safety of our children is to get them out of the car by building mixed-use, walkable neighborhoods. The safest trip is the one not taken. 
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
+Another key feature of Strong Towns is wise infrastructure investment. This means investing in infrastructure that provides a high return on investment, both financially and socially. For example, Strong Towns prioritize investments in roads and sidewalks that are designed to be safe and accessible for pedestrians, cyclists, and public transit users, rather than prioritizing the needs of cars. They also invest in infrastructure that supports local businesses and improves quality of life for residents, such as parks and public spaces.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Strong Towns acknowledges the need for people-focused planning in our community. This means designing communities and neighborhoods that prioritize the needs of people, rather than the needs of cars or other infrastructure. People-focused planning involves creating safe and walkable streets that encourage active transportation and social interaction, and prioritizing public spaces that are accessible to everyone, regardless of income or ability. The best thing we can do for the safety of our children is to get them out of the car by building mixed-use, walkable neighborhoods. The safest trip is the one not taken. (Charles L. Marohn Jr., Thoughts on Building Strong Towns)
 
-<div class="gallery-box">
+<!-- <div class="gallery-box">
   <div class="gallery">
     <img src="/images/02.jpg" loading="lazy">
     <img src="/images/07.jpg" loading="lazy">
@@ -30,20 +29,12 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
     <img src="/images/16-2.jpg" loading="lazy">
   </div>
   <em>My Best Works / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+</div> -->
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+Finally, Strong Towns are important because they promote economic vitality. By encouraging productive land use, supporting local businesses, and creating vibrant, walkable neighborhoods, Strong Towns are able to attract investment and support economic growth. This is critical for the long-term prosperity of communities, as well as for the well-being of individual residents.
 
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/OZ1HhLq-Huo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen></iframe></p>
 
-### Dynamically innovate
+By prioritizing the needs of people over the needs of cars or other infrastructure, Strong Towns are able to create communities that are more inclusive and accessible to everyone, regardless of income or ability. This is especially important in today's increasingly unequal society, where many people are struggling to make ends meet and access essential services.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://www.youtube.com/embed/QMw6kzi3Wx8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
-
-***
+<!-- *** -->

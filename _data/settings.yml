@@ -23,8 +23,8 @@ menu__settings:
       url: '/about/'
     - title: 'Pages'
       submenu:
-      - url: '/authors/'
-        title: 'Authors'
+      - url: '/members/'
+        title: 'Members'
       - url: '/elements/'
         title: 'Elements'
     - title: 'Contact'
@@ -76,8 +76,8 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Authors'
-      url: '/authors/'
+    - title: 'Members'
+      url: '/members/'
     - title: 'Elements'
       url: '/elements/'
 
