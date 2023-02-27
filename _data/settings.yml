@@ -25,6 +25,10 @@ menu__settings:
       submenu:
       - url: '/members/'
         title: 'Members'
+      - url: '/meetings/'
+        title: 'Meetings'
+      - url: '/library/'
+        title: 'Library'
     - title: 'Contact'
       url: '/contact/'
 
@@ -76,6 +80,10 @@ footer__menu__settings:
       url: '/contact/'
     - title: 'Members'
       url: '/members/'
+    - title: 'Meetings'
+      url: '/meetings/'
+    - title: 'Library'
+      url: '/library/'
 
 
 # Social Links
