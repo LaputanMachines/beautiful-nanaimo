@@ -2,7 +2,7 @@
 username: michael
 name: Michael Bassili
 image: '/images/michael-bassili-profile-pic.jpeg'
-website: https://bassi.li
+website: 
 twitter: 
 facebook: 
 ---
