@@ -95,12 +95,17 @@
 /* Logo */
 .logo__link {
   padding: 4px 0;
-  font-family: $heading-font-family;
   font-size: 32px;
   letter-spacing: $heading-letter-spacing;
   line-height: 1;
   font-weight: 800;
   transition: color .2s ease;
+
+  // Mimic the design of Strong Towns logo
+  font-family: 'mixta-sharp', serif !important;
+  border-bottom: 2px solid rgb(217, 217, 217);
+  border-top: 2px solid rgb(217, 217, 217);
+  text-transform: uppercase;
 }
 
 .logo__image {
