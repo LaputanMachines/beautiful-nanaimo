@@ -32,3 +32,9 @@
     background-color: var(--darken-gray);
   }
 }
+
+#contact-form-submit-button {
+  // Have button span the entire
+  // width of the contact form
+  width: 100%;
+}

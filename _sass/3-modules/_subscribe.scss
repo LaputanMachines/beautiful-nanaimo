@@ -169,5 +169,11 @@
       top: 0;
       right: 0;
     }
+
+    #membedded-subscribe {
+      // Have button span the entire
+      // width of the contact form
+      width: 100%;
+    }
   }
 }
