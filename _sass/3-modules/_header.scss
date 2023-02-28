@@ -106,6 +106,10 @@
   border-bottom: 2px solid rgb(217, 217, 217);
   border-top: 2px solid rgb(217, 217, 217);
   text-transform: uppercase;
+
+  @media (max-width: 460px) {
+    line-height: 45px;
+  }
 }
 
 .logo__image {
