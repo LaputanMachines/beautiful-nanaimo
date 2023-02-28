@@ -1,13 +1,12 @@
 ---
 layout: post
-title: You never really learn much from hearing yourself speak
+title: That which does not kill us makes us stronger
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
-date: 2021-04-21 15:01:35 +0300
-author: craig
-image: '/images/17.jpg'
-image_caption: 'Photo by [Aaron Burden](https://unsplash.com/photos/yFnX8DaC3UM) on [Unsplash](https://unsplash.com/)'
-tags: [technology, hobby, motivation]
-featured:
+date: 2021-11-14 15:01:35 +0300
+author: miracle
+image: '/images/02.jpg'
+image_caption: 'Photo by [Atoms](https://unsplash.com/photos/VNXDKvmc8v4) on [Unsplash](https://unsplash.com/)'
+tags: [workflow, hobby, study, sample]
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -19,10 +18,17 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
 
-![Flowers]({{site.baseurl}}/images/17-1.jpg){:loading="lazy"}
+![Flowers]({{site.baseurl}}/images/02-1.jpg){:loading="lazy"}
 *Photo by [Rachel Strong](https://unsplash.com/photos/VhcxuEGNXo4) on [Unsplash](https://unsplash.com/)*
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+
+Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+
+![Girls]({{site.baseurl}}/images/02-2.jpg){:loading="lazy"}
+*Photo by [Matheus Ferrero](https://unsplash.com/photos/LIaLQ2SIQuk) on [Unsplash](https://unsplash.com/)*
 
 Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
 

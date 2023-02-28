@@ -32,17 +32,17 @@
 
 .hero__title {
   margin-bottom: 0;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 600;
   line-height: 1.4;
   color: var(--white);
 
   @media (max-width: $desktop) {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   @media (max-width: $tablet) {
-    font-size: 32px;
+    font-size: 28px;
   }
 
   @media (max-width: $mobile) {

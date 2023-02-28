@@ -43,7 +43,7 @@ hero:
 # Blog Settings
 blog:
   blog__title: Blog & Resources
-  blog__description: Find out how to set up a successful blog or how to make yours even better!
+  blog__description: Learn more about the Strong Towns movement in Nanaimo. Articles are written by your neighbours!
 
 
 #-------------------------------
@@ -51,7 +51,7 @@ blog:
 tag:
   enable: true
   tag__title: Recommended
-  tag__name: Motivation
+  tag__name: Notes
 
 
 #-------------------------------
