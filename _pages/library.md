@@ -1,146 +1,36 @@
 ---
 layout: page
 title: Library
-description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.
+description: The following resources can be used to learn more about Strong Towns. There are countless solid books, YouTube content creators, and podcasters who can help you learn about sustainable urban planning. Here are some of our favourites!
 permalink: /library/
-image: '/images/17.jpg'
+image: '/images/nanaimo-photos/nanaimo-seawall-3.jpg'
 ---
 
-
-A paragraph looks like this — Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures. Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies.
-
-***
-
-## Headings by default:
-
-# H1 Default styles for headings
-## H2 Default styles for headings
-### H3 Default styles for headings
-#### H4 Default styles for headings
-##### H5 Default styles for headings
-###### H6 Default styles for headings
+There are countless facets of urban development and it can feel daunting jumping in head-first. Here are some links that can help guide you. Feel like we missed something? Reach out with your suggestions and we’ll try to add them to the list!
 
 ***
 
-## Lists
+## Strong Towns Nanaimo Library
 
-### Ordered list example:
+Feel free to reach out if you think we missed something!
 
-1. Poutine drinking vinegar bitters.
-2. Coloring book distillery fanny pack.
-3. Venmo biodiesel gentrify enamel pin meditation.
-4. Jean shorts shaman listicle pickled portland.
-5. Salvia mumblecore brunch iPhone migas.
-
-***
-
-### Unordered list example:
-
-* Bitters semiotics vice thundercats synth.
-* Literally cred narwhal bitters wayfarers.
-* Kale chips chartreuse paleo tbh street art marfa.
-* Mlkshk polaroid sriracha brooklyn.
-* Pug you probably haven't heard of them air plant man bun.
-
-***
-
-## Table
-
-<div class="table-container">
-  <table>
-    <tr><th>Header 1</th><th>Header 2</th><th>Header 3</th><th>Header 4</th><th>Header 5</th></tr>
-    <tr><td>Row:1 Cell:1</td><td>Row:1 Cell:2</td><td>Row:1 Cell:3</td><td>Row:1 Cell:4</td><td>Row:1 Cell:5</td></tr>
-    <tr><td>Row:2 Cell:1</td><td>Row:2 Cell:2</td><td>Row:2 Cell:3</td><td>Row:2 Cell:4</td><td>Row:2 Cell:5</td></tr>
-    <tr><td>Row:3 Cell:1</td><td>Row:3 Cell:2</td><td>Row:3 Cell:3</td><td>Row:3 Cell:4</td><td>Row:3 Cell:5</td></tr>
-    <tr><td>Row:4 Cell:1</td><td>Row:4 Cell:2</td><td>Row:4 Cell:3</td><td>Row:4 Cell:4</td><td>Row:4 Cell:5</td></tr>
-    <tr><td>Row:5 Cell:1</td><td>Row:5 Cell:2</td><td>Row:5 Cell:3</td><td>Row:5 Cell:4</td><td>Row:5 Cell:5</td></tr>
-    <tr><td>Row:6 Cell:1</td><td>Row:6 Cell:2</td><td>Row:6 Cell:3</td><td>Row:6 Cell:4</td><td>Row:6 Cell:5</td></tr>
-  </table>
-</div>
-
-***
-
-## Quotes
-
-#### A quote looks like this:
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>George Bernard Shaw</cite>
-
-***
-
-## Syntax Highlighter
-
-{% highlight css %}
-body {
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: #1c2021;
-}
-
-li {
-  width: 200px;
-  min-height: 250px;
-  border: 1px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  margin: 5px;
-}
-{% endhighlight %}
-
-{% highlight js %}
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-{% endhighlight %}
-
-***
-
-## Images
-
-![Man]({{site.baseurl}}/images/21.jpg#wide)
-*Photo by [Luigi Estuye](https://unsplash.com/photos/HVK4t3leM1I) on [Unsplash](https://unsplash.com/)*
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/02-2.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/16.jpg" loading="lazy">
-    <img src="/images/17-1.jpg" loading="lazy">
-    <img src="/images/19.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-![Man]({{site.baseurl}}/images/01-2.jpg)
-*Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)*
-
-***
-
-## Youtube Embed
-
-<p><iframe src="https://www.youtube.com/embed/NFTstL115nY" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-***
-
-## Vimeo Embed
-
-<p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+* 📹 [Strong Towns YouTube Channel](https://www.youtube.com/@strongtowns/featured) -- Strong Towns Team
+  *  Our mission is to support a model of development that allows America's cities, towns and neighborhoods to become financially strong and resilient. Join Strong Towns!
+* 📹 [Not Just Bikes YouTube Channel](https://www.youtube.com/c/notjustbikes) -- Jason Slaughter
+  *  Stories of great urban planning and urban experiences from the Netherlands and beyond. There are a lot of reasons why Dutch cities are so great; it's not just bikes.
+* 📹 [About Here YouTube Channel](https://www.youtube.com/c/AboutHere) -- Uytae Lee
+  *  Videos that help you understand your city better. Currently based out of Vancouver. 
+* 📹 [Oh The Urbanity!](https://www.youtube.com/c/OhTheUrbanity) -- Jasmine Steffler and Patrick Murphy 
+  *  Oh The Urbanity! traverses cities by foot, bike, and public transit and aims to make concise, informative, and (hopefully) entertaining videos.
+* 📹 [RMTransit](https://www.youtube.com/c/rmtransit) -- Reese Martin 
+  *  Ever wondered why your city's transit just doesn't seem quite up to snuff? RMTransit is here to answer that, and help you open your eyes to all of the different public transportation systems around the world! 
+* 📹 [City Beautiful](https://www.youtube.com/c/CityBeautiful) -- Dave Amos 
+  *  City Beautiful is a YouTube channel dedicated to educating everyone about cities and city planning. Cities are amazing! I cover topics such as transportation, land use planning, and urban design. I post new videos regularly.
+* 📖 [Walkable City](https://www.amazon.ca/Walkable-City-Downtown-Save-America/dp/0865477728) -- Jeff Speck 
+  * Jeff Speck has dedicated his career to determining what makes cities thrive. And he has boiled it down to one key factor: walkability. Making downtown into a walkable, viable community is the essential fix for the typical American city.
+* 📖 [Happy City](https://www.amazon.ca/Happy-City-Transforming-Through-Design/dp/0385669143) -- Charles Montgomery
+  * More of us than ever are moving to inner cities, mixed-use suburbs, and densely constructed towns. Our surroundings have certainly changed--but is city living cheering us up, or are we as gloomy on our walks to the subway as we were on our long predawn commutes? 
+* 📖 [The Sprawl Repair Manual ](https://www.amazon.ca/Sprawl-Repair-Manual-Galina-Tachieva/dp/1597267325) -- Galina Tachieva
+  * The Sprawl Repair Manual demonstrates a step-by-step design process for the re-balancing and re-urbanization of suburbia into more sustainable, economical, energy- and resource-efficient patterns, from the region and the community to the block and the individual building.
 
 ***
