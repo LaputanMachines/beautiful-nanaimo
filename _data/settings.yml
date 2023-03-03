@@ -2,16 +2,16 @@
 # Site Settings
 title: Strong Towns Nanaimo
 logo: # NOTE Add logo to replace the title...
-description: Everyone deserves to live in a beautiful, financially secure city. Period. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
+description: Everyone deserves to live in a beautiful, financially secure city. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
 
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Michael Bassili
-  author__bio: Howdy! I'm Michael, a software developer and passionate urbanist living in Nanaimo on Vancouver Island. I love Nanaimo and I want to help shape it into an equitable, safe, and beautiful city! Join me in building a Strong Town.
-  author__avatar: /images/michael-bassili-profile-pic.jpeg
+  author__name: Strong Towns Nanaimo
+  author__bio: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
+  author__avatar: /images/logo-small.png
 
 
 #-------------------------------
@@ -37,7 +37,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Everyone deserves to live in a beautiful, financially secure city. Period. Decades of auto-oriented development has left its mark on Nanaimo, leading to unpleasant, unsafe, and financially unproductive urban spaces. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
+  hero__title: Everyone deserves to live in a beautiful, financially secure city. Decades of auto-oriented development has left its mark on Nanaimo, leading to unpleasant, unsafe, and financially unproductive urban spaces. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
 
 
 #-------------------------------
