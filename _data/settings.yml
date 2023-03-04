@@ -61,7 +61,7 @@ mailchimp:
   enable: true
   mailchimp__identifier: https://bc2089c3.sibforms.com/serve/MUIEAAOSzKqSStZTACBWK2hNIl9ucHbLHSaGl7WNZJmVN_PdDJhkurSKDCy-OMSXhBltjlYSTXwpczGV37Gh7hQBqjp6NeZXKX10XITizKUnQTPu6zjzXEQFvBFY2t0M9D9ns1CME7K5967yMGjvgd8UVUpsbifrLSMyKAfggTkxrjjbWl8IA0CfvFIi034MwIsxNzj0Gv_gWcAU
   mailchimp__title: Connect With Us
-  mailchimp__description: Subscribe to our newsletter and we'll send you emails of new posts. I promise that we won't spam your inbox 🤞
+  mailchimp__description: Subscribe to our newsletter and we'll send you emails of new posts. We promise we'll never spam your inbox.
   mailchimp__input__text: Your Email Address
   mailchimp__button__text: Connect
   mailchimp__background__image: "/images/nanaimo-photos/nanaimo-harbour-3.jpg"
