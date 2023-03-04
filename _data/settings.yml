@@ -52,7 +52,7 @@ blog:
 tag:
   enable: true
   tag__title: Recommended
-  tag__name: Notes
+  tag__name: Safety
 
 
 #-------------------------------
