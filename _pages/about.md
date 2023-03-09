@@ -37,4 +37,4 @@ Finally, Strong Towns are important because they promote economic vitality. By e
 
 By prioritizing the needs of people over the needs of cars or other infrastructure, Strong Towns are able to create communities that are more inclusive and accessible to everyone, regardless of income or ability. This is especially important in today's increasingly unequal society, where many people are struggling to make ends meet and access essential services.
 
-<!-- *** -->
+***
