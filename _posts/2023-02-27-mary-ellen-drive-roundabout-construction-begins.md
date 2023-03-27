@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Excitement Grows for the Mary Ellen Drive Roundabout as Work Continues
+title: Excitement Grows as Work Continues on the Mary Ellen Drive Roundabout
 description: "The roundabout is already seeing use! Drivers and pedestrians can now safely leave the once-notorious Woodgrove Crossing parking lot."
 date: 2023-03-27
 author: # 
