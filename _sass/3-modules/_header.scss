@@ -15,7 +15,12 @@
       background: transparent;
     }
 
-    .logo__link,
+    .logo__link {
+      color: var(--st-yellow);
+      border-bottom: 2px solid var(--st-yellow);
+      border-top: 2px solid var(--st-yellow);
+    }
+
     .nav-button {
       color: var(--white);
     }
@@ -103,8 +108,8 @@
 
   // Mimic the design of Strong Towns logo
   font-family: 'mixta-sharp', serif !important;
-  border-bottom: 2px solid rgb(217, 217, 217);
-  border-top: 2px solid rgb(217, 217, 217);
+  border-bottom: 2px solid var(--link-color-hover);
+  border-top: 2px solid var(--link-color-hover);
   text-transform: uppercase;
 
   @media (max-width: 460px) {

@@ -6,7 +6,7 @@ date: 2023-03-02
 author: # 
 image: '/images/nanaimo-photos/metral-drive-1.jpg'
 image_caption: 'Pedestrian crosswalk on Metral Drive (03-03-2023)'
-tags: [cars, pedestrians, safety]
+tags: [features, cars, pedestrians, safety]
 featured: true
 ---
 
