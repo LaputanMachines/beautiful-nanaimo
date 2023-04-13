@@ -3,7 +3,7 @@
 
   &.header--dark {
     color: var(--white);
-    background-color: var(--st-blue);
+    background-color: var(--dark-green);
 
     .hamburger div,
     .hamburger div:after,
@@ -97,6 +97,8 @@
   }
 }
 
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
 /* Logo */
 .logo__link {
   padding: 4px 0;
@@ -107,13 +109,14 @@
   transition: color .2s ease;
 
   // Mimic the design of Strong Towns logo
-  font-family: 'mixta-sharp', serif !important;
+  font-family: 'PT Serif', serif !important;
+  font-weight: 700;
   border-bottom: 2px solid var(--link-color-hover);
   border-top: 2px solid var(--link-color-hover);
   text-transform: uppercase;
 
   @media (max-width: 460px) {
-    line-height: 45.5px;
+    line-height: 53px;
   }
 }
 
@@ -346,6 +349,7 @@
     position: absolute;
     align-items: center;
     right: calc(#{$container-offset} + 4px);
+    top: calc(40px);
   }
 }
 

@@ -7,7 +7,7 @@ author: #
 image: '/images/bc-eliminates-single-family-zoning/nanaimo-zoning-map-1.jpg'
 image_caption: 'Nanaimo Zoning Bylaw Map, Yellow Indicating Residential Zoning'
 tags: [news, housing]
-featured: true
+featured: false
 ---
 
 On April 3rd, the Provincial government announced its [Homes for People plan](https://news.gov.bc.ca/files/Homes_For_People.pdf). One of the most critical inclusions is [the elimination of single-family zoning throughout British Columbia](https://www.google.com/url?q=https://news.gov.bc.ca/files/Homes4People.pdf&sa=D&source=docs&ust=1681086132502092&usg=AOvVaw0ZQOzJPOb3dvpx1ncghnEI). Up to four homes will be allowed on a traditional single-family lot across the Province. Legislation is expected to be introduced before the end of the year.

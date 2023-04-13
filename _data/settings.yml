@@ -4,15 +4,12 @@ title: Strong Towns Nanaimo
 logo: # NOTE Add logo to replace the title...
 description: Everyone deserves to live in a beautiful, financially secure city. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
 
-
-
 #-------------------------------
 # Author Global Settings
 author:
   author__name: Strong Towns Nanaimo
   author__bio: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
   author__avatar: /images/logo-small.png
-
 
 #-------------------------------
 # Navigation Settings
@@ -31,12 +28,10 @@ menu__settings:
     - title: 'Contact'
       url: '/contact/'
 
-
 #-------------------------------
 # Hero Settings
 hero:
   hero__title: Everyone deserves to live in a beautiful, financially secure city. Decades of auto-oriented development has left its mark on Nanaimo, leading to unpleasant, unsafe, and financially unproductive urban spaces. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
-
 
 #-------------------------------
 # Blog Settings
@@ -44,14 +39,12 @@ blog:
   blog__title: Features & News
   blog__description: Learn more about the Strong Towns movement in Nanaimo. Articles are written by your neighbours!
 
-
 #-------------------------------
 # Recommended Tag Settings
 tag:
   enable: true
   tag__title: Recommended
   tag__name: Safety
-
 
 #-------------------------------
 # Newsletter Settings
@@ -63,7 +56,6 @@ mailchimp:
   mailchimp__input__text: Your Email Address
   mailchimp__button__text: Connect
   mailchimp__background__image: "/images/nanaimo-photos/nanaimo-harbour-3.jpg"
-
 
 #-------------------------------
 # Footer Settings
@@ -94,19 +86,16 @@ social:
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
 # Other icons can be found at https://ionicons.com/v4/
 
-
 #-------------------------------
 # Contact Settings
 contact:
   email: mleknryo  # Email generated from Formspree
-
 
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
   enable: true
   disqus__identifier: strong-towns-nanaimo
-
 
 #-------------------------------
 # Google Analytics
