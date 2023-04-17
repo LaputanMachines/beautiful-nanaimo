@@ -2,22 +2,13 @@
 .header {
 
   &.header--dark {
-    color: var(--white);
-    background-color: var(--dark-orange);
-
-    .hamburger div,
-    .hamburger div:after,
-    .hamburger div:before {
-      background-color: var(--white);
-    }
-
     .hamburger.is-open div {
       background: transparent;
     }
 
     .logo {
-      border-bottom: 2px solid white;
-      border-top: 2px solid white;
+      border-bottom: 2px solid var(--heading-font-color);
+      border-top: 2px solid var(--heading-font-color);
       
       @media (max-width: 500px) {
         width: min-content;
@@ -26,25 +17,25 @@
     }
 
     .logo__link {
-      color: white;
+      color: var(--heading-font-color);
       border-bottom: none;
       border-top: none;
     }
 
     .nav-button {
-      color: var(--white);
+      color: var(--heading-font-color);
     }
 
     .nav__list {
       .nav__link {
-        color: var(--white);
+        color: var(--heading-font-color);
 
         &.active-link {
-          text-decoration-color: var(--white);
+          text-decoration-color: var(--heading-font-color);
         }
 
         &:hover {
-          text-decoration-color: var(--white);
+          text-decoration-color: var(--heading-font-color);
         }
       }
     }

@@ -1,9 +1,9 @@
 /* Featured Section */
 .featured-section {
-  margin-bottom: 226px;
+  margin-bottom: 186px;
 
   @media (max-width: $desktop) {
-    margin-bottom: 210px;
+    margin-bottom: 186px;
   }
 }
 
@@ -21,7 +21,7 @@
   align-items: center;
   padding-top: 12px;
   margin-bottom: 32px;
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-top: 1px solid var(--border-alt-color);
 }
 
 .featured__title {
@@ -30,7 +30,7 @@
   font-size: 21px;
   line-height: 32px;
   font-weight: normal;
-  color: inherit;
+  color: var(--text-alt-color);
 
   @media (max-width: $tablet) {
     font-size: 20px;
