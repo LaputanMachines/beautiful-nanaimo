@@ -1,11 +1,11 @@
 /* Footer */
 .footer {
-  margin-top: 64px;
+  margin-top: 40px;
   color: var(--white);
   background-color: var(--dark);
 
   @media (max-width: $mobile) {
-    margin-top: 80px;
+    margin-top: 40px;
   }
 }
 
