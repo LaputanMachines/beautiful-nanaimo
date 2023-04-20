@@ -2,7 +2,7 @@
 # Site Settings
 title: Strong Towns Nanaimo
 logo: # NOTE Add logo to replace the title...
-description: Everyone deserves to live in a beautiful, financially secure city. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
+description: Everyone deserves to live in a beautiful, equitable, and financially secure city. Decades of auto-oriented development have left their mark on Nanaimo leading to unpleasant, unsafe, and unproductive urban spaces. Together, we can advocate for a more Beautiful Nanaimo!
 
 #-------------------------------
 # Author Global Settings
@@ -31,7 +31,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Everyone deserves to live in a beautiful, financially secure city. Decades of auto-oriented development has left its mark on Nanaimo, leading to unpleasant, unsafe, and financially unproductive urban spaces. We all have a role in fixing our city. Together, we can transform Nanaimo into a vibrant city!
+  hero__title: Everyone deserves to live in a beautiful, equitable, and financially secure city. Decades of auto-oriented development have left their mark on Nanaimo leading to unpleasant, unsafe, and unproductive urban spaces. Together, we can advocate for a more Beautiful Nanaimo!
 
 #-------------------------------
 # Blog Settings
