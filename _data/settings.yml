@@ -36,8 +36,8 @@ hero:
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Features & News
-  blog__description: Learn more about the Strong Towns movement in Nanaimo. Articles are written by your neighbours!
+  blog__title: Features, Articles & News
+  blog__description: Learn More About Strong Towns Nanaimo
 
 #-------------------------------
 # Recommended Tag Settings
