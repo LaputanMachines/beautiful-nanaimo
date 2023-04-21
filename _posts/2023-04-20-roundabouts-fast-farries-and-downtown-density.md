@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundabouts, New Fast Ferries, and Downtown Density
+title: Roundabouts, Fast Ferries, and Downtown Density
 description: "There are loads of changes coming to Nanaimo! The Mary Ellen roundabout is now complete in the North End. The Hullo fast ferry is slated to launch in June. And, Nanaimo city council approves new low-rises and condos downtown."
 date: 2023-04-20
 author: # 
