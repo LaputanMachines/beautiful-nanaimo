@@ -5,7 +5,7 @@ description: "There are loads of changes coming to Nanaimo! The Mary Ellen round
 date: 2023-04-20
 author: # 
 image: '/images/roundabouts-fast-ferries-and-downtown-density/chapel-street-street-view-1.jpg'
-image_caption: 'Roundabout construction is already underway on Mary Ellen Drive (27-03-2023)'
+image_caption: '3D View of Chapel Street Downtown (Google Street View)'
 tags: [news, transportation, infrastructure]
 featured: false
 ---
