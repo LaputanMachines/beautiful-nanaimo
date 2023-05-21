@@ -97,6 +97,14 @@
       margin: 0 auto 0;
       font-size: 21px;
     }
+
+    p a {
+      border-bottom: 1px solid var(--border-alt-color);
+      
+      &:hover {
+        border-bottom-color: var(--link-color);
+      }
+    }
   }
 
   .author__image {
