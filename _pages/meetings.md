@@ -2,7 +2,7 @@
 layout: page
 title: Meetings
 description: Any meeting minutes, resources, and documents can be found here. We try to meet regularly to exchange ideas, plan events, and advocate for a strong and vibrant Nanaimo.
-permalink: /meetings/
+permalink: /meetings
 image: '/images/nanaimo-photos/nanaimo-seawall-2.jpg'
 ---
 

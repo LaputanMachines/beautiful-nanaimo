@@ -18,15 +18,15 @@ menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Pages'
       submenu:
-      - url: '/meetings/'
+      - url: '/meetings'
         title: 'Meetings'
-      - url: '/library/'
+      - url: '/library'
         title: 'Library'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 #-------------------------------
 # Hero Settings
@@ -66,13 +66,13 @@ footer__menu__settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
     - title: 'Meetings'
-      url: '/meetings/'
+      url: '/meetings'
     - title: 'Library'
-      url: '/library/'
+      url: '/library'
 
 
 # Social Links
