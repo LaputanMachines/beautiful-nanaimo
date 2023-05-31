@@ -14,7 +14,7 @@ In recent years, there has been a notable increase in the popularity of pickup t
 
 > "[For every 1000 pounds a car weighs over a Toyota Corolla, the chance of killing another person increases by 46%](https://www.nber.org/system/files/working_papers/w17170/w17170.pdf)". Pounds That Kill (Anderson and Auffhammer, 2011)
 
-While speed is often the primary concern when discussing road safety, the size and weight of vehicles should not be overlooked. Surprisingly, heavier vehicles have been associated with a higher risk of causing harm in accidents. Research suggests that [for every 1000 pounds a car weighs over a Toyota Corolla, the chance of causing a fatality in an accident increases by 46%](https://www.nber.org/system/files/working_papers/w17170/w17170.pdf). These statistics highlight the need to consider factors beyond just speed when assessing road safety.
+While speed is often the primary concern when discussing road safety, the size and weight of vehicles should not be overlooked. Heavier vehicles have also been associated with a higher risk of causing harm in accidents. Research suggests that [for every 1000 pounds a car weighs over a Toyota Corolla, the chance of causing a fatality in an accident increases by 46%](https://www.nber.org/system/files/working_papers/w17170/w17170.pdf). These statistics highlight the need to consider factors beyond just speed when assessing road safety.
 
 ![Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russel, Senior Civil Technologist)]({{site.baseurl}}/images/large-trucks-are-dangerous/vehicle-viewlines-1.jpg){:loading="lazy"}
 *Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russel, Senior Civil Technologist)*
