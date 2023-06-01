@@ -77,6 +77,7 @@ footer__menu__settings:
 
 # Social Links
 social:
+- {icon: "ion-md-chatbubbles", color: "#5562ea", name: Join Us On Discord, link: "https://discord.gg/ravqzA3r"}
 - {icon: "ion-ios-business", color: "#0a243f", name: Strong Towns Homepage, link: "https://www.strongtowns.org"}
 - {icon: "ion-ios-boat", color: "#00b9f1", name: Nanaimo Official City Plan, link: "https://www.nanaimo.ca/property-development/community-planning-land-use/city-plan"}
 - {icon: "ion-ios-build", color: "#004475", name: Nanaimo City Projects, link: "https://www.nanaimo.ca/your-government/projects"}
