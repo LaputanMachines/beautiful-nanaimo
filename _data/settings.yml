@@ -21,6 +21,8 @@ menu__settings:
       url: '/about'
     - title: 'Pages'
       submenu:
+      - url: '/authors'
+        title: 'Authors'
       - url: '/meetings'
         title: 'Meetings'
       - url: '/library'
@@ -67,6 +69,8 @@ footer__menu__settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Authors'
+      url: '/authors'
     - title: 'Contact'
       url: '/contact'
     - title: 'Meetings'
