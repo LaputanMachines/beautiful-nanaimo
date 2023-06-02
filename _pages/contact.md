@@ -2,7 +2,7 @@
 layout: page
 title: Contact Us
 description: "Want to reach out to the team at Strong Towns Nanaimo? We're always open to chat about the Harbour City.
-Fill out the form below and we'll get back to you ASAP."
+Choose an email below to get started. A member from the Strong Towns Nanaimo team will reply ASAP."
 permalink: /contact
 image: '/images/nanaimo-photos/nanaimo-seawall-1.jpg'
 ---
