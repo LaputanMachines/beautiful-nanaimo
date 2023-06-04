@@ -5,7 +5,7 @@ description: "More Canadians are buying trucks over sedans every year. Let’s l
 date: 2023-05-28
 author: michael
 image: '/images/large-trucks-are-dangerous/vehicle-viewlines-header-1.jpg'
-image_caption: 'Different viewlines for different trucks (2023, Myles Russel, Senior Civil Technologist)'
+image_caption: 'Different viewlines for different trucks (2023, Myles Russell, Civil Engineering Technologist)'
 tags: [features, safety, cars]
 featured: true
 ---
@@ -16,8 +16,8 @@ In recent years, there has been a notable increase in the popularity of pickup t
 
 While speed is often the primary concern when discussing road safety, the size and weight of vehicles should not be overlooked. Heavier vehicles have also been associated with a higher risk of causing harm in accidents. Research suggests that [for every 1000 pounds a car weighs over a Toyota Corolla, the chance of causing a fatality in an accident increases by 46%](https://www.nber.org/system/files/working_papers/w17170/w17170.pdf). These statistics highlight the need to consider factors beyond just speed when assessing road safety.
 
-![Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russel, Senior Civil Technologist)]({{site.baseurl}}/images/large-trucks-are-dangerous/vehicle-viewlines-1.jpg){:loading="lazy"}
-*Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russel, Senior Civil Technologist)*
+![Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russell, Civil Engineering Technologist)]({{site.baseurl}}/images/large-trucks-are-dangerous/vehicle-viewlines-1.jpg){:loading="lazy"}
+*Comparing Viewlines of Various Trucks and Tanks (2023, Myles Russell, Civil Engineering Technologist)*
 
 Trucks are often marketed as "safer" by dealers and automakers, but it is essential to clarify whom they are referring to as safer. The focus is typically on the safety of the driver, rather than the impact on other road users. In two-car crashes, there is a concept known as crash incompatibility, which refers to certain vehicles inflicting more damage on others. As trucks increase in size, the safety of other vehicles on the road diminishes. This phenomenon has also influenced SUV manufacturers, leading to an upward spiral of increasing sizes to match the prevailing norms. Consequently, pedestrians, cyclists, and sedan drivers face significant disadvantages when sharing the road with larger vehicles.
 
