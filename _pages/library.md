@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Library
-description: The following resources can be used to learn more about Strong Towns. There are countless solid books, YouTube content creators, and podcasters who can help you learn about sustainable urban planning. Here are some of our favourites!
+title: Strong Towns Library
+description: The following resources can be used to learn more about Strong Towns. There are countless YouTube creators and podcasters who can help you learn about sustainable urban planning. Here are some of our favourites!
 permalink: /library
-image: '/images/nanaimo-photos/nanaimo-seawall-3.jpg'
+image: #'/images/nanaimo-photos/nanaimo-seawall-3.jpg'
 ---
 
-There are countless facets of urban development and it can feel daunting jumping in head-first. Here are some links that can help guide you. Feel like we missed something? Reach out with your suggestions and we’ll try to add them to the list!
+
 
 ***
 
