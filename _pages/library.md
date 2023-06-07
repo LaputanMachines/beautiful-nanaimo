@@ -20,6 +20,11 @@ There are countless facets of urban development and it can feel daunting jumping
     <a target="_blank" href="https://pca.st/3a9lft8z"><img src="/images/library/whats-the-t.jpg" loading="lazy"></a>
     <a target="_blank" href="https://pca.st/OVMO"><img src="/images/library/invisible-city.jpg" loading="lazy"></a>
     <a target="_blank" href="https://pca.st/99invisible"><img src="/images/library/99pi.jpg" loading="lazy"></a>
+    <a target="_blank" href="https://www.youtube.com/@ClimateTown"><img src="/images/library/climate-town.jpg" loading="lazy"></a>
+    <a target="_blank" href="https://www.youtube.com/@stewarthicks"><img src="/images/library/stewart-hicks.jpg" loading="lazy"></a>
+    <a target="_blank" href="https://www.youtube.com/@AdamSomething"><img src="/images/library/adam-something.jpg" loading="lazy"></a>
+    <a target="_blank" href="https://www.youtube.com/@alanthefisher"><img src="/images/library/alan-fischer.jpg" loading="lazy"></a>
+    <a target="_blank" href="https://www.youtube.com/@CityNerd"><img src="/images/library/city-nerd.jpg" loading="lazy"></a>
   </div>
   <!-- <em>Various Relevant Urbanist YouTubers</em> -->
 </div>
