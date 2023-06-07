@@ -21,6 +21,21 @@
     width: calc(100% - 24px);
   }
 
+  a {
+    border-bottom: none !important;
+    
+    &:hover {
+      transform: translateY(-6px);
+  
+      .article__image {
+        img {
+          transform: translate3d(0px, 0px, 0px) scale3d(1.04, 1.04, 1);
+        }
+      }
+    }
+  }
+
+
   @media only screen and (max-width: $desktop) {
     margin-left: -12px;
     margin-bottom: -12px;
