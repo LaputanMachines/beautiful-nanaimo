@@ -291,6 +291,7 @@
   .js-reframe {
     border-radius: 8px;
     overflow: hidden;
+    max-width: 100%;
 
     &.lightense-open {
       border-radius: 0;
