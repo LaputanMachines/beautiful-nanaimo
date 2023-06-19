@@ -18,7 +18,7 @@ $mq: (
       max-width: $container-base-width;
       padding-left: calc(#{$container-offset} * 2);
       padding-right: calc(#{$container-offset} * 2);
-      margin: 0 auto;
+      margin: 10px auto 0 auto;
 
       @media (max-width: $mobile) {
         padding-left: calc(#{$container-offset} + 4px);
