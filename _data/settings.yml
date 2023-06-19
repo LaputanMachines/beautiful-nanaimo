@@ -19,12 +19,10 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Pages'
-      submenu:
-      - url: '/meetings'
-        title: 'Meetings'
-      - url: '/library'
-        title: 'Library'
+    # - title: 'Pages'
+      # submenu:
+    - url: '/library'
+      title: 'Library'
     - title: 'Contact'
       url: '/contact'
 
@@ -69,8 +67,6 @@ footer__menu__settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
-    - title: 'Meetings'
-      url: '/meetings'
     - title: 'Library'
       url: '/library'
 

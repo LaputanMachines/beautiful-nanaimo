@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Us
+title: About Strong Towns Nanaimo
 description: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. <i>We are a grassroots organization that is not affiliated with the City of Nanaimo.</i> 
 permalink: /about
-image: '/images/nanaimo-photos/nanaimo-harbour-1.jpg'
+image: # '/images/nanaimo-photos/nanaimo-harbour-1.jpg'
 ---
 
 Strong Towns are critical to the sustainable development of cities and towns. They represent a way of thinking about urban planning and development that prioritizes the needs of the community, rather than those of developers or other stakeholders. Strong Towns are characterized by a number of important features, including productive land use, wise infrastructure investment, incremental building, people-focused planning, and bottom-up decision-making. *The Strong Towns movement represents a new way of thinking about urban planning and development that prioritizes the needs of the community, rather than those of developers or other stakeholders*. A Strong Town is characterized by a number of important features, including productive land use, wise infrastructure investment, incremental building, people-focused planning, and bottom-up decision-making.
