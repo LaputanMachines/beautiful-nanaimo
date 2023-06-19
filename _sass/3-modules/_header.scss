@@ -103,10 +103,8 @@
 /* Logo */
 
 .logo {
-  
-  // TODO Commented-out to hide borders on HTML img
-  // border-bottom: 2px solid var(--link-color-hover);
-  // border-top: 2px solid var(--link-color-hover);
+  border-bottom: 2px solid var(--link-color-hover);
+  border-top: 2px solid var(--link-color-hover);
   
   @media (max-width: 500px) {
     width: min-content;
@@ -129,10 +127,6 @@
 
   @media (max-width: $desktop) {
     font-size: 25px;
-  }
-
-  @media (max-width: $mobile) {
-    font-size: 20px;
   }
 }
 
