@@ -3,7 +3,7 @@ layout: post
 title: "Pickup Truck Popularity and Road Safety"
 description: "More Canadians are buying trucks over sedans every year. Let’s look at the numbers to see how “safe” trucks really are on our roads."
 date: 2023-05-28
-author: michael
+author: 
 image: '/images/large-trucks-are-dangerous/vehicle-viewlines-header-1.jpg'
 image_caption: 'Different viewlines for different trucks (2023, Myles Russell, Civil Engineering Technologist)'
 tags: [features, safety, cars]

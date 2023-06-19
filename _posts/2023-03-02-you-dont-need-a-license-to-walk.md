@@ -3,7 +3,7 @@ layout: post
 title: You Don't Need a License to Walk
 description: "We need to rethink how we talk about car accidents involving pedestrians in Nanaimo. Pedestrians are seen as obstacles for drivers who are often driving too fast and are too distracted along roads that are all too wide."
 date: 2023-03-02
-author: michael
+author: 
 image: '/images/nanaimo-photos/metral-drive-1.jpg'
 image_caption: 'Pedestrian crosswalk on Metral Drive (03-03-2023)'
 tags: [features, cars, pedestrians, safety]
