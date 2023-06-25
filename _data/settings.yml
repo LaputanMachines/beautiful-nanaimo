@@ -70,10 +70,10 @@ footer__menu__settings:
       url: '/articles'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
     - title: 'Library'
       url: '/library'
+    - title: 'Contact'
+      url: '/contact'
 
 
 # Social Links
