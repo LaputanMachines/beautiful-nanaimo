@@ -10,7 +10,7 @@ tags: [features, mobility, transportation]
 featured: true
 ---
 
-Nanaimo's recently-adopted City Plan emphasizes the need for our city to move away from car commuting, marking a significant shift as we undo years of suburban sprawl (Nanaimo City Plan, 206). An evident manifestation of this transformation is the impressive introduction of protected cycling infrastructure throughout the town. Prominent examples include the Metral Drive, Front Street, and Albert/Fourth Street bikeways. These projects demonstrate that the City is committed to actively investing in transportation improvements, and the results are truly remarkable.
+Nanaimo's recently-adopted City Plan emphasizes the need for our city to move away from car commuting, marking a significant shift as we undo years of suburban sprawl. An evident manifestation of this transformation is the impressive introduction of protected cycling infrastructure throughout the town. Prominent examples include the Metral Drive, Front Street, and Albert/Fourth Street bikeways. These projects demonstrate that the City is committed to actively investing in transportation improvements, and the results are truly remarkable.
 
 ![Albert/Fourth Complete Streets Proposed Improvements (City of Nanaimo)]({{site.baseurl}}/images/nanaimo-in-motion/albert-street-complete-streets-artistic-rendering.jpg){:loading="lazy"}
 *Albert/Fourth Complete Streets Proposed Improvements (City of Nanaimo)*
