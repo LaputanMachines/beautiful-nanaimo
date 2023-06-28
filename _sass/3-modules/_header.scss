@@ -176,10 +176,11 @@
       width: 100%;
 
       .nav__item {
-        display: block;
-        width: 100%;
         margin: 0;
+        width: 100%;
+        display: block;
         text-align: right;
+        align-self: normal;
 
         &.dropdown {
           .dropdown-toggle {
@@ -231,9 +232,10 @@
   align-items: center;
 
   .nav__item {
-    display: inline-block;
-    margin-right: 36px;
     margin-bottom: 0;
+    align-self: normal;
+    margin-right: 36px;
+    display: inline-block;
 
     &:last-child {
       margin-right: 0;
