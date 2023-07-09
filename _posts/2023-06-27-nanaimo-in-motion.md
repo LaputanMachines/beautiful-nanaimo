@@ -4,8 +4,8 @@ title: "Nanaimo in Motion"
 description: "Exciting new active transportation corridors are sprouting up throughout our town, reflecting a shift in Nanaimoites' mindset regarding transportation. Furthermore, it is evident that city staff are wholeheartedly dedicated to enhancing our streets for the benefit of all residents."
 date: 2023-06-27
 author: 
-image: '/images/nanaimo-in-motion/header.jpg'
-image_caption: "The BC Community Road Safety Toolkit provided the safe pedestrian, cycling, and transit framework for Metral Drive's total overhaul (City of Nanaimo)"
+image: '/images/nanaimo-in-motion/header.png'
+image_caption: "New Protected Bike Infrastructure Along Nelson Street (Strong Towns Nanaimo)"
 tags: [features, mobility, transportation]
 featured: true
 ---
