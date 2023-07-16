@@ -1,0 +1,24 @@
+---
+layout: default
+title: Strong Towns Nanaimo Events
+permalink: /events
+description: "We hold events regularly throughout the year, from presentations on land use to park cleanups around town. Select any event to learn more about it. Have an idea for a community event? Email events@beautifulnanaimo.ca to let us know about it."
+---
+
+<!-- Begin Articles -->
+<section class="articles">
+    <div class="container">
+        <div class="page-head">
+            <h1 class="page__title">{{ page.title | escape }}</h1> 
+            <p class="page__description">{{ page.description | escape }}</p>
+        </div>
+        <div class="row grid">
+            {% for page in site.pages %}
+            {% if page.permalink contains '/events/' %}
+            {% include event.html %}
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</section>  
+<!-- End Articles -->
