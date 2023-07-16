@@ -34,7 +34,6 @@
 .banner {
 
   .banner__inner {
-    padding: 40px;
     overflow: hidden;
     position: relative;
     border-radius: 30px;
@@ -42,9 +41,9 @@
     will-change: transform;
     transform: translate(0);
     transition: transform .2s;
-    padding: 36px 28px 28px 28px;
-    background: var(--image-gradient-color);
+    padding: 26px 18px 18px 18px;
     box-shadow: 0 0 30px rgba(0,0,0,.3);
+    background: var(--image-gradient-color);
     background-color: var(--background-color);
 
     &:hover, &:active {
@@ -71,7 +70,7 @@
     z-index: 1;
 
     .banner__title {
-      font-size: 30px;
+      font-size: 25px;
       font-weight: 700;
       margin-bottom: 0;
       text-align: center;
@@ -79,7 +78,7 @@
     }
   
     .banner__info {
-      font-size: 21px;
+      font-size: 20px;
       margin-top: 12px;
       margin-bottom: 0;
       line-height: 1.5;
