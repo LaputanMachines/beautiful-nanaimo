@@ -12,6 +12,9 @@ description: "We hold events regularly throughout the year, from presentations o
             <h1 class="page__title">{{ page.title | escape }}</h1> 
             <p class="page__description">{{ page.description | escape }}</p>
         </div>
+        <!-- Embedded Cal Using app.styledcalendar.com -->
+        <script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
+        <iframe src="https://embed.styledcalendar.com/#xlMjbysD8KNJ8N3x5dYp" title="Strong Towns Nanaimo Events" class="styled-calendar-container lazy" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
         <div class="row grid">
             {% for page in site.pages %}
             {% if page.permalink contains '/events/' %}
