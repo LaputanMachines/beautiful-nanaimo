@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Narrow Lanes are Safer, Councillor Armstrong "
-description: "Recent comments made by Councillor Sheryll Armstrong highlight common misunderstandings and myths about road safety."
+description: "Recent comments made by Councillor Sheryl Armstrong highlight common misunderstandings and myths about road safety."
 date: 2023-07-20
 author: 
 image: '/images/armstrong-narrow-roads/header.jpg'
@@ -14,7 +14,7 @@ This letter was submitted to the Nanaimo News Bulletin as a direct response to [
 
 ---
 
-Road safety improvements in town are typically opposed by councillor Sheryll Armstrong. Recently, she expressed concern about the narrowing of Extension Road in the South-End of town. Specifically, Armstrong noted that: “[[narrow roads] don’t reduce accidents, they actually increase it … If you look at where most of the fatals were, they’re where the road is narrower](https://www.nanaimobulletin.com/news/traffic-calming-modifications-coming-to-extension-road-in-south-nanaimo/).”
+Road safety improvements in town are typically opposed by councillor Sheryl Armstrong. Recently, she expressed concern about the narrowing of Extension Road in the South-End of town. Specifically, Armstrong noted that: “[[narrow roads] don’t reduce accidents, they actually increase it … If you look at where most of the fatals were, they’re where the road is narrower](https://www.nanaimobulletin.com/news/traffic-calming-modifications-coming-to-extension-road-in-south-nanaimo/).”
 
 This is contrary to BC’s own road safety toolkit, among almost every other publication on road safety published in the last ten years. “Narrower lanes influence drivers’ perception of their margin of error, causing them to slow down.” Moreover, ” Reducing speeds, meanwhile, increases the objective margin of error, while also making crashes less severe
 when they do occur”. ([BC Road Safety Toolkit, 7](https://www2.gov.bc.ca/assets/gov/driving-and-transportation/driving/consequences/vision-zero/resource-kit-community-road-safety-toolkit-module2.pdf)) 
