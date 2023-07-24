@@ -29,3 +29,69 @@
   line-height: 1.4;
   color: var(--text-color);
 }
+
+.styled-calendar-container {
+  border-radius: 20px;
+  margin-bottom: 40px;
+  border: 1px solid var(--border-second-color) !important;
+  box-shadow: 0 0 30px rgba(0,0,0,.3);
+}
+/* Banner */
+.banner {
+
+  .banner__inner {
+    overflow: hidden;
+    position: relative;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    will-change: transform;
+    transform: translate(0);
+    transition: transform .2s;
+    padding: 26px 18px 18px 18px;
+    box-shadow: 0 0 20px rgba(0,0,0,.3);
+    background: var(--image-gradient-color);
+    background-color: var(--background-color);
+
+    &:hover, &:active {
+      cursor: pointer;
+      transform: translateY(-6px);
+      transform: translate3d(0px, 0px, 0px) scale3d(1.04, 1.04, 1);
+    }
+  }
+
+
+  .banner_bg {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(52, 97, 121, 0.75), rgba(20, 58, 78, 0.75)),
+      url("/images/nanaimo-photos/nanaimo-seawall-3.jpg");
+  }
+  
+  .banner_content{
+    position: relative;
+    z-index: 1;
+
+    .banner__title {
+      font-size: 25px;
+      font-weight: 700;
+      margin-bottom: 0;
+      text-align: center;
+      color: var(--white);
+    }
+  
+    .banner__info {
+      font-size: 20px;
+      margin-top: 12px;
+      margin-bottom: 0;
+      line-height: 1.5;
+      font-weight: 500;
+      text-align: center;
+      color: var(--white);
+    }
+  }
+}
