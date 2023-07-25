@@ -6,6 +6,11 @@ layout: default
   <div class="page-head">
 
     <div class="page__info">
+      {% if page.url contains 'event' %}
+      <div class="container-back-button">
+        <a class="ion ion-ios-arrow-round-back" href="/events"> Return to Events</a>
+      </div>
+      {% endif %}
       <h1 class="page__title">{{ page.title | escape }}</h1>
       {% if page.description %}
       <p class="page__description">{{ page.description }}</p>

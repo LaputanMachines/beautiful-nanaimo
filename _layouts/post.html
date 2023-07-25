@@ -7,10 +7,14 @@ endif %}
 <div class="post-head{{videoPost}}">
   <div class="container">
     <div class="row">
-
+      
+      
       <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
         <div class="post__info{{videoInfo}}">
-
+          
+          <div class="container-back-button">
+            <a class="ion ion-ios-arrow-round-back" href="/articles"> Return to Articles</a>
+          </div>
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
