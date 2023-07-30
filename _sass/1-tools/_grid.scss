@@ -20,6 +20,20 @@ $mq: (
       padding-right: calc(#{$container-offset} * 2);
       margin: 10px auto 0 auto;
 
+      .container-back-button a {
+        font-family: "Mulish",Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-size: 16px;
+        line-height: 1;
+        font-weight: 700;
+        margin-bottom: 30px;
+        margin-left: 5px;
+        transition: all .2s;
+
+        &:hover, &:active {
+          margin-left: 8px;
+        }
+      }
+
       @media (max-width: $mobile) {
         padding-left: calc(#{$container-offset} + 4px);
         padding-right: calc(#{$container-offset} + 4px);
