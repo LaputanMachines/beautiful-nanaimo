@@ -190,3 +190,51 @@
   -webkit-box-orient: vertical;
   color: var(--text-second-color);
 }
+
+.google_maps_embed {
+  margin-bottom: 32px;
+}
+
+#sidewalking-victoria-button {
+  font-size: 30px;
+  overflow: hidden;
+  text-align: center;
+  position: relative;
+  margin-bottom: 32px;
+  border-radius: 12px;
+  will-change: transform;
+  transform: translate(0);
+  transition: transform .5s;
+  transition: transform .2s;
+  padding: 26px 18px 18px 18px;
+  background: var(--image-gradient-color);
+  background-color: var(--background-color);
+  box-shadow: 0px 0px 30px rgba(0,0,0,.3);
+
+  &:hover, &:active {
+    cursor: pointer;
+    transform: translateY(-6px);
+    transform: translate3d(0px, 0px, 0px) scale3d(1.04, 1.04, 1);
+  }
+  
+  .banner_bg {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rgba(52, 97, 121, 0.75), rgba(20, 58, 78, 0.75)),url("/images/nanaimos-missing-middle/neighbourhood-townsite.png");
+  }
+
+  a {
+    z-index: 1;
+    position: relative;
+  }
+
+  a, a:hover, a:active  {
+    color: white;
+    border-bottom: none !important;
+  }
+}

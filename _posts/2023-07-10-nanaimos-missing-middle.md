@@ -13,6 +13,11 @@ toc: true
 
 Nanaimo’s best neighbourhoods aren’t homogeneous. They’re diverse, eclectic, varied, and textured. They feature housing of all shapes and sizes. They house young families and aging souls alike. This is a collaborative project with [Sidewalking Victoria](https://www.sidewalkingvictoria.com/) showcasing our city’s diverse housing types.
 
+<div id="sidewalking-victoria-button">
+  <a href="https://www.sidewalkingvictoria.com/blog/2023/7/31/missing-middle-housing-in-victoria-feat-strong-towns-nanaimo">Read Sidewalking Victoria's Article!</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
+
 ## What’s “Missing Middle Housing” Anyways?
 
 Imagine a typical neighbourhood with homes. You might notice that there are large apartment buildings or high-rise condos on one end, and then there are single-family houses with yards on the other end. However, what's often "missing" in many neighbourhoods is the middle ground or the in-between.
@@ -79,9 +84,14 @@ There’s a reason you aren’t seeing more Missing Middle Housing. It’s becau
 ### Eliminate Parking Minimums
 
 There are many nuanced policies and approaches that can be applied especially to each community, but there is one policy that is clearly damaging everywhere it exists: parking minimums. Parking minimums are the number of required parking spaces the city sets to be constructed in order for a business or developer to open their doors or start a project. 
+
 <p><iframe src="https://www.youtube.com/embed/vUhOFUQDLQk" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
-Parking minimums are arbitrary, expensive, do not match Nanaimo's climate goals, and perhaps worst of all, they make it hard for small businesses to build an affordable home or start a small business. Nanaimo should remove or greatly weaken parking minimums. People wanting to build in Nanaimo constantly have to ask the city council for reductions in Parking. This process takes time and money and is another contributing factor to why Missing Middle is ‘Missing.’
+Parking minimums are arbitrary, expensive, do not match Nanaimo's climate goals, and perhaps worst of all, they make it hard for small businesses to build an affordable home or start a small business. Nanaimo should remove or greatly weaken parking minimums. People wanting to build in Nanaimo constantly have to ask the city council for reductions in Parking. 
+
+<p><iframe src="https://www.youtube.com/embed/OUNXFHpUhu8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+This process takes time and money and is another contributing factor to why Missing Middle is ‘Missing.’ Eliminating minimums reduces construction costs for developers, encouraging diverse and innovative land use, ultimately creating more resilient and dynamic cities for residents and visitors alike.
 
 ### Bottom-Up Community Action
 
@@ -147,6 +157,16 @@ Our city is already full of great examples of missing middle housing. A lot of w
 
 Having a larger variety of housing forms in your neighbourhood can bring about numerous benefits that enhance the overall quality of life for residents and contribute to a more vibrant and inclusive community. Different housing forms allow for architectural variety and a harmonious blend of old and new structures. This can help preserve the historic character of the neighbourhood while embracing modern design principles.
 
+### Missing Middle Map
+
+If you jot down where the best and most beautiful missing middle housing stock is, you’ll notice a trend. They’re all in the denser, older core of the city. Harewood, the Hospital, the South End, Downtown, Brechin Hill. All were neighbourhoods established well before cars hit the scene and it shows. Walkable, denser, and more visually interesting than neighbourhoods built after WWII. This is not an exhaustive list.
+
+<div class="google_maps_embed">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tjNIpwYNDYYl3qP-soZC7260LuRC_3A&ehbc=2E312F"></iframe>
+</div>
+
+The dots in North Nanaimo are mostly along busy, loud arterial corridors. Somewhere along the way, we decided that the loudest, most dangerous streets in town need to host our apartments and townhomes resulting in sparse single-family detached homes being “shielded” from the sounds and smells of roads by apartments.
+
 ## Nanaimo Neighbourhood Gallery
 
 Individual homes make up the diverse tapestry of a neighbourhood. No single housing form is better than any other; our ugliest urban spaces are those forced to look the same. Homogeneous spaces are unpleasant and inequitable. Our oldest neighbourhoods do this best, interweaving a diverse number of housing forms to create an inclusive, affordable, and exciting urban space. You can click/tap on any image to enlarge it.
@@ -168,4 +188,7 @@ Individual homes make up the diverse tapestry of a neighbourhood. No single hous
 
 Diverse housing forms within walkable neighbourhoods make it more convenient for residents to use public transportation. This reduces car dependency and traffic congestion, contributing to a more sustainable and environmentally friendly community.
 
-***
+<div id="sidewalking-victoria-button">
+  <a href="https://www.sidewalkingvictoria.com/blog/2023/7/31/missing-middle-housing-in-victoria-feat-strong-towns-nanaimo">Read Sidewalking Victoria's Article!</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
