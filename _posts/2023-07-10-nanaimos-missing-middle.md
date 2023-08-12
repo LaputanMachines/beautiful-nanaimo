@@ -162,7 +162,7 @@ Having a larger variety of housing forms in your neighbourhood can bring about n
 If you jot down where the best and most beautiful missing middle housing stock is, you’ll notice a trend. They’re all in the denser, older core of the city. Harewood, the Hospital, the South End, Downtown, Brechin Hill. All were neighbourhoods established well before cars hit the scene and it shows. Walkable, denser, and more visually interesting than neighbourhoods built after WWII. This is not an exhaustive list.
 
 <div class="google_maps_embed">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tjNIpwYNDYYl3qP-soZC7260LuRC_3A&ehbc=2E312F"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1tjNIpwYNDYYl3qP-soZC7260LuRC_3A&ehbc=2E312F" height="400px"></iframe>
 </div>
 
 The dots in North Nanaimo are mostly along busy, loud arterial corridors. Somewhere along the way, we decided that the loudest, most dangerous streets in town need to host our apartments and townhomes resulting in sparse single-family detached homes being “shielded” from the sounds and smells of roads by apartments.
@@ -192,3 +192,14 @@ Diverse housing forms within walkable neighbourhoods make it more convenient for
   <a href="https://www.sidewalkingvictoria.com/blog/2023/7/31/missing-middle-housing-in-victoria-feat-strong-towns-nanaimo">Read Sidewalking Victoria's Article!</a>
   <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
 </div>
+
+***
+
+CBC’s Kathryn Marlow reached out to speak with Strong Towns Nanaimo on missing middle housing. Click the link below to listen to the full interview.
+It was great to talk about Nanaimo’s missing-middle problem with Kathryn,
+
+<div id="sidewalking-victoria-button">
+  <a href="https://www.cbc.ca/listen/live-radio/1-48-on-the-island/clip/16001148-missing-middle-housing-nanaimo.">Listen to Us on CBC's "On The Island"</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
+
