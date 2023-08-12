@@ -305,6 +305,11 @@
     border-radius: 8px;
     overflow: hidden;
     max-width: 100%;
+    transition: transform var(--lightense-duration) var(--lightense-timing-func);
+
+    &:hover, &active {
+      transform: translate3d(0px, 0px, 0px) scale3d(1.04, 1.04, 1);
+    }
 
     &.lightense-open {
       border-radius: 0;
