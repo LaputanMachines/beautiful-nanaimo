@@ -23,4 +23,9 @@ We're available for interviews and speaking engagements too. Email [**press@beau
 Have a question about Strong Towns Nanaimo? We're happy to answer any of your questions! 
 Email [**contact@beautifulnanaimo.ca**](mailto:contact@beautifulnanaimo.ca) with your questions and a member of the Strong Towns Nanaimo team will respond.
 
+## Event Suggestions
+
+Planning a local community event? 
+Email [**events@beautifulnanaimo.ca**](mailto:events@beautifulnanaimo.ca ) with your event and a member of the Strong Towns Nanaimo team will add it to the calendar.
+
 ***

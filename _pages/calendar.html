@@ -1,0 +1,25 @@
+---
+layout: default
+title: Strong Towns Nanaimo Subscribable Calendar
+permalink: /calendar
+description: "All our events will show up in this calendar. You can subscribe to this calendar so that it can appear on your personal calendar app too. Have an idea for a community event? Email events@beautifulnanaimo.ca to let us know about it."
+---
+
+<!-- Begin Articles -->
+<section class="articles">
+    <div class="container">
+        <div class="page-head">
+            <h1 class="page__title">{{ page.title | escape }}</h1> 
+            <p class="page__description">{{ page.description | escape }}</p>
+            <div id="sidewalking-victoria-button">
+                <a href="/events">Visit the Events Page</a>
+                <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+            </div>
+        </div>
+        <br>
+        <!-- Embedded Cal Using app.styledcalendar.com -->
+        <script async type="module" src="https://embed.styledcalendar.com/assets/parent-window.js"></script>
+        <iframe src="https://embed.styledcalendar.com/#xlMjbysD8KNJ8N3x5dYp" title="Strong Towns Nanaimo Events" class="styled-calendar-container lazy" style="width: 100%; border: none;" data-cy="calendar-embed-iframe"></iframe>
+    </div>
+</section>  
+<!-- End Articles -->

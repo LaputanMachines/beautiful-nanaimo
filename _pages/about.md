@@ -14,8 +14,6 @@ Another key feature of Strong Towns is wise infrastructure investment. This mean
 
 The best thing we can do for the safety of our children is to get them out of the car by building mixed-use, walkable neighborhoods. The safest trip is the one not taken. (Charles L. Marohn Jr., Thoughts on Building Strong Towns) Strong Towns are important because they promote economic vitality. By encouraging productive land use, supporting local businesses, and creating vibrant, walkable neighborhoods, Strong Towns are able to attract investment and support economic growth. This is critical for the long-term prosperity of communities, as well as for the well-being of individual residents.
 
-<p><iframe width="560" height="315" modestbranding="1" src="https://www.youtube.com/embed/fcCu40q0k6U?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" loading="lazy" allowfullscreen></iframe></p>
-
 By prioritizing the needs of people over the needs of cars or other infrastructure, Strong Towns are able to create communities that are more inclusive and accessible to everyone, *regardless of income or ability*. This is especially important in today's increasingly unequal society, where many people are struggling to make ends meet and access essential services.
 
 ***

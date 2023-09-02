@@ -24,6 +24,8 @@ menu__settings:
       url: '/about'
     - title: 'More'
       submenu:
+      - url: '/calendar'
+        title: 'Calendar'
       - url: '/events'
         title: 'Events'
       - url: '/library'
@@ -72,6 +74,8 @@ footer__menu__settings:
       url: '/articles'
     - title: 'About'
       url: '/about'
+    - title: 'Calendar'
+      url: '/calendar'
     - title: 'Events'
       url: '/events'
     - title: 'Library'
