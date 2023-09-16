@@ -11,6 +11,8 @@ featured: true
 toc: true
 ---
 
+{% toc %}
+
 Nanaimo’s best neighbourhoods aren’t homogeneous. They’re diverse, eclectic, varied, and textured. They feature housing of all shapes and sizes. They house young families and aging souls alike. This is a collaborative project with [Sidewalking Victoria](https://www.sidewalkingvictoria.com/) showcasing our city’s diverse housing types.
 
 <div id="sidewalking-victoria-button">
