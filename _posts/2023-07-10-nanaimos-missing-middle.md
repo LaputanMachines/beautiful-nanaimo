@@ -10,30 +10,31 @@ tags: [features, housing, gallery]
 featured: true
 ---
 
+<!-- TOC - Manually Added -->
 <ul id="toc" class="section-nav">
-<li class="toc-entry toc-h2"><a href="#whats-missing-middle-housing-anyways">What’s “Missing Middle Housing” Anyways?</a></li>
-<li class="toc-entry toc-h2"><a href="#why-we-should-build-more-missing-middle-housing">Why We Should Build More Missing Middle Housing</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#increasing-overall-housing-supply">Increasing Overall Housing Supply</a></li>
-<li class="toc-entry toc-h3"><a href="#improving-housing-affordability-for-all">Improving Housing Affordability for All</a></li>
-<li class="toc-entry toc-h3"><a href="#offering-housing-diversity">Offering Housing Diversity</a></li>
-<li class="toc-entry toc-h3"><a href="#improving-walkability-in-neighbourhoods">Improving Walkability in Neighbourhoods</a></li>
-<li class="toc-entry toc-h3"><a href="#leveraging-existing-infrastructure-reduce-urban-sprawl">Leveraging Existing Infrastructure, Reduce Urban Sprawl</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#how-nanaimo-can-build-more-missing-middle-housing">How Nanaimo Can Build More Missing Middle Housing</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#amend-nanaimos-zoning-codes">Amend Nanaimo’s Zoning Codes</a></li>
-<li class="toc-entry toc-h3"><a href="#eliminate-parking-minimums">Eliminate Parking Minimums</a></li>
-<li class="toc-entry toc-h3"><a href="#bottom-up-community-action">Bottom-Up Community Action</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#nanaimos-missing-middle-gallery">Nanaimo’s Missing Middle Gallery</a>
-<ul>
-<li class="toc-entry toc-h3"><a href="#missing-middle-map">Missing Middle Map</a></li>
-</ul>
-</li>
-<li class="toc-entry toc-h2"><a href="#nanaimo-neighbourhood-gallery">Nanaimo Neighbourhood Gallery</a></li>
+  <li class="toc-entry toc-h2"><a href="#whats-missing-middle-housing-anyways">What’s “Missing Middle Housing” Anyways?</a></li>
+  <li class="toc-entry toc-h2"><a href="#why-we-should-build-more-missing-middle-housing">Why We Should Build More Missing Middle Housing</a>
+  <ul>
+    <li class="toc-entry toc-h3"><a href="#increasing-overall-housing-supply">Increasing Overall Housing Supply</a></li>
+    <li class="toc-entry toc-h3"><a href="#improving-housing-affordability-for-all">Improving Housing Affordability for All</a></li>
+    <li class="toc-entry toc-h3"><a href="#offering-housing-diversity">Offering Housing Diversity</a></li>
+    <li class="toc-entry toc-h3"><a href="#improving-walkability-in-neighbourhoods">Improving Walkability in Neighbourhoods</a></li>
+    <li class="toc-entry toc-h3"><a href="#leveraging-existing-infrastructure-reduce-urban-sprawl">Leveraging Existing Infrastructure, Reduce Urban Sprawl</a></li>
+  </ul>
+  </li>
+  <li class="toc-entry toc-h2"><a href="#how-nanaimo-can-build-more-missing-middle-housing">How Nanaimo Can Build More Missing Middle Housing</a>
+  <ul>
+    <li class="toc-entry toc-h3"><a href="#amend-nanaimos-zoning-codes">Amend Nanaimo’s Zoning Codes</a></li>
+    <li class="toc-entry toc-h3"><a href="#eliminate-parking-minimums">Eliminate Parking Minimums</a></li>
+    <li class="toc-entry toc-h3"><a href="#bottom-up-community-action">Bottom-Up Community Action</a></li>
+  </ul>
+  </li>
+  <li class="toc-entry toc-h2"><a href="#nanaimos-missing-middle-gallery">Nanaimo’s Missing Middle Gallery</a>
+  <ul>
+    <li class="toc-entry toc-h3"><a href="#missing-middle-map">Missing Middle Map</a></li>
+  </ul>
+  </li>
+  <li class="toc-entry toc-h2"><a href="#nanaimo-neighbourhood-gallery">Nanaimo Neighbourhood Gallery</a></li>
 </ul>
 
 Nanaimo’s best neighbourhoods aren’t homogeneous. They’re diverse, eclectic, varied, and textured. They feature housing of all shapes and sizes. They house young families and aging souls alike. This is a collaborative project with [Sidewalking Victoria](https://www.sidewalkingvictoria.com/) showcasing our city’s diverse housing types.
