@@ -24,8 +24,6 @@ menu__settings:
       url: '/about'
     - title: 'More'
       submenu:
-      - url: '/calendar'
-        title: 'Calendar'
       - url: '/events'
         title: 'Events'
       - url: '/library'
@@ -43,6 +41,12 @@ hero:
 blog:
   blog__title: Features, Articles & News
   blog__description: Learn More About Strong Towns Nanaimo
+
+#
+# Calendar Settings
+calendar:
+  calendar__title: Strong Towns Nanaimo Events Calendar
+  calendar__description: Join Us for Meetups, Park-Cleanups, and More
 
 #-------------------------------
 # Recommended Tag Settings
@@ -74,8 +78,6 @@ footer__menu__settings:
       url: '/articles'
     - title: 'About'
       url: '/about'
-    - title: 'Calendar'
-      url: '/calendar'
     - title: 'Events'
       url: '/events'
     - title: 'Library'
