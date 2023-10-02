@@ -3,7 +3,6 @@ layout: post
 title: "Narrow Lanes are Safer, Councillor Armstrong "
 description: "Recent comments made by Councillor Sheryl Armstrong highlight common misunderstandings and myths about road safety. "
 date: 2023-07-20
-author: 
 image: '/images/armstrong-narrow-roads/header.jpeg'
 image_caption: "Artists rendering of the Complete Streets project. (City of Nanaimo)"
 tags: [opinion, safety, roads]
