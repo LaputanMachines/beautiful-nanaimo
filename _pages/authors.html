@@ -1,0 +1,34 @@
+---
+layout: default
+title: Strong Towns Nanaimo Authors
+permalink: /authors
+description: "Strong Towns Nanaimo is made up of professionals and passionate citizens alike. We're a diverse group of activists who believe that Nanaimo should be built for people, not cars. You can learn more about our authors here. Click on an author's picture to see what they've written!"
+---
+
+<!-- Begin Authors -->
+<section class="authors">
+  <div class="container">
+      <div class="page-head">
+          <h1 class="page__title">{{ page.title | escape }}</h1> 
+          <p class="page__description">{{ page.description | escape }}</p>
+      </div>
+      <div class="authors__inner animate">
+        <div class="container">
+          <div class="row">
+            {% for author in site.authors %}
+            {% assign post_count = site.posts | where:"author", author.username %}
+            <div class="col col-4 col-d-6 col-t-12">
+              <div class="authors__info">
+                <a class="authors__image" href="{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a>
+                <h2 class="authors__name"><a class="authors__link" href="{{ author.url }}">{{ author.name }}</a></h2>
+                <p class="authors__email">{{ author.email }}</p>
+                <p class="authors__description">{{ author.quote }}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+  </div>
+</section>  
+<!-- End Authors -->

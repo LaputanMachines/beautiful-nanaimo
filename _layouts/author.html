@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /authors
 ---
 
 <!-- begin author -->
@@ -12,7 +13,6 @@ layout: default
       <div class="author__image"><img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}"></div>
       <h1 class="author__name">{{ page.name }}</h1>
       {% if post_count.size >= 1 %}
-      <div class="author__posts__count">Written {{ post_count.size }} {% if post_count.size < 2 %}Post{% else %}Posts{% endif %}</div>
       {% endif %}
       <div class="author__info">
         {% if page.location %}
@@ -32,13 +32,11 @@ layout: default
         {% endif %}
         {% if page.email %}
         <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="Email link"><i
-            class="ion ion-ios-mail"></i></a>
+            class="ion ion-ios-mail"></i><p>{{ page.email }}</p></a>
         {% endif %}
       </div>
       {{ content }}
-
       </div>
-
     </div>
 
     <div class="container animate">
@@ -48,6 +46,6 @@ layout: default
         {% endfor %}
       </div>
     </div>
-
+    <hr>
 </section>
 <!-- end author -->

@@ -88,6 +88,8 @@
 
 // Author Page
 .author {
+  margin-top: 4em;
+
   .author__content {
     margin: 20px 0 60px;
     text-align: center;
@@ -158,6 +160,14 @@
       border-radius: 60px;
       color: var(--link-color);
       background-color: var(--light-gray);
+
+      p {
+        display: inline;
+        font-size: .9em;
+        margin-left: 1em;
+        vertical-align: top;
+        font-family: "Mulish",Helvetica Neue,Helvetica,Arial,sans-serif;
+      }
 
       &:last-child {
         margin-right: 0;
