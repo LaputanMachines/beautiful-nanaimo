@@ -3,7 +3,7 @@ layout: post
 title: BC Eliminates SF Zoning
 description: "Upzoning all of British Columbia will help increase housing diversity, improve housing affordability, and enhance walkability in our cities while preserving neighbourhood character."
 date: 2023-04-09
-author: michael-bassili
+author: strong-towns-nanaimo
 image: '/images/bc-eliminates-single-family-zoning/nanaimo-zoning-map-1.jpg'
 image_caption: 'Nanaimo Zoning Bylaw Map, Yellow Indicating Residential Zoning'
 tags: [news, housing]
