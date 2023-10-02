@@ -2,7 +2,7 @@
 layout: post
 title: "Nanaimo's Increasing Housing Options"
 description: "Nanaimo plans to amend its zoning bylaws to allow more “missing middle” housing. Fill out the survey and have your say! Survey ends on September 29th, 2023. The survey contains a section for each of the four proposed initiatives and will take approximately 5 to 15 minutes to complete, depending on which initiatives you would like to provide feedback on."
-date: 2023-07-30
+date: 2023-09-15
 author: 
 image: '/images/increasing-housing-options/header.jpg'
 image_caption: "Citizens Exploring Nanaimo's New Housing Plan at the Beban Park Open House on September 12th, 2023. (Strong Towns Nanaimo)"
