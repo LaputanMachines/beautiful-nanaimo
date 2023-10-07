@@ -3,7 +3,7 @@
 title: Strong Towns Nanaimo - People, Not Cars
 header_title: Strong Towns Nanaimo
 logo: # /images/logo-header.png
-description: Everyone deserves to live in a beautiful, equitable, and financially secure city. Decades of auto-oriented development have left their mark on Nanaimo leading to unpleasant, unsafe, and unproductive urban spaces. Together, we can advocate for a city meant for people, not cars.
+description: Everyone deserves to live in a affordable, equitable, and financially secure city. Decades of auto-oriented, sprawling development have left their mark on Nanaimo, leading to expensive housing, unproductive urban spaces, and unsafe streets. Together, we can advocate for a city built for people, not cars.
 
 #-------------------------------
 # Author Global Settings
@@ -36,7 +36,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Everyone deserves to live in a beautiful, equitable, and financially secure city. Decades of auto-oriented development have left their mark on Nanaimo leading to unpleasant, unsafe, and unproductive urban spaces. Together, we can advocate for a city meant for <i>people, not cars</i>.
+  hero__title: Everyone deserves to live in a affordable, equitable, and financially secure city. Decades of auto-oriented, sprawling development have left their mark on Nanaimo, leading to <i>expensive housing, unproductive urban spaces, and unsafe streets</i>. Together, we can advocate for a city built for <i>people, not cars</i>.
 
 #-------------------------------
 # Blog Settings

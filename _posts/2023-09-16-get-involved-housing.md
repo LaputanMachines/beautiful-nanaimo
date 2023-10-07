@@ -96,9 +96,16 @@ The city can do more (and likely will). As noted at the beginning, the BC govern
 
 ## Get Involved, Reader!
 
+
 If you like these ideas and want to learn more, or if you want to provide feedback, submit the city’s Housing Options survey! _The survey is open until September 29th, 2023._ If you’ve followed Strong Towns Nanaimo for a while, you’ll know we are all about creating a more welcoming, affordable, and equitable city. We’re optimistic about the direction Nanaimo is heading, and with our community members’ input on projects such as these, we can continue to support Nanaimo as it becomes a genuine Strong Town. 
 
 <div id="sidewalking-victoria-button">
   <a href="https://www.getinvolvednanaimo.ca/housing-initiatives/survey_tools/survey-2">Take the Housing Options Survey!</a>
   <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
 </div>
+
+CBC spoke with us about the new provincial housing targets for municipalities. We expressed our enthusiasm towards these housing targets and Nanaimo's new housing plan while commenting on its lack of ambition and explicit penalties for municipalities that defy the provincial mandate.
+
+<p><iframe src="https://www.youtube.com/embed/WfBklBrYS_c?si=CL0A7nxb5A6qhDCZ" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+Strong Towns Nanaimo will continue to advocate for affordable housing and the elimination of bureaucratic barriers to building housing in Nanaimo. 
