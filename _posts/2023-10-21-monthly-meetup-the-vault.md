@@ -10,6 +10,7 @@ image: '/images/discord/vault.png'
 published: true
 type: event
 hidden: true
+author: strong-towns-nanaimo
 ---
 
 Come and grab a drink with other Strong Towns Nanaimo members. We'll discuss our upcoming delegation presentation to Mayor and Council on November 6th. Last meeting, we talked about our high-level goals and ambitions as a group, as well as outlined some short and long-term goals. We've begin working on our presentation (see: Discord).
