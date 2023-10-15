@@ -14,8 +14,8 @@ description: "We hold events regularly throughout the year, from presentations o
         </div>
         <br>
         <div class="row grid">
-            {% for page in site.pages %}
-            {% if page.permalink contains '/events/' %}
+            {% for post in site.posts %}
+            {% if post.type contains 'event' %}
             {% include event.html %}
             {% endif %}
             {% endfor %}

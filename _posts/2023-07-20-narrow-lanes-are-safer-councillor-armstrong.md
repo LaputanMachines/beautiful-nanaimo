@@ -8,6 +8,7 @@ image: '/images/armstrong-narrow-roads/header.jpeg'
 image_caption: "Artists rendering of the Complete Streets project. (City of Nanaimo)"
 tags: [opinion, safety, roads]
 featured: false
+type: post
 ---
 
 This letter was submitted to the Nanaimo News Bulletin as a direct response to [their article covering the Extension Road traffic calming project](https://www.nanaimobulletin.com/news/traffic-calming-modifications-coming-to-extension-road-in-south-nanaimo/). Strong Towns mean safe streets for all, including drivers and pedestrians. Traffic calming Extension Road will improve the safety of everyone who lives and commutes through the Cinnabar Valley.

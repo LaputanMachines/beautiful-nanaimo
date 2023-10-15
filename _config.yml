@@ -56,3 +56,5 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed
+
+future: true

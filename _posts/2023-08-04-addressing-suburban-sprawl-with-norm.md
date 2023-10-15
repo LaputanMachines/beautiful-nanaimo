@@ -2,10 +2,14 @@
 layout: page
 title: "Strong Towns Nanaimo Presents: Addressing Suburban Sprawl in Nanaimo with Norm"
 description: "Friday, August 4th at 6:30 pm at Maffeo Sutton Park. Come learn about the consequences of suburban sprawl in our community."
-permalink: /events/2023-08-04
+permalink: /events/2023-08-04-addressing-suburban-sprawl-with-norm
 event_datetime: "2023-08-04 6:30pm"
+date: 2023-08-04
 event_location: "Maffeo Sutton Park"
 image: '/images/events/2023-08-04/norm.jpg'
+type: event
+published: true
+hidden: true
 ---
 
 [Norm from Strong Towns](https://www.strongtowns.org/contributors-journal/2022/7/26/norm-van-eeden-petersman) will be in Nanaimo giving a presentation on addressing the consequences of suburban sprawl in our community. He's a seasoned presenter for Strong Towns; Norm has given countless talks all over BC. Afterwards, we'll go for drinks at White Sails downtown. He's the Director of Membership and Development at Strong Towns and a Member Advocate. Norm's passionate about the work that Strong Towns members do around the world, and he's a skilled communicator and community builder. Norm has published articles on housing, transportation, faith, and culture and his writing appears regularly on the Strong Towns site. You can connect with him on Twitter at [@normvep](https://twitter.com/normvep) or on [LinkedIn](https://www.linkedin.com/in/normvep/). You can [read more about Norm on the Strong Towns website](https://www.strongtowns.org/contributors-journal/2022/7/26/norm-van-eeden-petersman).
