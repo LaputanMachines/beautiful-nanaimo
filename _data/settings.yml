@@ -22,16 +22,39 @@ menu__settings:
       url: '/articles'
     - title: 'About'
       url: '/about'
-    # - title: 'Members'
-    #   url: '/members'
-    - title: 'More'
-      submenu:
-      - url: '/events'
-        title: 'Events'
-      - url: '/library'
-        title: 'Library'
+    - url: '/events'
+      title: 'Events'
     - title: 'Contact'
       url: '/contact'
+    - title: 'More'
+      submenu:
+      - url: '/library'
+        title: 'Library'
+      - url: '/partners'
+        title: 'Partners'
+      # - url: '/members'
+      #   title: 'Members'
+
+#-------------------------------
+# Footer Navigation
+footer__menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Articles'
+      url: '/articles'
+    - title: 'About'
+      url: '/about'
+    - title: 'Events'
+      url: '/events'
+    - title: 'Contact'
+      url: '/contact'
+    - title: 'Library'
+      url: '/library'
+    - title: 'Partners'
+      url: '/partners'
+    # - title: 'Members'
+    #   url: '/members'
 
 #-------------------------------
 # Hero Settings
@@ -67,28 +90,6 @@ mailchimp:
   mailchimp__input__text: Your Email Address
   mailchimp__button__text: Connect
   mailchimp__background__image: "/images/nanaimo-photos/nanaimo-harbour-3.jpg"
-
-#-------------------------------
-# Footer Settings
-
-# Footer Navigation
-footer__menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Articles'
-      url: '/articles'
-    - title: 'About'
-      url: '/about'
-    # - title: 'Members'
-    #   url: '/members'
-    - title: 'Events'
-      url: '/events'
-    - title: 'Library'
-      url: '/library'
-    - title: 'Contact'
-      url: '/contact'
-
 
 # Social Links
 social:

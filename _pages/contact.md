@@ -11,21 +11,10 @@ We're always ready to chat about Nanaimo and the Strong Towns movement.
 You can find our contact information below. 
 The Strong Towns Nanaimo team will reply to all inquiries as soon as possible. 
 
-***
+- **Press Inquiries**: [press@beautifulnanaimo.ca](mailto:press@beautifulnanaimo.ca) for interviews, etc
+- **General Inquiries**: [contact@beautifulnanaimo.ca](mailto:contact@beautifulnanaimo.ca) for everything else
 
-## Press Inquiries
-
-Strong Towns Nanaimo is always happy to talk to the press about urbanism, the Strong Towns movement, and the Harbour City. 
-We're available for interviews and speaking engagements too. Email [**press@beautifulnanaimo.ca**](mailto:press@beautifulnanaimo.ca) to get started!
-
-## General Inquiries
-
-Have a question about Strong Towns Nanaimo? We're happy to answer any of your questions! 
-Email [**contact@beautifulnanaimo.ca**](mailto:contact@beautifulnanaimo.ca) with your questions and a member of the Strong Towns Nanaimo team will respond.
-
-## Event Suggestions
-
-Planning a local community event? 
-Email [**events@beautifulnanaimo.ca**](mailto:events@beautifulnanaimo.ca ) with your event and a member of the Strong Towns Nanaimo team will add it to the calendar.
+Want to partner with us? Have an idea for a relevant event in Nanaimo? Want to complain about wide roads and transit deserts? 
+You can always always contact [admin@beautifulnanaimo.ca](mailto:admin@beautifulnanaimo.ca) too. 
 
 ***
