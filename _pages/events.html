@@ -12,7 +12,6 @@ description: "We hold events regularly throughout the year, from presentations o
             <h1 class="page__title">{{ page.title | escape }}</h1> 
             <p class="page__description">{{ page.description | escape }}</p>
         </div>
-        <br>
         <div class="row grid">
             {% for post in site.posts %}
             {% if post.type contains 'event' %}
