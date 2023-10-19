@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "October 2023 Monthly Meetup: The Vault Cafe Downtown"
-description: "Saturday, October 21st at 2:00 pm at The Vault Cafe downtown. We'll be talking about our delegation presentation to council." 
+description: "Saturday, October 21st at 1:00 pm at The Vault Cafe downtown. We'll be talking about our delegation presentation to council." 
 permalink: /events/2023-10-21-monthly-meetup-the-vault
-event_datetime: "2023-10-21 2:00pm"
+event_datetime: "2023-10-21 1:00pm"
 date: 2023-10-21
 event_location: "The Vault Cafe"
 image: '/images/discord/vault.png'
@@ -15,8 +15,8 @@ author: strong-towns-nanaimo
 
 Come and grab a drink with other Strong Towns Nanaimo members. We'll discuss our upcoming delegation presentation to Mayor and Council on November 6th. Last meeting, we talked about our high-level goals and ambitions as a group, as well as outlined some short and long-term goals. We've begin working on our presentation (see: Discord).
 
-- 2:00 pm: Meet at the Vault Cafe Downtown
-- 4:00 pm: End of scheduled monthly meeting
+- 1:00 pm: Meet at the Vault Cafe Downtown
+- 3:00 pm: End of scheduled monthly meeting
 
 _We have reserved the long table at the front of the cafe. Look for the Strong Towns Nanaimo signs._ Tell your friends and family! We hope to see you all there!
 
