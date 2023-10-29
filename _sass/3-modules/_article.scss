@@ -11,7 +11,22 @@
       img {
         transform: translate3d(0px, 0px, 0px) scale3d(1.04, 1.04, 1);
       }
+      
+
     }
+  }
+}
+
+// Handle when events are done;
+// Slightly dim the event image
+// to visually signify that the
+// event was done in the past
+.event_done {
+  opacity: .5 !important;
+  transition: transform .5s;
+
+  &:hover, &:active {
+    opacity: 1 !important;
   }
 }
 

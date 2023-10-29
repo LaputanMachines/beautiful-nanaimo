@@ -4,7 +4,7 @@ title: "Prox[City] Film Festival – How Close Are We?"
 description: "Friday, November 3rd from 6:00 - 9:00 pm at VIU in Building 356 and Room 109. The festival's vision for 2023 is to educate and inspire people to promote sustainable cities by showcasing the possibilities of walkable, accessible, and car-free urban centres." 
 permalink: /events/2023-11-03-prox-city-film-festival
 event_datetime: "2023-11-03 6:00 - 9:00pm"
-date: 2023-10-21
+date: 2023-11-03
 event_location: "VIU B356 R109"
 image: '/images/events/2023-11-03-prox-city-film-festival.png'
 published: true

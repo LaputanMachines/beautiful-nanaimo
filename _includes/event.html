@@ -12,8 +12,10 @@
       </div>
   
       <a class="article__image" href="{{post.url | prepend: site.baseurl}}">
+        {% assign current_date = 'now' | date: '%s' %}
+        {% assign event_date = post.date | date: '%s' %}
         {% if post.image %}
-          <img class="lazy" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
+          <img class="lazy {% if event_date < current_date  %}event_done{% endif %}" data-src="{{site.baseurl}}{{post.image}}" alt="{{post.title}}">
         {% endif %}
       </a>
 
