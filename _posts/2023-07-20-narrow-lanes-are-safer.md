@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Narrow Lanes are Safer. Period."
+title: "Narrow Lanes are Safer"
 description: "Recent comments made by a Councillor highlights common misunderstandings and myths about road safety. "
 date: 2023-07-20
 author: strong-towns-nanaimo
 image: '/images/armstrong-narrow-roads/header.jpeg'
 image_caption: "Artists rendering of the Complete Streets project. (City of Nanaimo)"
-tags: [opinion, safety, roads]
+tags: [letters, safety, roads]
 featured: false
 type: post
 ---
