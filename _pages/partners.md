@@ -10,6 +10,11 @@ image: #'/images/nanaimo-photos/nanaimo-seawall-3.jpg'
 
 Strong Towns Campbell River advocates for a town that is safe, resillient, and prosperous. Strong Towns is about taking small, local action to achieve safer streets, financial solvency, and affordable housing. Are you passionate about making streets more walkable & easier to cycle? Are you keen to cut down red tape, support local businesses, and ensure the city balances its books? Do you binge NotJustBikes videos? Join their Facebook group to get started!
 
+## Strong Towns Langley <a class="partner-link" href="https://www.strongtownslangley.org" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
+
+Strong Towns Langley is a community group that advocates for a more resilient, fiscally sound, and people-oriented Langley, British Columbia, Canada.
+The group is made up of ordinary citizens who volunteer their time, energy and ideas to promote the insights of Strong Towns with local advocacy projects in Langley, BC.
+
 ## Nanaimo Climate Action Hub <a class="partner-link" href="https://www.nanaimoclimateaction.org" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
 
 Nanaimo Climate Action Hub is a non-profit, grassroots, membership driven organization working in the community to effect change both locally and globally. We collaborate with other groups in Nanaimo and beyond, connecting people to people, people to knowledge, and people to action in response to the climate crisis. 
