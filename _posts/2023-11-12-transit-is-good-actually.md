@@ -8,7 +8,6 @@ image: '/images/letters/2023-11-12-transit-is-good-actually/header.png'
 image_caption: "Artist's rendering of the future downtown Nanaimo transit exchange. (City of Nanaimo)"
 published: true
 type: letter
-hidden: true
 author: strong-towns-nanaimo
 tags: [letter, transit, livability]
 ---
