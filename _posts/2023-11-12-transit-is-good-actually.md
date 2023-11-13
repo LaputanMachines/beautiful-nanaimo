@@ -23,6 +23,8 @@ What’s even more amazing about such a connection is it could help stabilize [N
 
 Transit is equitable; parking is not. While almost everyone can ride a bus; not everyone can drive a car. If your concern is about equitability in Nanaimo, you should support this exchange. Right now, the Nanaimo Regional District is working hard to get approval for the [transit hour expansions for our busses](https://www.bctransit.com/documents/1529721448916). If our region gets approved, this will be a massive win for Nanaimo residents for whom a car is simply not on the table. 
 
+> “The [Nanaimo bus] system used 56 buses to provide 130,000 hours of service and carried 3.5 million passengers [in 2019/2020].” -- RDN Redevelopment Strategy
+
 While I recognize that there are concerns over houseless people using these facilities, such concerns do not address the issue of houseless people as a whole. Some residents have even complained about the presence of [public washrooms](https://nanaimonewsnow.com/2023/09/25/city-believes-new-downtown-nanaimo-bus-exchange-will-improve-public-safety-others-strongly-disagree/). To this point, I will say one thing. If your concern is that our houseless neighbours will be allowed to have the dignity to use a public washroom over a street corner then your priorities are in the wrong place. At the end of the day, preventing a bus exchange will not solve or prevent these already present issues. 
 
 ![Proposed network restructuring of all Nanaimo bus routes from a 2022 report. (Regional District of Nanaimo))]({{site.baseurl}}/images/letters/2023-11-12-transit-is-good-actually/bc-transit-proposed-rdn-routes.png){:loading="lazy"}
