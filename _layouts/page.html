@@ -10,6 +10,10 @@ layout: default
       <div class="container-back-button">
         <a class="ion ion-ios-arrow-round-back" href="/events"> Return to Events</a>
       </div>
+      {% else if page.url contains 'letter' %}
+      <div class="container-back-button">
+        <a class="ion ion-ios-arrow-round-back" href="/letters"> Return to Letters</a>
+      </div>
       {% endif %}
       <h1 class="page__title">{{ page.title | escape }}</h1>
       {% if page.description %}

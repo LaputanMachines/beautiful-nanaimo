@@ -1,21 +1,18 @@
 ---
 layout: post
 title: "Narrow Lanes are Safer"
-description: "Recent comments made by a Councillor highlights common misunderstandings and myths about road safety. "
+description: "Recent comments made by a Councillor highlights common misunderstandings and myths about road safety. Strong Towns mean safe streets for all, including drivers and pedestrians."
 date: 2023-07-20
 author: strong-towns-nanaimo
 image: '/images/armstrong-narrow-roads/header.jpeg'
+permalink: /letters/2023-07-20-narrow-lanes-are-safer
 image_caption: "Artists rendering of the Complete Streets project. (City of Nanaimo)"
-tags: [letters, safety, roads]
+tags: [letter, safety, roads]
 featured: false
-type: post
+type: letter
 ---
 
-This letter was submitted to the Nanaimo News Bulletin as a direct response to [their article covering the Extension Road traffic calming project](https://www.nanaimobulletin.com/news/traffic-calming-modifications-coming-to-extension-road-in-south-nanaimo/). Strong Towns mean safe streets for all, including drivers and pedestrians. Traffic calming Extension Road will improve the safety of everyone who lives and commutes through the Cinnabar Valley.
-
----
-
-Road safety improvements in town are sometimes opposed by council members. Recently, some council members expressed concern about the narrowing of Extension Road. 
+Road safety improvements in town are sometimes opposed by council members. Recently, a council member expressed concern about the narrowing of Extension Road. 
 
 The councillor noted that: “[[narrow roads] don’t reduce accidents, they actually increase it … If you look at where most of the fatals were, they’re where the road is narrower](https://www.nanaimobulletin.com/news/traffic-calming-modifications-coming-to-extension-road-in-south-nanaimo/).” This is contrary to BC’s own road safety toolkit, among almost every other publication on road safety published in the last ten years. “Narrower lanes influence drivers’ perception of their margin of error, causing them to slow down.” Moreover, ” Reducing speeds, meanwhile, increases the objective margin of error, while also making crashes less severe when they do occur.” [^1] The wider the lane, the faster the driver feels they can comfortably drive. The Canadian Association of Road Safety Professionals notes that, “there is a direct correlation between vehicle speed and the likelihood of crash occurrence, seriousness of injury and the odds of a fatality.” [^2] 
 
