@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "November 2023 Monthly Meetup: The Vault Cafe Downtown"
-description: "Saturday, November 11th at 7:00 pm at The Vault Cafe downtown. Come and chat with Strong Towns members and Nanaimo urbanists." 
+description: "Saturday, November 11th at 1:00 pm at The Vault Cafe downtown. Come and chat with Strong Towns members and Nanaimo urbanists." 
 permalink: /events/2023-11-11-monthly-meetup-the-vault
-event_datetime: "2023-11-11 7:00pm"
+event_datetime: "2023-11-11 1:00pm"
 date: 2023-11-11
 event_location: "The Vault Cafe"
 image: '/images/discord/vault.png'
