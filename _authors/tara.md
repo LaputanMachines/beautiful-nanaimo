@@ -2,7 +2,7 @@
 username: tara
 name: Tara M.
 image: '/images/authors/tara.jpg'
-position: 
+position: Urban Agriculture Coordinator
 ---
 
 Tara is a paralegal currently practicing corporate and commercial law, with a background in banking and elder law. 

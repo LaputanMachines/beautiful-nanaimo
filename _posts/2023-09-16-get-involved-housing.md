@@ -6,7 +6,7 @@ date: 2023-09-15
 author: strong-towns-nanaimo
 image: '/images/increasing-housing-options/header.jpg'
 image_caption: "Citizens Exploring Nanaimo's New Housing Plan at the Beban Park Open House on September 12th, 2023. (Strong Towns Nanaimo)"
-tags: [housing, engagement]
+tags: [features, housing, engagement]
 featured: false
 type: post
 ---
