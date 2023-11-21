@@ -20,6 +20,8 @@ The councillor noted that: “[[narrow roads] don’t reduce accidents, they act
 
 Furthermore, Nanaimo’s own transportation and mobility page even agrees. Notably, “Controlling driver speed is important; slower vehicles generally mean less chance of an accident, and a smaller chance of injury or death when there is an accident.” [^3] Narrow streets exist all around the world, especially outside of car-dominated North America. We’ve over-built our roads in the late 20th century and are grappling with the consequences today. 
 
+-- Strong Towns Nanaimo Community Member
+
 ***
 
 [^1]: [https://www2.gov.bc.ca/assets/gov/driving-and-transportation/driving/consequences/vision-zero/resource-kit-community-road-safety-toolkit-module2.pdf](https://www2.gov.bc.ca/assets/gov/driving-and-transportation/driving/consequences/vision-zero/resource-kit-community-road-safety-toolkit-module2.pdf)
