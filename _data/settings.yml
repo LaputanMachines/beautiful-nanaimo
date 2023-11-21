@@ -101,6 +101,8 @@ mailchimp:
 
 # Social Links
 social:
+- {icon: "ion-logo-instagram", color: "#0a243f", name: Instagram, link: "https://www.instagram.com/strong.towns.nanaimo/"}
+- {icon: "ion-logo-facebook", color: "#0a243f", name: Facebook, link: "https://www.facebook.com/strongtownsnanaimo"}
 - {icon: "ion-ios-business", color: "#0a243f", name: Strong Towns Homepage, link: "https://www.strongtowns.org"}
 - {icon: "ion-ios-boat", color: "#00b9f1", name: Nanaimo Official City Plan, link: "https://www.nanaimo.ca/property-development/community-planning-land-use/city-plan"}
 - {icon: "ion-ios-build", color: "#004475", name: Nanaimo City Projects, link: "https://www.nanaimo.ca/your-government/projects"}
