@@ -3,7 +3,7 @@ layout: page
 title: Strong Towns Nanaimo Library
 description: There are countless books on urban planning, transit, and urbanism, in general. Here are a few books we consider to be mandatory for anyone looking to learn more about urbanism. 
 permalink: /library
-image: #'/images/nanaimo-photos/nanaimo-seawall-3.jpg'
+# image: '/images/library/library.jpg'
 ---
 
 ## Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity by Charles L Marohn Jr 
