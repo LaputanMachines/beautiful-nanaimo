@@ -215,18 +215,4 @@ Individual homes make up the diverse tapestry of a neighbourhood. No single hous
 
 Diverse housing forms within walkable neighbourhoods make it more convenient for residents to use public transportation. This reduces car dependency and traffic congestion, contributing to a more sustainable and environmentally friendly community.
 
-<div id="sidewalking-victoria-button">
-  <a href="https://www.sidewalkingvictoria.com/blog/2023/7/31/missing-middle-housing-in-victoria-feat-strong-towns-nanaimo">Read Sidewalking Victoria's Article!</a>
-  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
-</div>
-
 ***
-
-CBC’s Kathryn Marlow reached out to speak with Strong Towns Nanaimo on missing middle housing. Click the link below to listen to the full interview.
-It was great to talk about Nanaimo’s missing-middle problem with Kathryn,
-
-<div id="sidewalking-victoria-button">
-  <a href="https://www.cbc.ca/listen/live-radio/1-48-on-the-island/clip/16001148-missing-middle-housing-nanaimo.">Listen to Us on CBC's "On The Island"</a>
-  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
-</div>
-

@@ -6,6 +6,14 @@ permalink: /library
 # image: '/images/library/library.jpg'
 ---
 
+<ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#strong-towns-a-bottom-up-revolution-to-rebuild-american-prosperity-by-charles-l-marohn-jr">Strong Towns by Charles L Marohn Jr</a></li>
+  <li class="toc-entry toc-h2"><a href="#the-affordable-city-strategies-for-putting-housing-within-reach-and-keeping-it-there-by-shane-phillips">The Affordable City by Shane Phillips</a></li>
+  <li class="toc-entry toc-h2"><a href="#the-high-cost-of-free-parking-by-donald-c-shoup">The High Cost of Free Parking by Donald C. Shoup</a></li>
+  <li class="toc-entry toc-h2"><a href="#walkable-city-how-downtown-can-save-america-one-step-at-a-time-by-jeff-speck">Walkable City by Jeff Speck</a></li>
+  <li class="toc-entry toc-h2"><a href="#death-and-life-of-great-american-cities-by-jane-jacobs">Death and Life of Great American Cities by Jane Jacobs</a></li>
+</ul>
+
 ## Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity by Charles L Marohn Jr 
 
 "Strong Towns" by Charles L. Marohn Jr. challenges traditional urban development patterns. Marohn advocates for a more sustainable approach to city planning, focusing on small-scale, incremental growth, and fiscal responsibility. He emphasizes that cities should prioritize resilience and adaptability to ensure long-term prosperity. ([Amazon](https://a.co/d/9QLsuMD))

@@ -6,6 +6,14 @@ permalink: /partners
 image: #'/images/nanaimo-photos/nanaimo-seawall-3.jpg'
 ---
 
+<ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#strong-towns-campbell-river-">Strong Towns Campbell River</a></li>
+  <li class="toc-entry toc-h2"><a href="#strong-towns-langley-">Strong Towns Langley</a></li>
+  <li class="toc-entry toc-h2"><a href="#nanaimo-climate-action-hub-">Nanaimo Climate Action Hub</a></li>
+  <li class="toc-entry toc-h2"><a href="#transition-nanaimo-">Transition Nanaimo</a></li>
+  <li class="toc-entry toc-h2"><a href="#more-homes-canada-">More Homes Canada</a></li>
+</ul>
+
 ## Strong Towns Campbell River <a class="partner-link" href="https://www.facebook.com/groups/strongtownscr" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
 
 Strong Towns Campbell River advocates for a town that is safe, resillient, and prosperous. Strong Towns is about taking small, local action to achieve safer streets, financial solvency, and affordable housing. Are you passionate about making streets more walkable & easier to cycle? Are you keen to cut down red tape, support local businesses, and ensure the city balances its books? Do you binge NotJustBikes videos? Join their Facebook group to get started!

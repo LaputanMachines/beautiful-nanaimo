@@ -2,7 +2,7 @@
 layout: default
 title: Strong Towns Nanaimo Letters
 permalink: /letters
-description: "Letters written by the Strong Towns Nanaimo community. If you want to have your letter published on this website, reach out to letters@beautifulnanaimo.ca!"
+description: "Letters written by the Strong Towns Nanaimo community. If you want to have your letter published on this website, reach out to letters@beautifulnanaimo.ca to get started."
 ---
 
 <!-- Begin Letters -->

@@ -13,7 +13,7 @@ hidden: true
 author: strong-towns-nanaimo
 ---
 
-There are so many of us now that we had to upgrade the venue! We had an excellent year and there’s still more to look forward to: more provincial housing legislation; more municipal infrastructure projects; more delegations. Come and chat with local Nanaimo urbanists on transit, walkability, housing affordability, climate, and more. 
+There are so many of us now that we had to upgrade the venue! We had an excellent year and there’s still more to look forward to: more provincial housing legislation; more municipal infrastructure projects; more delegations. Come and chat with local Nanaimo urbanists on transit, walkability, housing affordability, climate, and more. **We're meeting in the Medium Meeting Room on the second floor.**
 
 - 1:00-3:00 pm : Meet inside the Vancouver Island Regional Library downtown
 - 4:00 pm: Optional hangout for anyone who wants to grab drinks/coffee on Commercial 
