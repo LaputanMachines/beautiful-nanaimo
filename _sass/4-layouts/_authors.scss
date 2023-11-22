@@ -61,6 +61,30 @@
     font-size: 16px;
   }
 
+  .authors__button {
+    padding: 5px 25px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: all .25s;
+    background: #244c62;
+    margin-top: 24px;
+    opacity: .9;
+    transition: all .15s;
+
+    &:hover, &:active {
+      opacity: 1;
+      box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+    }
+
+    a {
+      color: white !important;
+    }
+  }
+
   @media (max-width: $desktop) {
     .authors__name {
       font-size: 32px;
