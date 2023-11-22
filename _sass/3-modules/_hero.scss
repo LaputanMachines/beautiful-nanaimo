@@ -18,7 +18,7 @@
 .hero__inner {
   display: flex;
   align-items: center;
-  max-width: 1160px;
+  max-width: 100%;
   margin-bottom: 20px;
 }
 
@@ -29,6 +29,11 @@
   font-weight: normal;
   line-height: 1.4;
   color: var(--text-color);
+
+  @media (max-width: $mobile) {
+    padding-left: $base-spacing-unit;
+    padding-right: $base-spacing-unit;
+  }
 }
 
 .hero__tenets {

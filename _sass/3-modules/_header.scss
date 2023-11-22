@@ -74,15 +74,16 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    padding: 40px $base-spacing-unit 10px $base-spacing-unit;
+    padding: 20px 0 10px 0;
     line-height: 1;
 
     @media (max-width: $desktop) {
-      padding: 40px $base-spacing-unit 10px $base-spacing-unit;
+      // padding: 40px $base-spacing-unit 10px $base-spacing-unit;
+      padding: 20px 0 10px 0;
     }
 
     @media (max-width: $mobile) {
-      padding: 32px $base-spacing-unit 32px $base-spacing-unit;
+      padding: 30px $base-spacing-unit 10px $base-spacing-unit;
     }
   }
 
