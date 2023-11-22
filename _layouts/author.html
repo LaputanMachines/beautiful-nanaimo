@@ -8,9 +8,12 @@ permalink: /authors
 
   <div class="container">
     {% assign post_count = site.posts | where: 'author', page.username %}
-
+    
+    
     <div class="author__content">
-      <div class="author__image"><img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}"></div>
+      <div class="author__image">
+        <img class="lazy" data-src="{{ page.image }}" alt="{{ page.name }}">
+      </div>
       <h1 class="author__name">{{ page.name }}</h1>
       {% if post_count.size >= 1 %}
       {% endif %}
@@ -34,6 +37,9 @@ permalink: /authors
         <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="Email link"><i
             class="ion ion-ios-mail"></i><p>{{ page.email }}</p></a>
         {% endif %}
+        {% if page.position %}
+        <p>{{ page.position }}</p>
+        {% endif %}
       </div>
       {{ content }}
       </div>
@@ -44,6 +50,9 @@ permalink: /authors
         {% for post in post_count %}
         {% include article.html %}
         {% endfor %}
+        <div class="container-back-button">
+          <a class="ion ion-ios-arrow-round-back" href="/members"> Return to Members</a>
+        </div>
       </div>
     </div>
     <hr>

@@ -3,6 +3,7 @@ username: michael
 name: Michael B.
 image: '/images/authors/michael.jpg'
 position: "Co-Founder, Organizer"
+priority: 1
 ---
 
 Emboldened by Nanaimo’s new OCP, Michael and Olivia started Strong Towns Nanaimo to advocate for new urbanism in the Harbour City. 
