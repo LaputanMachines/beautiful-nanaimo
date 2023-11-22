@@ -2,8 +2,8 @@
 .featured-section {
   margin-bottom: 186px;
 
-  @media (max-width: $desktop) {
-    margin-bottom: 186px;
+  @media (max-width: $mobile) {
+    margin-bottom: 160px;
   }
 }
 

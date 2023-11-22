@@ -19,7 +19,7 @@
   display: flex;
   align-items: center;
   max-width: 1160px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .hero__title {
@@ -29,6 +29,41 @@
   font-weight: normal;
   line-height: 1.4;
   color: var(--text-color);
+}
+
+.hero__tenets {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  font-family: 'Mulish', Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-bottom: 20px;
+
+  @media (max-width: $tablet) {
+    display: block;
+  }
+}
+
+.hero__tenet {
+  padding: 15px;
+  width: calc(100% / 4);
+  text-align: center;
+
+  @media (max-width: $tablet) {
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: -30px;
+  }
+
+  h2 {
+    font-weight: bold;
+    font-size: 1.25em;
+    margin-bottom: 15px;
+
+    @media (max-width: $tablet) {
+      margin-bottom: 5px;
+    }
+  }
 }
 
 .styled-calendar-container {
