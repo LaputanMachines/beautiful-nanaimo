@@ -2,7 +2,7 @@
 layout: page
 title: Thanks for Joining Strong Towns Nanaimo
 description: You're a part of the Strong Towns Nanaimo team! Congrats! You'll be informed of new posts and events in your community. We won't spam your inbox with emails.
-permalink: /welcome/
+permalink: /welcome
 image: # '/images/nanaimo-photos/nanaimo-harbour-2.jpg'
 ---
 

@@ -32,6 +32,8 @@ menu__settings:
       url: '/contact'
     - title: 'More'
       submenu:
+      - url: '/join'
+        title: 'Join'
       - url: '/members'
         title: 'Members'
       - url: '/partners'
@@ -40,6 +42,8 @@ menu__settings:
         title: 'Library'
       - url: '/media'
         title: 'Media'
+      - url: '/calendar'
+        title: 'Calendar'
 
 #-------------------------------
 # Footer Navigation
@@ -59,6 +63,8 @@ footer__menu__settings:
       url: '/about'
     - title: 'Contact'
       url: '/contact'
+    - title: 'Join'
+      url: '/join'
     - title: 'Members'
       url: '/members'
     - title: 'Partners'
@@ -67,6 +73,8 @@ footer__menu__settings:
       url: '/library'
     - title: 'Media'
       url: '/media'
+    - title: 'Calendar'
+      url: '/calendar'
 
 #-------------------------------
 # Hero Settings

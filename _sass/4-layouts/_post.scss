@@ -284,6 +284,22 @@
   }
 }
 
+.page__iframe {
+  margin: 0 auto 60px;
+  color: var(--text-color);
+  transition: transform .5s;
+
+  a {
+    font-weight: 600;
+    border-bottom: 1px solid var(--border-alt-color);
+
+    &:hover {
+      color: var(--link-color);
+      border-bottom-color: var(--link-color-hover);
+    }
+  }
+}
+
 .post,
 .page {
   max-width: 740px;
