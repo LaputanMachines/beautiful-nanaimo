@@ -1,24 +1,24 @@
 /* Hero */
 .hero {
-  padding: 40px 0 0;
+  padding: 10px 0 0;
   margin-bottom: 96px;
   color: var(--heading-font-color);
   background-color: var(--white);
 
   @media (max-width: $desktop) {
-    padding: 40px 0 0;
+    padding: 10px 0 0;
     margin-bottom: 80px;
   }
 
   @media (max-width: $desktop) {
-    padding: 16px 0 0;
+    padding: 15px 0 0;
   }
 }
 
 .hero__inner {
   display: flex;
   align-items: center;
-  max-width: 100%;
+  max-width: $container-base-width;
   margin-bottom: 20px;
 }
 
@@ -29,6 +29,8 @@
   font-weight: normal;
   line-height: 1.4;
   color: var(--text-color);
+  padding-left: calc(#{$container-offset});
+  padding-right: calc(#{$container-offset});
 
   @media (max-width: $mobile) {
     padding-left: $base-spacing-unit;

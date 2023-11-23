@@ -74,16 +74,16 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    padding: 20px 0 10px 0;
+    padding: 20px calc(#{$container-offset}) 10px calc(#{$container-offset});
     line-height: 1;
 
     @media (max-width: $desktop) {
       // padding: 40px $base-spacing-unit 10px $base-spacing-unit;
-      padding: 20px 0 10px 0;
+      padding: 20px calc(#{$container-offset}) 10px calc(#{$container-offset});
     }
 
     @media (max-width: $mobile) {
-      padding: 30px $base-spacing-unit 10px $base-spacing-unit;
+      padding: 30px calc(#{$container-offset}) 10px calc(#{$container-offset});
     }
   }
 
