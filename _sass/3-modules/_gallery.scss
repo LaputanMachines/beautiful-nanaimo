@@ -55,13 +55,15 @@
 .join__input {
   width: 100%;
   padding: 20px;
-  border-radius: 60px;
+  border-radius: 10px;
   box-shadow: 0 0px 0px rgba(0,0,0,.3);
   line-height: 21px;
   outline: 0;
   text-align: center;
+  border-style:solid;
 }
 
 .join__submit {
   width: 100%;
+  border-radius: 10px;  
 }
