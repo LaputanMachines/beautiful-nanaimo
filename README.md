@@ -11,3 +11,5 @@ gem install jekyll bundler
 bundle install
 jekyll serve
 ```
+
+![image](https://github.com/LaputanMachines/beautiful-nanaimo/assets/8591722/ca2b2491-3575-4fe4-ac07-4fea2a9aa553)
