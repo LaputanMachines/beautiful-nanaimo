@@ -34,7 +34,7 @@ Nanaimo opted to create dedicated turning lanes for cars along Bruce. Crossing d
 
 ## What SHOULD This Intersection Look Like?
 
-It’s frustrating because Nanaimo _knows damn well how to build safe bike crossings_. Metral Drive features a signalized four-way crossing with mode-separated bike crossings. Cars turning are physically separated by concrete up until the crossing itself.[^6] 
+It’s frustrating because _Nanaimo staff has proven they know better than this_. Metral Drive features a signalized four-way crossing with mode-separated bike crossings. Cars turning are physically separated by concrete up until the crossing itself.[^6] 
 
 ![Render of Complete Street-Style Intersection on Metral Drive (City of Nanaimo)]({{site.baseurl}}/images/posts/2023-12-03-one-step-forward/metral-enterprise-crossing.png){:loading="lazy"}
 *Render of Complete Street-Style Intersection on Metral Drive (City of Nanaimo)*
