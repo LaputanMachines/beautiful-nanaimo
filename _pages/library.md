@@ -12,6 +12,7 @@ permalink: /library
   <li class="toc-entry toc-h2"><a href="#the-high-cost-of-free-parking-by-donald-c-shoup">The High Cost of Free Parking by Donald C. Shoup</a></li>
   <li class="toc-entry toc-h2"><a href="#walkable-city-how-downtown-can-save-america-one-step-at-a-time-by-jeff-speck">Walkable City by Jeff Speck</a></li>
   <li class="toc-entry toc-h2"><a href="#death-and-life-of-great-american-cities-by-jane-jacobs">Death and Life of Great American Cities by Jane Jacobs</a></li>
+  <li class="toc-entry toc-h2"><a href="#emergent-tokyo-by-jorge-almazán">Emergent Tokyo by Jorge Almazán</a></li>
 </ul>
 
 ## Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity by Charles L Marohn Jr 
@@ -48,5 +49,12 @@ permalink: /library
 
 ![Jane Jacobs Promotional Headshot (Huffington Post)]({{site.baseurl}}/images/library/death-and-life-jane-jacobs.jpg){:loading="lazy"}
 *Jane Jacobs Promotional Headshot (Huffington Post)*
+
+## Emergent Tokyo by Jorge Almazán
+
+"Emergent Tokyo: Designing the Spontaneous City" explores the dynamic and evolving nature of Tokyo's urban landscape. The book delves into the city's unique ability to adapt and grow organically, examining the role of spontaneous design in shaping its architecture and infrastructure. It emphasizes the fluid and emergent qualities that define Tokyo, challenging traditional notions of urban planning and showcasing the city as a living, breathing entity shaped by its inhabitants and their diverse interactions with the built environment. ([Amazon](https://a.co/d/9en6e1J))
+
+![Cross-Section of Micro Bars and Shops in a Tokyo Neighbourhood (Jorge Almazán)]({{site.baseurl}}/images/library/emergent-tokyo.jpeg){:loading="lazy"}
+*Cross-Section of Micro Bars and Shops in a Tokyo Neighbourhood (Jorge Almazán)*
 
 ***
