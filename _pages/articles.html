@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Strong Towns Nanaimo News
-permalink: /news
-description: "Nanaimo's home for urbanist news. Our city is transforming into a vibrant urban node; there's a lot of cool stuff in store for the Harbour City. From bike lanes to transit expansions, and more!"
+title: Strong Towns Nanaimo Articles
+permalink: /articles
+description: "Want to learn more about urbanism in Nanaimo? Choose an article below and start your Strong Towns journey! Articles range from walkable neighbourhoods to transit and active transportation."
 ---
 
-<!-- Begin Letters -->
+<!-- Begin Articles -->
 <section class="articles">
     <div class="container">
         <div class="page-head">
@@ -13,13 +13,15 @@ description: "Nanaimo's home for urbanist news. Our city is transforming into a 
             <p class="page__description">{{ page.description | escape }}</p>
         </div>
         <div class="row grid">
+            {% if site.posts.size > 0 %}
             {% for post in site.posts %}
-            {% if post.type contains 'news' %}
+            {% if post.type contains 'post' %}
             {% include article.html %}
             {% endif %}
             {% endfor %}
+            {% endif %}
         </div>
     </div>
 </section>  
-<!-- End Letters -->
+<!-- End Articles -->
 <hr>

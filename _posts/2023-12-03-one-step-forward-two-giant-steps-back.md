@@ -8,7 +8,7 @@ image: '/images/posts/2023-12-03-one-step-forward/bruce-and-fifth-render.png'
 image_caption: "Render of the new signalized intersection at Fifth and Bruce (City of Nanaimo)"
 tags: [news, infrastructure, roads, safety]
 featured: false
-type: news
+type: post
 toc: true
 ---
 
