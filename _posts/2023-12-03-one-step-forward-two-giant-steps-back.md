@@ -39,7 +39,7 @@ It’s frustrating because _Nanaimo staff has proven they know better than this_
 ![Render of Complete Street-Style Intersection on Metral Drive (City of Nanaimo)]({{site.baseurl}}/images/posts/2023-12-03-one-step-forward/metral-enterprise-crossing.png){:loading="lazy"}
 *Render of Complete Street-Style Intersection on Metral Drive (City of Nanaimo)*
 
-Nanaimo’s own design and safety guidelines for Complete Streets projects note “minimize conflict between drivers and vulnerable road users by separating their intersection movements through space and also through time.” _"It's disappointing that this intersection wasn't given the same treatment as the one on Metral considering its success."_
+Nanaimo’s own design and safety guidelines for Complete Streets projects note “minimize conflict between drivers and vulnerable road users by separating their intersection movements through space and also through time.” _It's disappointing that this intersection wasn't given the same treatment as the one on Metral considering its success._
 
 ![Nanaimo's Own Complete Streets Guidelines Talking About Modal Safety (City of Nanaimo)]({{site.baseurl}}/images/posts/2023-12-03-one-step-forward/complete-streets-design-guidelines.png){:loading="lazy"}
 *Nanaimo's Own Complete Streets Guidelines Talking About Modal Safety (City of Nanaimo)*
