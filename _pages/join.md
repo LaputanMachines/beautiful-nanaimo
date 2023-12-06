@@ -8,13 +8,13 @@ permalink: /join
 
 
 <form class="subscribe-form validate" id="sib-form" method="POST"
-action="https://bc2089c3.sibforms.com/serve/MUIEABot8qVXy9wyLHUzgi7wtcMYFZoU2qj6vxnsPRzY4NKwJEEFGfHuIpyo-CYpEv8cqUtBGgkOnQSJTKPqGBboEDPe8joAy1b45dYawIOBO_ji91AQG-CLVACCDJS7cFTPgDgeJtgb2MGPMYPt9CebTl7D3u4Ns9s0csf_gygA3r2H9JPGnEVIvb9y7BK_4fdkbdMDu-kmlsKE">
+action="https://beautifulnanaimo.us21.list-manage.com/subscribe/post?u=451d40dddbc4719f566d4ea04&amp;id=872672c0a6&amp;f_id=00cfefe6f0">
 <div style="padding: 8px 0;">
     <div class="sib-input sib-form-block">
     <div class="form__entry entry_block">
         <div class="form__label-row ">
         <div class="entry__field">
-            <input class="join__input input subscribe-email required email " type="text" id="EMAIL" name="EMAIL"
+            <input class="join__input input subscribe-email required email " type="email" id="EMAIL" name="EMAIL"
             autocomplete="off" placeholder="Your Email Address" data-required="true" required />
         </div>
         </div>
@@ -28,6 +28,5 @@ action="https://bc2089c3.sibforms.com/serve/MUIEABot8qVXy9wyLHUzgi7wtcMYFZoU2qj6
     </div>
 </div>
 </form>
-
 
 ***
