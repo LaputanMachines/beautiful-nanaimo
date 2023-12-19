@@ -13,6 +13,7 @@ permalink: /library
   <li class="toc-entry toc-h2"><a href="#walkable-city-how-downtown-can-save-america-one-step-at-a-time-by-jeff-speck">Walkable City by Jeff Speck</a></li>
   <li class="toc-entry toc-h2"><a href="#death-and-life-of-great-american-cities-by-jane-jacobs">Death and Life of Great American Cities by Jane Jacobs</a></li>
   <li class="toc-entry toc-h2"><a href="#emergent-tokyo-by-jorge-almazán">Emergent Tokyo by Jorge Almazán</a></li>
+  <li class="toc-entry toc-h2"><a href="#soft-city-building-density-for-everyday-by-david-sim">Soft City: Building Density for Everyday by David Sim</a></li>
 </ul>
 
 ## Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity by Charles L Marohn Jr 
@@ -56,5 +57,12 @@ permalink: /library
 
 ![Cross-Section of Micro Bars and Shops in a Tokyo Neighbourhood (Jorge Almazán)]({{site.baseurl}}/images/library/emergent-tokyo.jpeg){:loading="lazy"}
 *Cross-Section of Micro Bars and Shops in a Tokyo Neighbourhood (Jorge Almazán)*
+
+## Soft City: Building Density for Everyday by David Sim
+
+"Soft City: Building Density for Everyday Life" by David Sim explores the concept of "soft city" as a humane and people-centric approach to urban design. Sim argues for creating dense urban environments that prioritize human experience, social interaction, and well-being. The book emphasizes the importance of designing cities that are responsive to the needs of individuals, fostering a sense of community, and promoting a sustainable and enjoyable urban lifestyle.
+
+![An image from the chapter “Getting About and Getting On.” Courtesy of Gehl.]({{site.baseurl}}/images/library/soft-city.jpg){:loading="lazy"}
+*An image from the chapter “Getting About and Getting On.” Courtesy of Gehl.*
 
 ***
