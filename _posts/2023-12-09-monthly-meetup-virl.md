@@ -31,6 +31,7 @@ Here is our tentative agenda for today’s meetup:
 - [Discussion: Transit Oriented Development Legislation](#discussion-transit-oriented-development-legislation)
 - [Activity: Identify Poor Infra for Pedestrians, Cyclists](#activity-identify-poor-infra-for-pedestrians-cyclists)
 - [Activity: Brainstorm Collective Small-Scale Action](#activity-brainstorm-collective-small-scale-action)
+- [Meeting Minutes](#meeting-minutes)
 
 Let us know if there’s something you want to talk about that’s not listed.
 
@@ -105,7 +106,32 @@ Thank you all for attending this month’s meeting. _Strong Towns Nanaimo wishes
     
 -- Strong Towns Nanaimo Team
 
-***
+## Meeting Minutes
+
+The following are notes from the meeting:
+
+- Much of Nanaimo is not well-served by public transit
+    - Hammond Bay route is heavily subsidized as Hammond Bay lacks density
+    - The South-End, an area of town with solid density, is under-served by transit
+        - Infrequent routes and sporadic service across the South-End area of town
+- Some municipalities have begun constructing housing themselves
+    - [https://vancouversun.com/news/local-news/bc-municipalities-set-up-housing-authorities](https://vancouversun.com/news/local-news/bc-municipalities-set-up-housing-authorities)
+    - Burnaby’s new housing authority will be building units; 50% rent market targets
+    - Perhaps Nanaimo can do something similar: create a housing authority and build homes
+- Everyone, and all walks of life, consider housing affordability a core issue right now
+- There is a substantial lack of community garden spaces in Nanaimo
+    - [https://www.nanaimo.ca/parks-recreation-culture/parks-trails/community-gardens](https://www.nanaimo.ca/parks-recreation-culture/parks-trails/community-gardens)
+    - Nanaimo *does* have a framework for the creation and preservation of gardens
+    - Check out our guidelines and [Community Gardens Policy](https://www.nanaimo.ca/docs/recreation-parks/parks-trails/communitygardenspolicy.pdf) for more information.
+    - The city should be proactive in allowing for the creation of new community gardens
+    - [https://www.nanaimo.ca/docs/recreation-parks/parks-trails/communitygardenspolicy.pdf](https://www.nanaimo.ca/docs/recreation-parks/parks-trails/communitygardenspolicy.pdf)
+- Book recommendation: Palaces for the People by Eric Klinenberg
+- Parks in general lack the characteristics of a good public park space
+    - They lack a diversity of trees, ponds, waterways, playgrounds, and more
+- Strong Towns Nanaimo should adopt a park and volunteer to care for our existing greenspaces
+    - [https://www.nanaimo.ca/get-involved/volunteer/partners-in-parks](https://www.nanaimo.ca/get-involved/volunteer/partners-in-parks)
+    - Allow residents to care for and improve parks with provided municipal funding
+- Nanaimo is installing “smart” intersections around town
 
 [^1]: https://news.gov.bc.ca/releases/2023PREM0062-001706
 [^2]: https://news.gov.bc.ca/files/Housing_Tech_Brief_Nov_01_2023.pdf
