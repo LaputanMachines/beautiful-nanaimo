@@ -4,8 +4,8 @@ title: "Why Plant Street Trees?"
 description: "Planting street trees goes beyond enhancing the streetscape's beauty; it offers various advantages. Besides creating an aesthetically pleasing environment, street trees contribute to safety by guiding traffic and creating a physical barrier between pedestrians and vehicles. They foster community well-being, encouraging outdoor activities, reducing driving, and increasing neighborhood pride. Additionally, urban street trees help lower energy costs by providing shade, potentially saving households up to 35%. "
 date: 2023-12-19
 author: strong-towns-nanaimo
-image: '/images/posts/2023-12-19-street-trees/header.png'
-image_caption: "Green Neighbourhood Design Guidelines from Nanaimo's Official Community Plan"
+image: '/images/posts/2023-12-19-street-trees/tree-cover-map.png'
+image_caption: "Map of urban tree cover in Nanaimo, where the green indicates tree canopy. (Global Forest Watch)"
 tags: [features, greenspace, trees]
 featured: false
 type: post
