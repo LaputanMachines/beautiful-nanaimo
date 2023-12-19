@@ -58,7 +58,10 @@ endif %}
                 }}</a>
               {% endif %}
               <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string
-                }}</time>
+              }}</time>
+              {% if page.submitted_by %}
+                <p class="post__submitted_by__name">{{ page.submitted_by }}</p>
+              {% endif %}
             </div>
           </div>
 
