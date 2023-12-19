@@ -47,7 +47,7 @@ Properly planted urban street trees can perform dual duties when it comes to noi
 
 ## Nanaimo's Tree Voucher Program
 
-If you are a registered property owner in the City of Nanaimo, you can participate in our tree voucher program. This means you can purchase a tree to plant on your property for a reduced cost of $25 each. You will be contacted once your application has been reviewed and confirmed with payment options. **We are not affiliated with the City of Nanaimo.** We simply want to help you get a tree in the ground.
+If you are a registered property owner in the City of Nanaimo, you can participate in the City's tree voucher program. This means you can purchase a tree to plant on your property for a reduced cost of $25 each. You will be contacted once your application has been reviewed and confirmed with payment options. **We are not affiliated with the City of Nanaimo.** We simply want to help you get a tree in the ground.
 
 <div id="sidewalking-victoria-button">
   <a href="https://www.nanaimo.ca/city-services/home-property/animals-trees-gardens/tree-voucher-program">Apply on the City's Website</a>
