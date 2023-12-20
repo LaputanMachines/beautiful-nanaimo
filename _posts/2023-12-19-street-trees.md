@@ -65,3 +65,4 @@ We've compiled a list of resources for you to learn more about the benefits of s
 - [https://www.strongtowns.org/journal/2023/6/29/an-inconvenient-tree](https://www.strongtowns.org/journal/2023/6/29/an-inconvenient-tree)
 - [https://www.strongtowns.org/journal/2019/5/3/new-in-the-knowledge-base-1](https://www.strongtowns.org/journal/2019/5/3/new-in-the-knowledge-base-1)
 - [https://www.strongtowns.org/journal/2017/2/14/in-praise-of-street-trees](https://www.strongtowns.org/journal/2017/2/14/in-praise-of-street-trees)
+- [https://treecanada.ca/resources/canadian-urban-forest-compendium/3-benefits-of-urban-forests/](https://treecanada.ca/resources/canadian-urban-forest-compendium/3-benefits-of-urban-forests/)
