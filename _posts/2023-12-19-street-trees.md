@@ -57,6 +57,18 @@ If you are a registered property owner in the City of Nanaimo, you can participa
 The trees can be either deciduous, evergreen, coniferous or fruit and nut trees and are required to achieve a diameter of 6cm or greater and height of 4.5m or greater at maturity. Western red cedar is not recommended (unless there is a good irrigation system in place) as this species does not do well over extended drought conditions. Leyland cypress can be utilized as an alternative to cedar as it is a hardy species tolerant to a range of environmental conditions (just not in hedge form). Arbutus trees are also not  recommended as they have a notoriously high mortality rate when planted from a pot.
 The nursery would have the best idea as to species suitability for your specific site conditions.
 
+## Case Study: Medellín, Colombia
+
+After enduring years of high crime and violence, Medellín faces a new threat –  rising urban temperatures, driven by climate change. The city’s response brings people together, planting vegetation to create a better environment for everyone. The Green Corridors project shades cyclists and pedestrians, cools built up areas and cleans the air along busy roads.
+
+<p><iframe src="https://www.youtube.com/embed/Kv0m2MSIo2s?si=8HTsWhRNYP0sGI1N" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
+Medellín, Colombia, exemplifies the importance of climate resilience in urban planning. Facing urban heat and air pollution issues, the city implemented a green corridor project, connecting green spaces to combat rising temperatures. This initiative has resulted in a 2-degree cooling effect, improved air quality, and enhanced overall quality of life for residents. The success of the green corridors has allowed the city to promote sustainable goals, leading to the adoption of electric mobility. 
+
+> The direct effects on Medellín’s residents have been very positive. The investments have not just resulted in lower temperatures across the city but have also improved the overall quality of life in the city. Cleaner air and green space have encouraged residents to do more physical activity and take greater pride in their city’s overall development. ([Source](https://energytransition.org/2023/12/how-green-corridors-are-driving-sustainable-policies-in-medellin/))
+
+Medellín aims to be a Latin American leader in electric mobility by 2030, retrofitting over 500 public buses with electric engines. The city's example highlights the positive impact of green policies on people's lives, fostering support for sustainability and serving as a model for other cities in the Global South.
+
 ## Additional Resources
 
 We've compiled a list of resources for you to learn more about the benefits of street trees. We hope you find them useful and informative. Let's make Nanaimo a Strong Town!
@@ -66,3 +78,4 @@ We've compiled a list of resources for you to learn more about the benefits of s
 - [https://www.strongtowns.org/journal/2019/5/3/new-in-the-knowledge-base-1](https://www.strongtowns.org/journal/2019/5/3/new-in-the-knowledge-base-1)
 - [https://www.strongtowns.org/journal/2017/2/14/in-praise-of-street-trees](https://www.strongtowns.org/journal/2017/2/14/in-praise-of-street-trees)
 - [https://treecanada.ca/resources/canadian-urban-forest-compendium/3-benefits-of-urban-forests/](https://treecanada.ca/resources/canadian-urban-forest-compendium/3-benefits-of-urban-forests/)
+- [https://energytransition.org/2023/12/how-green-corridors-are-driving-sustainable-policies-in-medellin/](https://energytransition.org/2023/12/how-green-corridors-are-driving-sustainable-policies-in-medellin/)
