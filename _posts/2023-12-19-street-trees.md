@@ -59,13 +59,9 @@ The nursery would have the best idea as to species suitability for your specific
 
 ## Case Study: Medellín, Colombia
 
-After enduring years of high crime and violence, Medellín faces a new threat –  rising urban temperatures, driven by climate change. The city’s response brings people together, planting vegetation to create a better environment for everyone. The Green Corridors project shades cyclists and pedestrians, cools built up areas and cleans the air along busy roads.
+Medellín, Colombia, exemplifies the importance of climate resilience in urban planning. Facing urban heat and air pollution issues, the city implemented a green corridor project, connecting green spaces to combat rising temperatures. This initiative has resulted in a 2-degree cooling effect, improved air quality, and enhanced overall quality of life for residents.  The success of the green corridors has allowed the city to promote sustainable goals, leading to the adoption of electric mobility. 
 
 <p><iframe src="https://www.youtube.com/embed/Kv0m2MSIo2s?si=8HTsWhRNYP0sGI1N" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-Medellín, Colombia, exemplifies the importance of climate resilience in urban planning. Facing urban heat and air pollution issues, the city implemented a green corridor project, connecting green spaces to combat rising temperatures. This initiative has resulted in a 2-degree cooling effect, improved air quality, and enhanced overall quality of life for residents. The success of the green corridors has allowed the city to promote sustainable goals, leading to the adoption of electric mobility. 
-
-> The direct effects on Medellín’s residents have been very positive. The investments have not just resulted in lower temperatures across the city but have also improved the overall quality of life in the city. Cleaner air and green space have encouraged residents to do more physical activity and take greater pride in their city’s overall development. ([Source](https://energytransition.org/2023/12/how-green-corridors-are-driving-sustainable-policies-in-medellin/))
 
 Medellín aims to be a Latin American leader in electric mobility by 2030, retrofitting over 500 public buses with electric engines. The city's example highlights the positive impact of green policies on people's lives, fostering support for sustainability and serving as a model for other cities in the Global South.
 
