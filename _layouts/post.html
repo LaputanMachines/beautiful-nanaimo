@@ -12,9 +12,9 @@ endif %}
       <div class="col {% if page.video_embed %}col-12{% else %}col-6 col-d-12{% endif %}">
         <div class="post__info{{videoInfo}}">
           
-          {% if page.url contains 'letter' %}
+          {% if page.type contains 'opinion' %}
           <div class="container-back-button">
-            <a class="ion ion-ios-arrow-round-back" href="/letters"> Return to Letters</a>
+            <a class="ion ion-ios-arrow-round-back" href="/opinions"> Return to Opinions</a>
           </div>
           {% else %}
           <div class="container-back-button">

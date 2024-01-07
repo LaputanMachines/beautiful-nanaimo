@@ -2,14 +2,14 @@
 layout: post
 title: "Transit is Good, Actually"
 description: "The proposed transit exchange in Nanaimo is essential for promoting equity, economic prosperity, and environmental sustainability. Investing in the exchange enhances Nanaimo's livability and productivity. Opposition may not represent the thousands who rely on buses daily. Supporting this initiative aligns with a vision for a more inclusive and accessible city." 
-permalink: /letters/2023-11-12-transit-is-good-actually
+permalink: /articles/2023-11-12-transit-is-good-actually
 date: 2023-11-12
 image: '/images/letters/2023-11-12-transit-is-good-actually/header.png'
 image_caption: "Artist's rendering of the future downtown Nanaimo transit exchange. (City of Nanaimo)"
 published: true
-type: letter
+type: post
 author: strong-towns-nanaimo
-tags: [letter, transit, livability]
+tags: [features, transit, livability]
 ---
 
 Busses are a good thing, actually. If you believe (as I do) that our city should prioritize equity, economic prosperity, and the environment, you should be supportive of this exchange. There have been many people writing to local papers about why the city should not move forward with this exchange, but I believe they are wrong. Here’s why. 
@@ -31,7 +31,5 @@ While I recognize that there are concerns over houseless people using these faci
 *Proposed network restructuring of all Nanaimo bus routes from a 2022 report. (Regional District of Nanaimo)*
 
 I love Nanaimo. I understand it has problems, but at the end of the day, I would like to see our city investing in itself to make our community a more liveable and productive place. This exchange is one of many ways that can be done. The [opposition to this exchange](https://www.nanaimobulletin.com/opinion/letter-to-the-editor-bus-loop-decision-dulls-enthusiasm-to-participate-in-democratic-process-5888648) claims to represent the majority opinion. However, do those articles speak for the thousands of our neighbours who ride these busses daily? In 2019/2020, [B.C. Transit reported](https://www.bctransit.com/documents/1529721448916) that “the system used 56 buses to provide 130,000 hours of service and carried 3.5 million passengers” in Nanaimo. Think of that number, 3.5 million. When reading about people speaking out against this exchange, we, as community members, should ask ourselves. Do these people speak for the people who took those 3.5 million trips?
-
--- Strong Towns Nanaimo Community Member
 
 ***

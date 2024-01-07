@@ -7,7 +7,7 @@ date: 2023-12-13
 image: '/images/letters/2023-12-13-tetuxwtun/tetuxwtun-render.png'
 image_caption: "Artist's rendering of the future Te'Tuxwtun Project. (Formline Architecture)"
 published: true
-type: letter
+type: post
 author: strong-towns-nanaimo
 tags: [letter, public hearing, redevelopment]
 ---

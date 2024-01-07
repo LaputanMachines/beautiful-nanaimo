@@ -4,12 +4,12 @@ title: "Narrow Lanes are Safer"
 description: "Recent comments made by a Councillor highlights common misunderstandings and myths about road safety. Strong Towns mean safe streets for all, including drivers and pedestrians."
 date: 2023-07-20
 author: strong-towns-nanaimo
-image: '/images/armstrong-narrow-roads/header.jpeg'
-permalink: /letters/2023-07-20-narrow-lanes-are-safer
+image: '/images/narrow-roads/header.jpeg'
+permalink: /articles/2023-07-20-narrow-lanes-are-safer
 image_caption: "Artists rendering of the Complete Streets project. (City of Nanaimo)"
-tags: [letter, safety, roads]
+tags: [features, safety, roads]
 featured: false
-type: letter
+type: post
 ---
 
 Road safety improvements in town are sometimes opposed by council members. Recently, a council member expressed concern about the narrowing of Extension Road. 
@@ -20,10 +20,8 @@ The councillor noted that: “[[narrow roads] don’t reduce accidents, they act
 
 Furthermore, Nanaimo’s own transportation and mobility page even agrees. Notably, “Controlling driver speed is important; slower vehicles generally mean less chance of an accident, and a smaller chance of injury or death when there is an accident.” [^3] Narrow streets exist all around the world, especially outside of car-dominated North America. We’ve over-built our roads in the late 20th century and are grappling with the consequences today. 
 
--- Strong Towns Nanaimo Community Member
-
-***
-
 [^1]: [https://www2.gov.bc.ca/assets/gov/driving-and-transportation/driving/consequences/vision-zero/resource-kit-community-road-safety-toolkit-module2.pdf](https://www2.gov.bc.ca/assets/gov/driving-and-transportation/driving/consequences/vision-zero/resource-kit-community-road-safety-toolkit-module2.pdf)
 [^2]: [https://carsp.ca/en/news-and-resources/road-safety-information/safe-speeds/](https://carsp.ca/en/news-and-resources/road-safety-information/safe-speeds/)
 [^3]: [https://www.nanaimo.ca/transportation-mobility/traffic-calming](https://www.nanaimo.ca/transportation-mobility/traffic-calming)
+
+***

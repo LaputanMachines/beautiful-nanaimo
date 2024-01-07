@@ -4,7 +4,7 @@ title: Contact Strong Towns Nanaimo
 description: "Want to reach out to the team at Strong Towns Nanaimo? We're always open to chat about the Harbour City.
 Choose an email below to get started. A member from the Strong Towns Nanaimo team will reply ASAP."
 permalink: /contact
-image: '/images/contact/contact.jpg'
+# image: '/images/contact/contact.jpg'
 ---
 
 We're always ready to chat about Nanaimo and the Strong Towns movement. 
