@@ -5,6 +5,7 @@ description: "A letter on the pitfalls and shortfalls of municipal planning. Fro
 date: 2024-01-06
 author: strong-towns-nanaimo
 image: '/images/letters/2024-01-06-why-urban-planning-fails/header.jpg'
+permalink: /opinions/why-urban-planning-fails
 image_caption: "Overhead view of Terminal Ave Downtown. (City of Nanaimo)"
 tags: [opinion, planning]
 featured: false
