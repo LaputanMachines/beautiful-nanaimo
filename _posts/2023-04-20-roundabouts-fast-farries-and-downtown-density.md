@@ -9,6 +9,7 @@ image_caption: '3D View of Chapel Street Downtown (Google Street View)'
 tags: [news, transportation, infrastructure]
 featured: false
 type: post
+submitted_by: Michael Bassili
 ---
 
 This was a big week for urbanist news in Nanaimo! Downtown, the Vancouver Island Ferry Company (VIFC) broke ground on a new welcome centre, and a set of low-rise towers were approved behind the courthouse. And, in the North End of town, the Mary Ellen roundabout is finally complete. 

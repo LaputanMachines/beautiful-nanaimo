@@ -10,6 +10,7 @@ published: true
 type: post
 author: strong-towns-nanaimo
 tags: [letter, public hearing, redevelopment]
+submitted_by: Louis James
 ---
 
 * 🏠 [BC Housing Project Information](https://ehq-production-canada.s3.ca-central-1.amazonaws.com/ff712b828e3745d3e492ee0f75b1893f6d190096/original/1682101949/a300fb109c68267626dfa830021f61ca_The_Te%E2%80%99tuxwtun_Vision_FINAL_April_20_2023.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4KKNQAKIOR7VAOP4%2F20231219%2Fca-central-1%2Fs3%2Faws4_request&X-Amz-Date=20231219T210335Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=94577c12df79720d8cfb47a49abd94d40c9365a1ec7ee75c1377cf8a3a853765)

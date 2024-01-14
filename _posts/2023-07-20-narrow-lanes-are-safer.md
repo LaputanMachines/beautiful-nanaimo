@@ -10,6 +10,7 @@ image_caption: "Artists rendering of the Complete Streets project. (City of Nana
 tags: [features, safety, roads]
 featured: false
 type: post
+submitted_by: Michael Bassili
 ---
 
 Road safety improvements in town are sometimes opposed by council members. Recently, a council member expressed concern about the narrowing of Extension Road. 

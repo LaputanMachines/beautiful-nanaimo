@@ -10,6 +10,7 @@ tags: [features, infrastructure, roads, safety]
 featured: false
 type: post
 toc: true
+submitted_by: Michael Bassili
 ---
 
 Nanaimo has seen a slew of new infrastructure projects in recent months. As our city grows, the need for improved, accessible and equitable infrastructure grows as well. Growing communities need to consider the needs of both current and future residents as it plans infrastructure projects. 

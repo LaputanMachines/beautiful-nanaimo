@@ -9,6 +9,7 @@ image_caption: "Citizens Exploring Nanaimo's New Housing Plan at the Beban Park 
 tags: [features, housing, engagement]
 featured: false
 type: post
+submitted_by: Louis James
 ---
 
 <ul id="toc" class="section-nav">

@@ -9,6 +9,7 @@ image_caption: "3D Aerial View of the Waterfront Neighbourhood off Townsite in D
 tags: [features, housing, gallery]
 featured: true
 type: post
+submitted_by: Michael Bassili
 ---
 
 <!-- TOC - Manually Added -->

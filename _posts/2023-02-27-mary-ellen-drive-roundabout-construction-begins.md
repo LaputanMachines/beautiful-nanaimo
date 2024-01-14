@@ -9,6 +9,7 @@ image_caption: 'Roundabout construction is already underway on Mary Ellen Drive 
 tags: [news, infrastructure]
 featured: false
 type: post
+submitted_by: Michael Bassili
 ---
 
 Some cool new infrastructure is arriving in Nanaimo! A notoriously dangerous and unsafe intersection is getting some love as work begins on a new roundabout on Mary Ellen Drive. In its original configuration, drivers leaving Woodgrove Crossing towards Island Highway would have to make a dangerous left turn across four lanes of highway traffic. Pedestrians trying to cross between plazas were forced to cross a dangerously wide crosswalk against drivers quickly exiting the Parkway.
