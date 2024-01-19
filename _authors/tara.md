@@ -3,6 +3,7 @@ username: tara
 name: Tara M.
 image: '/images/authors/tara.jpg'
 position: Urban Agriculture Coordinator
+email: tara@beautifulnanaimo.ca
 ---
 
 Tara is a paralegal currently practicing corporate and commercial law, with a background in banking and elder law. 

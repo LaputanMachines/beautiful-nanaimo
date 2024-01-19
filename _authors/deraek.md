@@ -1,8 +1,9 @@
 ---
-username: derek
-name: Derek M.
-image: '/images/authors/derek.jpg'
+username: deraek
+name: Deraek M.
+image: '/images/authors/deraek.jpg'
 position: Environmental Coordinator
+email: deraek@beautifulnanaimo.ca
 ---
 
 Possessing a deep love for all living things, biology was a natural career choice for Deraek. 

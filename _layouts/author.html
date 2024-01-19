@@ -33,12 +33,8 @@ permalink: /authors
         <a class="author__social__item" href="{{ page.facebook }}" aria-label="Facebook link"><i
             class="ion ion-logo-facebook"></i></a>
         {% endif %}
-        {% if page.email %}
-        <a class="author__social__item" href="mailto:{{ page.email }}" aria-label="Email link"><i
-            class="ion ion-ios-mail"></i><p>{{ page.email }}</p></a>
-        {% endif %}
         {% if page.position %}
-        <p>{{ page.position }}</p>
+        <p>{{ page.position }}<br><i>{{ page.email }}</i></p>
         {% endif %}
       </div>
       {{ content }}

@@ -3,6 +3,7 @@ username: louis
 name: Louis J.
 image: '/images/authors/louis.jpg'
 position: "Writer, Local Correspondent"
+email: louis@beautifulnanaimo.ca
 ---
 
 Louis James is an opinion writer for Strong Towns Nanaimo. 
