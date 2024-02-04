@@ -7,7 +7,7 @@ author: strong-towns-nanaimo
 image: '/images/nanaimo-photos/metral-drive-1.jpg'
 image_caption: 'Pedestrian crosswalk on Metral Drive (03-03-2023)'
 tags: [features, cars, pedestrians, safety]
-featured: true
+featured: false
 type: post
 submitted_by: Michael Bassili
 ---
