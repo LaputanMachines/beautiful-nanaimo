@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "January 2024 Monthly Meetup: Vancouver Island Regional Library Downtown"
-description: "Saturday, January 20th at 1:00 pm at the Vancouver Island Regional Library downtown. Discussions, activities, and more!." 
+description: "Saturday, January 20th at 1:00 pm at the Vancouver Island Regional Library downtown. Discussions, activities, and more!" 
 permalink: /events/2024-01-20-monthly-meetup-virl
 event_datetime: "2024-01-20 1:00pm"
 date: 2024-01-20
