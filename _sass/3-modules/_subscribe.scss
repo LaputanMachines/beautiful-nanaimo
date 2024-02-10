@@ -45,6 +45,13 @@
     border-radius: 60px;
   }
 
+  .subscribe-form-hero {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+
   .subscribe-email {
     width: 100%;
     height: 74px;
@@ -129,7 +136,7 @@
       }
     }
 
-    .subscribe-form {
+    .subscribe-form, .subscribe-form-hero {
       max-width: 100%;
     }
   }
@@ -155,7 +162,7 @@
       }
     }
 
-    .subscribe-form {
+    .subscribe-form, .subscribe-form-hero {
       display: flex;
       flex-direction: column;
     }
