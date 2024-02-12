@@ -6,7 +6,7 @@ permalink: /events/2024-03-05-todd-litman
 event_datetime: "2024-03-05 1:00pm"
 date: 2024-02-17
 event_location: "VIU Building 200 Room 203 Nanaimo"
-image: '/images/events/2024-03-05-todd-litman/header.jpg'
+image: '/images/events/2024-03-05-todd-litman/header.png'
 published: true
 type: event
 hidden: true
