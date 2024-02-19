@@ -4,7 +4,6 @@ title: "Strong Towns Nanaimo Presents: Livable Nanaimo with Todd Litman"
 description: "Join us for Livable Nanaimo with Todd Litman, a dynamic in-person event focused on creating a more livable and vibrant community in Nanaimo! <a href=\"https://www.eventbrite.ca/e/strong-towns-nanaimo-presents-livable-nanaimo-with-todd-litman-tickets-823216000217?aff=oddtdtcreator\" target=\"_blank\">RSVP on Eventbrite.</a>" 
 permalink: /events/2024-03-05-todd-litman
 event_datetime: "2024-03-05 1:00pm"
-date: 2024-02-17
 event_location: "VIU Building 200 Room 203 Nanaimo"
 image: '/images/events/2024-03-05-todd-litman/header.png'
 published: true
