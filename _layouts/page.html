@@ -31,7 +31,7 @@ layout: default
 
     {% else page.id or page.path contains '_pages' or page.url contains '404' %}
 
-    {%if page.image %}
+    {%if page.image and page.type != "event" %}
     <div class="page-image">
       <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
     </div>
