@@ -12,6 +12,7 @@ image: #'/images/nanaimo-photos/nanaimo-seawall-3.jpg'
   <li class="toc-entry toc-h2"><a href="#nanaimo-climate-action-hub-">Nanaimo Climate Action Hub</a></li>
   <li class="toc-entry toc-h2"><a href="#transition-nanaimo-">Transition Nanaimo</a></li>
   <li class="toc-entry toc-h2"><a href="#more-homes-canada-">More Homes Canada</a></li>
+  <li class="toc-entry toc-h2"><a href="#better-island-transit-">Better Island Transit</a></li>
 </ul>
 
 ## Strong Towns Campbell River <a class="partner-link" href="https://www.facebook.com/groups/strongtownscr" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
@@ -34,5 +35,11 @@ Transition Nanaimo is a Not-for-Profit Society which is working to accelerate Na
 ## More Homes Canada <a class="partner-link" href="https://more-homes.vercel.app/" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
 
 More Homes Canada is a coalition of local housing advocacy groups. Together, we are fighting to end Canada’s housing shortage. Across Canada, municipal governments have made it incredibly difficult to build higher density housing. We'll need a lot of new homes to end the housing crisis, and the first step is to get out of our own way.
+
+## Better Island Transit <a class="partner-link" href="https://betterislandtransit.ca/" target="_blank"><sup><i class="ion ion-md-exit"></i></sup></a>
+
+![]({{site.baseurl}}/images/partners/better-island-transit.png){:loading="lazy"}
+
+Frequent and affordable public transit service can provide convenient independent mobility for travellers who cannot, should not or prefer not to drive on Island highways. It also reduces road congestion, crashes and pollution emissions. It supports local economic development by helping students access school, workers access jobs, businesses access employees and tourists access rural areas. It helps create more livable, equitable and successful communities.
 
 ***
