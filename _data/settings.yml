@@ -32,8 +32,6 @@ menu__settings:
       submenu:
       - url: '/calendar'
         title: 'Calendar'
-      - url: '/join'
-        title: 'Join'
       - url: '/members'
         title: 'Members'
       - url: '/library'
@@ -61,8 +59,6 @@ footer__menu__settings:
       url: '/contact'
     - title: 'Calendar'
       url: '/calendar'
-    - title: 'Join'
-      url: '/join'
     - title: 'Members'
       url: '/members'
     - title: 'Library'
