@@ -12,6 +12,8 @@ image: '/images/about-us/strong-towns-nanaimo-meetup.jpg'
 
 They also invest in infrastructure that supports local businesses and improves quality of life for residents, such as parks and public spaces. *We acknowledge the need for people-focused planning in our community.* This means designing communities and neighborhoods that prioritize the needs of people, rather than the needs of cars or other infrastructure. People-focused planning involves creating safe and walkable streets that encourage active transportation and social interaction, and prioritizing public spaces that are accessible to everyone, regardless of income or ability. 
 
+![]({{site.baseurl}}/images/about-us/livable-nanaimo-todd-litman.jpg){:loading="lazy"}
+
 Strong Towns Nanaimo promote economic vitality. By encouraging productive land use, supporting local businesses, and creating vibrant, walkable neighborhoods, Strong Towns are able to attract investment and support economic growth. This is critical for the long-term prosperity of communities, as well as for the well-being of individual residents. By prioritizing the needs of people over the needs of cars or other infrastructure, Strong Towns are able to create communities that are more inclusive and accessible to everyone, *regardless of income or ability*. This is especially important in today's increasingly unequal society, where many people are struggling to make ends meet and access essential services.
 
 ***
