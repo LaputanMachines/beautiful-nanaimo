@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "VIU Transportation Workshop"
-description: "Come join in some brief presentations followed by an interactive discussion to find ways of increasing active transportation mode-share to VIU. Hosted by the VIU Climate Collaborative and the Pacific Institute For Climate Solutions." 
+description: "Come join in some brief presentations followed by an interactive discussion to find ways of increasing active transportation mode-share to VIU. Hosted by the VIU Climate Collaborative and the Pacific Institute For Climate Solutions. Building 355 Room 211." 
 permalink: /events/2024-03-21-viu-transportation-workshop
 event_datetime: "2024-03-21 9:30am-4:40pm"
 event_location: "VIU B355 R211"
