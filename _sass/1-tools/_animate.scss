@@ -4,6 +4,7 @@
   animation-duration: 0.5s;
   animation-iteration-count: 1;
   transition: transform .15s;
+  transform: translate(0px,0px);
 
   @keyframes animateElement {
     0% {
