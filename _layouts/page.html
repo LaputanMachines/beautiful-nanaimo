@@ -19,6 +19,12 @@ layout: default
       {% if page.description %}
       <p class="page__description">{{ page.description }}</p>
       {% endif %}
+      {% if page.event_datetime %}
+      <div class="page-event-date">{{ page.event_datetime }}</div>
+      {% endif %}
+      {% if page.event_location %}
+      <div class="page-event-date">{{ page.event_location }}</div>
+      {% endif %}
     </div>
 
     {% if page.video_embed %}
@@ -40,6 +46,7 @@ layout: default
     {% if page.image_caption %}
     <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
     {% endif %}
+
 
     {% endif %}
 
