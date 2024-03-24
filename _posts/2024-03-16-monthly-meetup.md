@@ -13,6 +13,7 @@ author: strong-towns-nanaimo
 toc: true
 ---
 
+
 This month, we'll be talking about our current parking reform initiatives.
 We'll also be chatting about the "Livable Nanaimo with Todd Litman" talk that happened earlier.
 
@@ -28,8 +29,14 @@ As always, feel free to bring a friend or two. We're looking forward to seeing y
 
 ***
 
-## Meeting Agenda - TBA
+**Update:** thanks to everyone who attended the meetup!
+It was amazing seeing everyone for an interactive discussion on parking and land use.
+Strong Towns Nanaimo will be pursuing a parking reform initiative in the coming months.
 
-## Meeting Minutes - TBA
+- 🔗 [Click here to download the slides from the meetup](/images/events/2024-03-16-monthly-meetup/2024-03-16-monthly-meetup.pdf)
+
+The four trivia winners will receive their prizes at the next meetup.
+
+![]({{site.baseurl}}/images/events/2024-03-16-monthly-meetup/2024-03-16-meetup-group-picture.png){:loading="lazy"}
 
 ***
