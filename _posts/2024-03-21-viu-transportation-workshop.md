@@ -13,6 +13,10 @@ author: strong-towns-nanaimo
 toc: true
 ---
 
+**Update**: As requested, here are the slides from our presentation:
+
+- 🔗 [Click here to download the slides from the meetup](/images/events/2024-03-21-viu-transportation-workshop/2024-03-21-how-do-you-get-to-campus.pdf)
+
 Come and take part in a dynamic and exciting transportation workshop at VIU, hosted by the VIU Climate Collaborative and the Pacific Institute For Climate Solutions. Workshop is meant to collect data on transportation mode use for those who commute to VIU.
 
 -  9:30-11:20am - **Transportation, Climate Change & Pollution**

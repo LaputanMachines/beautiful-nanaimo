@@ -13,7 +13,6 @@ author: strong-towns-nanaimo
 toc: true
 ---
 
-
 This month, we'll be talking about our current parking reform initiatives.
 We'll also be chatting about the "Livable Nanaimo with Todd Litman" talk that happened earlier.
 
