@@ -2,7 +2,7 @@
 layout: page
 title: "Transforming Nanaimo: How Nanaimo Is Investing in Its Residents"
 description: "Learn about the ways that the City of Nanaimo is investing in its residents through capital projects across town. Strong Towns Nanaimo will be speaking on Sunday March 31st from 11:00am - 12:00pm at FUFON."
-permalink: /events/2024-03-31-greening-cities
+permalink: /events/2024-03-31-transforming-nanaimo
 event_datetime: "2024-03-31 11:00am-12:00pm"
 event_location: "First Unitarian Fellowship of Nanaimo"
 image: '/images/events/2024-03-31-transforming-nanaimo/2024-03-31-transforming-nanaimo.png'
