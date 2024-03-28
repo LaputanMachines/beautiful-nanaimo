@@ -7,10 +7,20 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-pedestrian-deaths-on-the-rise-aired-on-mar-26th-2024">On The Island with Gregor Craigie: Pedestrian Deaths On The Rise</a></li>
   <li class="toc-entry toc-h2"><a href="#climate911-strong-towns-nanaimo-with-michael-bassili-aired-on-october-20th-2023">Climate911: Strong Towns Nanaimo with Michael Bassili</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-vancouver-island-residents-advocate-for-affordable-housing-aired-on-oct-2nd-2023">CBC: Vancouver Island Residents Advocate for Affordable Housing</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-missing-middle-housing-in-nanaimo-aired-on-aug-2nd-2023">On The Island with Gregor Craigie: Missing Middle Housing in Nanaimo</a></li>
 </ul>
+
+## On The Island with Gregor Craigie: Pedestrian Deaths On The Rise (Aired on Mar. 26th, 2024)
+
+Co-founder of Strong Towns Nanaimo Michael Bassili believes streets need to be people focused rather than car focused, because pedestrian fatalities are preventable.
+
+<div id="sidewalking-victoria-button">
+  <a href="https://www.cbc.ca/listen/live-radio/1-48-on-the-island/clip/16052038-another-pedestrian-death-raises-calls-safer-streets-nanaimo">Listen to the Segment on CBC's Website</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
 
 ## Climate911: Strong Towns Nanaimo with Michael Bassili (Aired on October 20th, 2023)
 
