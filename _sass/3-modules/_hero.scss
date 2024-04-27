@@ -20,6 +20,10 @@
   align-items: center;
   max-width: $container-base-width;
   margin-bottom: 20px;
+
+  @media (max-width: $mobile) {
+    margin-bottom: -10px;
+  }
 }
 
 .hero__title {
