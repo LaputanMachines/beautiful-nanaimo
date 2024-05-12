@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nanaimo Residents Keep Dying On Our Roads"
-description: "Four Nanaimo residents have already died from vehicular collisions, and it’s only April. Many factors determine if a person hit by a vehicle survives, but building safe streets is by far the most important thing we can do to make our streets safe."
+description: "Four Nanaimo residents have already died from vehicular collisions, and it’s only May. Many factors determine if a person hit by a vehicle survives, but building safe streets is by far the most important thing we can do to make our streets safe."
 date: 2024-05-11
 author: strong-towns-nanaimo
 image: '/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/header.png'
@@ -19,7 +19,7 @@ Strong Towns Nanaimo tries to maintain a generally positive and jovial tone, but
 
 # We Know (Statistically) How Many People Will  Die Each Year 
 
-In 2022, there were 27 fatal victims on Vancouver Island[^1]. A “fatal victim” is someone who has died within 30 days of a crash involving at least a single motor vehicle. The five-year rolling average number of fatal victims in Vancouver Island is 39 people. As of writing, four people have already lost their lives due to conflicts with vehicles this year _in Nanaimo alone_. It’s only April. 
+In 2022, there were 27 fatal victims on Vancouver Island[^1]. A “fatal victim” is someone who has died within 30 days of a crash involving at least a single motor vehicle. The five-year rolling average number of fatal victims in Vancouver Island is 39 people. As of writing, four people have already lost their lives due to conflicts with vehicles this year _in Nanaimo alone_. It’s only May. 
 
 * April 2nd, 2024: [Pedestrian dies after being struck by a pickup truck by the hospital](https://nanaimonewsnow.com/2024/04/02/pedestrian-suffers-life-threatening-injuries-after-being-hit-by-vehicle-near-nanaimo-hospital/)
 * March 21st, 2024: [80 year-old woman dies after being struck by a pickup truck](https://bc.ctvnews.ca/80-year-old-pedestrian-struck-killed-in-walmart-parking-lot-nanaimo-rcmp-1.6817574)
