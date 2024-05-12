@@ -7,7 +7,7 @@ author: strong-towns-nanaimo
 image: '/images/posts/2024-02-03-people-oriented-places-are-better-for-the-planet-and-our-wallet/header.jpg'
 image_caption: "Downtown Qualicum Beach, a narrow street with lots of commercial and mixed use buildings pushed right up to the street. The town of Qualicum Beach is more walkable than most municipalities of its size in British Columbia. (Strong Towns Nanaimo)"
 tags: [features, climate, sprawl]
-featured: true
+featured: false
 type: post
 toc: true
 submitted_by: Michael Bassili, Heather Baitz
