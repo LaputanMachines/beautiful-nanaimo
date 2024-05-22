@@ -14,6 +14,10 @@ permalink: /library
   <li class="toc-entry toc-h2"><a href="#death-and-life-of-great-american-cities-by-jane-jacobs">Death and Life of Great American Cities by Jane Jacobs</a></li>
   <li class="toc-entry toc-h2"><a href="#emergent-tokyo-by-jorge-almazán">Emergent Tokyo by Jorge Almazán</a></li>
   <li class="toc-entry toc-h2"><a href="#soft-city-building-density-for-everyday-by-david-sim">Soft City: Building Density for Everyday by David Sim</a></li>
+  <li class="toc-entry toc-h2"><a href="#new-mobilities-smart-planning-for-emerging-transportation-technologies-by-todd-litman">New Mobilities by Todd Litman</a></li>
+  <li class="toc-entry toc-h2"><a href="#curbing-traffic-the-human-case-for-fewer-cars-in-our-lives-by-chris--melissa-bruntlett">Curbing Traffic by Chris & Melissa Bruntlett</a></li>
+  <li class="toc-entry toc-h2"><a href="#building-the-cycling-city-the-dutch-blueprint-for-urban-vitality-by-chris--melissa-bruntlett">Building the Cycling City by Chris & Melissa Bruntlett</a></li>
+  <li class="toc-entry toc-h2"><a href="#walkable-city-rules-101-steps-to-making-better-places-by-jeff-speck">Walkable City Rules by Jeff Speck</a></li>
 </ul>
 
 ## Strong Towns: A Bottom-Up Revolution to Rebuild American Prosperity by Charles L Marohn Jr 
@@ -64,5 +68,21 @@ permalink: /library
 
 ![An image from the chapter “Getting About and Getting On.” Courtesy of Gehl.]({{site.baseurl}}/images/library/soft-city.jpg){:loading="lazy"}
 *An image from the chapter “Getting About and Getting On.” Courtesy of Gehl.*
+
+## New Mobilities: Smart Planning for Emerging Transportation Technologies by Todd Litman
+
+"New Mobilities: Smart Planning for Emerging Transportation Technologies" by Todd Litman explores the evolving landscape of transportation due to technological advancements. The book delves into how innovations like autonomous vehicles, electric cars, ride-sharing, and micro-mobility options are reshaping urban planning and policy. Litman emphasizes the importance of integrating these new technologies into comprehensive transportation planning to enhance efficiency, equity, and sustainability. He provides practical guidance for policymakers and planners to navigate these changes, advocating for adaptable and inclusive strategies to address the diverse needs of modern communities. ([IslandPress](https://islandpress.org/books/new-mobilities))
+
+## Curbing Traffic: The Human Case for Fewer Cars in Our Lives by Chris & Melissa Bruntlett
+
+"Curbing Traffic: The Human Case for Fewer Cars in Our Lives" by Chris and Melissa Bruntlett argues for reducing car dependency to improve urban living. Drawing from their experiences in the Netherlands, the authors illustrate how less car-centric cities enhance safety, health, and community well-being. They advocate for policies prioritizing cycling, walking, and public transit, showing how these changes create more livable, equitable, and sustainable urban environments. The book combines personal anecdotes, research, and practical examples to make a compelling case for rethinking transportation priorities. ([IslandPress](https://islandpress.org/books/curbing-traffic))
+
+## Building the Cycling City: The Dutch Blueprint for Urban Vitality by Chris & Melissa Bruntlett
+
+"Building the Cycling City: The Dutch Blueprint for Urban Vitality" by Chris and Melissa Bruntlett explores how the Netherlands has successfully integrated cycling into its urban fabric. The book highlights Dutch policies and design principles that prioritize cycling infrastructure, safety, and accessibility. Through case studies and interviews, the authors demonstrate the social, economic, and environmental benefits of a cycling-friendly city. They argue that other cities can replicate these strategies to enhance urban vitality, reduce traffic congestion, and improve overall quality of life. ([IslandPress](https://islandpress.org/books/building-cycling-city))
+
+## Walkable City Rules: 101 Steps to Making Better Places by Jeff Speck
+
+"Walkable City Rules: 101 Steps to Making Better Places" by Jeff Speck provides practical guidance for creating walkable urban environments. The book outlines 101 actionable steps, covering aspects like street design, zoning policies, and public spaces, aimed at making cities more pedestrian-friendly. Speck emphasizes the benefits of walkability, including improved health, economic vitality, and environmental sustainability. Each rule is backed by research and real-world examples, making the book a comprehensive manual for urban planners, policymakers, and community advocates seeking to enhance the walkability of their cities. ([IslandPress](https://islandpress.org/books/walkable-city-rules))
 
 ***
