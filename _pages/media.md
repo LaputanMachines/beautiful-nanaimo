@@ -7,11 +7,18 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#cbc-news-pedestrian-deaths-spike-in-nanaimo-aired-on-april-14th-2024">CBC News: Pedestrian Deaths Spike In Nanaimo</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-pedestrian-deaths-on-the-rise-aired-on-mar-26th-2024">On The Island with Gregor Craigie: Pedestrian Deaths On The Rise</a></li>
   <li class="toc-entry toc-h2"><a href="#climate911-strong-towns-nanaimo-with-michael-bassili-aired-on-october-20th-2023">Climate911: Strong Towns Nanaimo with Michael Bassili</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-vancouver-island-residents-advocate-for-affordable-housing-aired-on-oct-2nd-2023">CBC: Vancouver Island Residents Advocate for Affordable Housing</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-missing-middle-housing-in-nanaimo-aired-on-aug-2nd-2023">On The Island with Gregor Craigie: Missing Middle Housing in Nanaimo</a></li>
 </ul>
+
+## CBC News: Pedestrian Deaths Spike In Nanaimo (Aired on April 14th, 2024)
+
+**Begins at 17:41.** Michael Bassili and Deraek Menard speak to CBC News about the recent spike in pedestrian deaths in Nanaimo and what can be done to prevent them.
+
+<p><iframe src="https://www.youtube.com/embed/f-itjbZur5o?si=653b3xhGiWMqrz_S" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## On The Island with Gregor Craigie: Pedestrian Deaths On The Rise (Aired on Mar. 26th, 2024)
 
