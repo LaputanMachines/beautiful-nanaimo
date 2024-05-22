@@ -29,6 +29,7 @@ In 2022, there were 27 fatal victims on Vancouver Island[^1]. A “fatal victim�
 Unfortunately, there are more examples from across the island. On February 12th, a Qualicum Beach senior was struck and killed by a pickup truck. On February 21st, a Port Alberni teen was involved in a hit-and-run. 
 
 ![]({{site.baseurl}}/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/icbc-fatal-victims.png){:loading="lazy"}
+*Table Of Fatal Victims In British Columbia (ICBC)*
 
 In most cases in Nanaimo, the fatal victims were struck by pickup trucks. We’ve [written at-length about pickup truck safety in the past](https://www.beautifulnanaimo.ca/large-trucks-are-dangerous), but it’s important to reiterate just how much danger larger vehicles pose to those outside of a vehicle. 
 
@@ -37,6 +38,7 @@ In most cases in Nanaimo, the fatal victims were struck by pickup trucks. We’v
 The average weight of a Ford F150, the most popular vehicle in Canada by sales for the last few years[^2], is around 5000 pounds (note: most pickup trucks on the market in 2024 actually weigh more on average than a standard Ford F150). The average weight of a Toyota Corolla is around 2500 pounds. As of 2022, 23% of new vehicles on the market were classified as pickup trucks[^3] and the evidence is very clear: these types of vehicles - which are only getting larger and more popular -  are statistically more likely to kill anyone who’s unfortunate enough to be hit by them. What’s more distressing is that modern pickup trucks, like the Ford F250, have view distances of about 28 feet–this means that someone sitting in the driver’s seat can’t see anything on the ground unless it’s at least 28 feet ahead of them. For context, the view distance  of a Ford Fiesta is roughly 13 feet. 
 
 ![]({{site.baseurl}}/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/f150-view-distance.png){:loading="lazy"}
+*View Distance Of A Typical Ford F250 Super Duty, A Totally Normal Vehicle That Anyone Can Buy (Myles Russell)*
 
 This means that drivers of modern pickup trucks both have both worse visibility and a higher likelihood to kill anyone they collide with. This is a recipe for disaster. While our numbers are pegged to pickup trucks, the fact of the matter is that heavier SUVs are just as much to blame as large trucks. 
 
@@ -54,6 +56,7 @@ These numbers match those provided by the City of Nanaimo’s Traffic Calming do
 One of the most influential tools cities have to limit road speeds is the width of roadways. Countless studies have concluded that driver speed goes up as road width increases[^7]. This isn’t the driver’s fault, but it makes sense: drivers will accelerate to speeds that feel comfortable, regardless of the number on the speed limit sign. Think about the highway coming into town from South Nanaimo. Before it turns into Nicol the speed limit turns to 50. People generally drive down this road at 70 or higher. 
 
 ![]({{site.baseurl}}/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/front-street-construction.png){:loading="lazy"}
+*Workers Implementing Traffic Calming Measures Along Front Street (City of Nanaimo)*
 
 To Nanaimo's credit, the City has been working on remediating our roadways. The Metral Drive Complete Streets project partially narrowed driving lanes while also adding raised bike lanes, improved sidewalks, street trees, and more. One objective they held for the project was to reduce roadway speeds[^8] which, in turn, would lead to fewer fatalities along the corridor. We have also [written about the benefits of narrower roads](https://www.beautifulnanaimo.ca/articles/2023-07-20-narrow-lanes-are-safer), so we won’t beat a dead horse. 
 
@@ -66,6 +69,7 @@ If you’re a city council member, city staffer, or Mayor Krog’s bestie, what 
 Wakesiah Ave is a street that hosts a high school, a university, transit lines, and two incredible parks. The entire length of the corridor is frequented by one demographic in particular: students. Despite relying on this corridor to get to-and-from school, students are unlikely to email their municipal representatives. In 2023, a Complete Streets Wakesiah project was postponed ([plans can be found on the City’s website](https://www.nanaimo.ca/your-government/projects/wakesiah-avenue-corridor-improvements---postponed)). Mayor Leonard Krog said that he couldn’t recall any correspondence from citizens asking for Wakesiah upgrades[^10]. Children cannot conceptualize the minutiae of road safety and active transportation and therefore cannot appear as a delegation to Council, write to the City, or complain in any meaningful way. Adding raised cycle lanes, street trees, bus shelters, and wider sidewalks along Wakesiah would profoundly impact the safety of all who commute along the corridor. 
 
 ![]({{site.baseurl}}/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/wakesiah-corridor-improvements.png){:loading="lazy"}
+*Above-Ground View Of Proposed Roadway Changes Along Wakesiah (City of Nanaimo)*
 
 Narrowing lanes saves lives. Building protected cycling infrastructure saves lives. Separating vehicles from those walking, cycling, or taking transit saves lives. Infrastructure is foundational in the conversation on road safety, and we as a city must collectively demand better. Build it better, Nanaimo.
 
