@@ -5,6 +5,7 @@ description: "This article is the first in a series following the changes in our
 date: 2024-06-05
 author: strong-towns-nanaimo
 image: '/images/posts/2024-06-05-expanding-our-housing-options/540-franklyn-street.jpg'
+permalink: /posts/2024/06/05/expanding-our-housing-options/
 image_caption: "540 Franklyn Street showcasing tall townhomes in the downtown core. (460 Realty Inc.)"
 tags: [features, housing]
 featured: false
