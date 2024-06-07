@@ -16,7 +16,7 @@ toc: true
 Interested in learning more about the future of transit in Nanaimo? Join the Young Professionals of Nanaimo for a presentation on the Transit Redevelopment Strategy in the Regional District of Nanaimo as well as the planned transit improvements for downtown. The wonderful Lainy Stevenson (RDN) and Michael Elliot (City of Nanaimo, ISL) will be talking about all the exciting ways Nanaimo is growing its transit network.
 
 * **Time**: 6:00-9:00pm
-* **Date**: Wednesday, June 13th, 2024
+* **Date**: Thursday, June 13th, 2024
 * **Location**: Longwood Brewpub – Upstairs Room
 * **Cost**: Free for Strong Towns Nanaimo community members
 * **Topic**: The future of transit in Nanaimo
