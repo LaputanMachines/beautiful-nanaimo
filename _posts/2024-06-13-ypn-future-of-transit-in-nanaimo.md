@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Young Professionals Of Nanaimo Presents: Future Of Transit In Nanaimo"
-description: "Lainy Stevenson (RDN) and Michael Elliot (City of Nanaimo, ISL) will present on the Transit Redevelopment Strategy in the Regional District of Nanaimo as well as the planned transit improvements for downtown."
+description: "Lainy Stevenson (RDN) and Michael Elliott (City of Nanaimo, ISL) will present on the Transit Redevelopment Strategy in the Regional District of Nanaimo as well as the planned transit improvements for downtown."
 permalink: /events/2024/06/13/ypn-future-of-transit-in-nanaimo
 event_datetime: "2024-06-13 6:00pm-9:00pm"
 event_location: "Longwood Brewpub – Upstairs Room"
@@ -13,14 +13,14 @@ author: strong-towns-nanaimo
 toc: true
 ---
 
-Interested in learning more about the future of transit in Nanaimo? Join the Young Professionals of Nanaimo for a presentation on the Transit Redevelopment Strategy in the Regional District of Nanaimo as well as the planned transit improvements for downtown. The wonderful Lainy Stevenson (RDN) and Michael Elliot (City of Nanaimo, ISL) will be talking about all the exciting ways Nanaimo is growing its transit network.
+Interested in learning more about the future of transit in Nanaimo? Join the Young Professionals of Nanaimo for a presentation on the Transit Redevelopment Strategy in the Regional District of Nanaimo as well as the planned transit improvements for downtown. The wonderful Lainy Stevenson (RDN) and Michael Elliott (City of Nanaimo, ISL) will be talking about all the exciting ways Nanaimo is growing its transit network.
 
 * **Time**: 6:00-9:00pm
 * **Date**: Thursday, June 13th, 2024
 * **Location**: Longwood Brewpub – Upstairs Room
 * **Cost**: Free for Strong Towns Nanaimo community members
 * **Topic**: The future of transit in Nanaimo
-* **Speakers**: Lainy Stevenson (RDN) and Michael Elliot (City of Nanaimo, ISL)
+* **Speakers**: Lainy Stevenson (RDN) and Michael Elliott (City of Nanaimo, ISL)
 
 Appetizers will be provided by the YPN. We hope to see you there!
 
