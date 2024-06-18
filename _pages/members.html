@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Our Passionate Members
+title: Meet The Strong Towns Nanaimo Executive Team
 permalink: /members
 description: "Strong Towns Nanaimo is made up of professionals and passionate citizens alike. We're a diverse group of activists who believe that Nanaimo should be built for people, not cars."
 ---
@@ -19,11 +19,11 @@ description: "Strong Towns Nanaimo is made up of professionals and passionate ci
             {% assign post_count = site.posts | where:"author", author.username %}
             <div class="col col-4 col-d-6 col-t-12">
               <div class="authors__info">
-                <p class="authors__image"><a class="authors__link" href="{{ author.url }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a></p>
-                <h2 class="authors__name"><a class="authors__link" href="{{ author.url }}">{{ author.name }}</a></h2>
+                <p class="authors__image"><a class="authors__link" href="{{ author.permalink }}"><img class="lazy" data-src="{{ author.image }}" alt="{{ author.name }}"></a></p>
+                <h2 class="authors__name"><a class="authors__link" href="{{ author.permalink }}">{{ author.name }}</a></h2>
                 <p class="authors__email">{{ author.position }}<br><i>{{ author.email }}</i></p>
                 <p class="authors__description">{{ author.content }}</p>
-                <button class="authors__button"><a href="{{ author.url }}">Learn More</a></button>
+                <button class="authors__button"><a href="{{ author.permalink }}">Learn More</a></button>
               </div>
             </div>
             {% endfor %}
