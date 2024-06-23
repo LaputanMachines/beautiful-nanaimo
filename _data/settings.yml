@@ -105,6 +105,7 @@ mailchimp:
 
 # Social Links
 social:
+- {icon: "ion-ios-chatboxes", color: "#0a243f", name: Discord, link: "https://discord.gg/rz9VwsegS6"}
 - {icon: "ion-logo-instagram", color: "#0a243f", name: Instagram, link: "https://www.instagram.com/stnanaimo/"}
 - {icon: "ion-logo-linkedin", color: "#0a243f", name: LinkedIn, link: "https://www.linkedin.com/company/STNanaimo/"}
 - {icon: "ion-logo-facebook", color: "#0a243f", name: Facebook, link: "https://www.facebook.com/stnanaimo"}
