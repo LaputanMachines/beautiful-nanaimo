@@ -13,7 +13,7 @@ type: post
 toc: true
 ---
 
-In response to the recent op-ed on Terminal Avenue in the newspaper, we would like to present a different perspective on the changes happening Downtown. While concerns about traffic and business impacts are understandable, they come from a lack of understanding business and traffic dynamics. The recent modifications aim to create a safer, more vibrant, and economically resilient downtown for everyone.
+In response to [the recent op-ed on Terminal Avenue in the newspaper](https://www.nanaimobulletin.com/opinion/letter-to-the-editor-nanaimos-terminal-avenue-lanes-too-narrow-7373717), we would like to present a different perspective on the changes happening Downtown. While concerns about traffic and business impacts are understandable, they come from a lack of understanding business and traffic dynamics. The recent modifications aim to create a safer, more vibrant, and economically resilient downtown for everyone.
 
 ![Rendering Of Terminal Avenue After Construction Concludes Later This Year (City Of Nanaimo)]({{site.baseurl}}/images/posts/2024-06-23-building-a-vibrant-downtown-starts-with-pedestrian-friendly-infrastructure/terminal-ave.jpg){:loading="lazy"}*Rendering Of Terminal Avenue After Construction Concludes Later This Year (City Of Nanaimo)*
 
