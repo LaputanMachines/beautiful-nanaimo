@@ -4,7 +4,7 @@ title: "Patchwork Infrastructure Is Not Enough: Opal Road And Country Club Centr
 description: "A traffic calming measure installed to reduce through traffic inadvertently created new hazards and community frustration, highlighting the need for holistic, interconnected planning. The City of Nanaimo is now applying these lessons to the Country Club Urban Centre Mobility Upgrades project, aiming to create a safer, more integrated transportation network."
 date: 2024-08-22
 author: strong-towns-nanaimo
-submitted_by: Nivdedan Kaushal
+submitted_by: Nivedan Kaushal
 image: '/images/posts/2024-08-22-patchwork-infrastructure-is-not-enough/rock-city-opal-road-sign.png'
 image_caption: "The sign at the intersection of Rock City Road and Opal Road, where a traffic diverter was installed in 2019 and later removed. (Strong Towns Nanaimo)"
 permalink: /posts/2024/08/22/patchwork-infrastructure-is-not-enough
