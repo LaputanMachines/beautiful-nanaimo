@@ -3,7 +3,8 @@ layout: post
 title: "Becoming Multi-Modal: Nanaimo’s New Bikeshare"
 description: "I'm optimistic about Nanaimo's transportation future. New mobility options, like bike lanes, e-bike share, and the Hullo Ferry help flesh out our transportation system."
 date: 2024-07-07
-author: louis
+author: strong-towns-nanaimo
+submitted_by: Louis James
 image: '/images/posts/2024-07-07-becoming-multi-modal/evo-bikes-downtown.png'
 permalink: /posts/2024/07/07/becoming-multi-modal
 image_caption: "Some Evo bikes parked in Downtown Nanaimo along the seawall. (Strong Towns Nanaimo)"
