@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Strong Towns Nanaimo Presents Our Parking Reform Stragety To Council"
+title: "Strong Towns Nanaimo Presents Our Parking Reform Strategy To Council"
 description: "On Monday September 9th, 2024, Strong Towns Nanaimo will be presenting a delegation at the Shaw Auditorium in Downtown Nanaimo to discuss the negative impacts of municipal parking requirements and propose solutions to promote sustainable and equitable urban development in Nanaimo."
 permalink: /events/2024/09/09/people-over-parking
 event_datetime: "2024-09-09 7:00pm-8:00pm"
