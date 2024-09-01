@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "September 2024 Monthly Meetup: White Sails Happy"
+title: "September 2024 Monthly Meetup: White Sails"
 description: "Come and grab a drink with us at White Sails Brewing for our September 2024 monthly meetup! We've been working hard on our parking reform proposal, and we'd love to hear your thoughts."
 permalink: /events/2024/09/06/monthly-meetup
 event_datetime: "2024-09-06 5:30pm-7:30pm"
