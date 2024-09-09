@@ -17,19 +17,6 @@
   }
 }
 
-// Handle when events are done;
-// Slightly dim the event image
-// to visually signify that the
-// event was done in the past
-.event_done {
-  opacity: .5 !important;
-  transition: transform .5s;
-
-  &:hover, &:active {
-    opacity: 1 !important;
-  }
-}
-
 .article__inner {
   border-radius: 12px;
   overflow: hidden;
