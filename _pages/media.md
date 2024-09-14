@@ -7,12 +7,24 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#chly-parking-minimums-september-13th-2024">CHLY Parking Minimum Interview</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-news-pedestrian-deaths-spike-in-nanaimo-aired-on-april-14th-2024">CBC News: Pedestrian Deaths Spike In Nanaimo</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-pedestrian-deaths-on-the-rise-aired-on-mar-26th-2024">On The Island with Gregor Craigie: Pedestrian Deaths On The Rise</a></li>
   <li class="toc-entry toc-h2"><a href="#climate911-strong-towns-nanaimo-with-michael-bassili-aired-on-october-20th-2023">Climate911: Strong Towns Nanaimo with Michael Bassili</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-vancouver-island-residents-advocate-for-affordable-housing-aired-on-oct-2nd-2023">CBC: Vancouver Island Residents Advocate for Affordable Housing</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-missing-middle-housing-in-nanaimo-aired-on-aug-2nd-2023">On The Island with Gregor Craigie: Missing Middle Housing in Nanaimo</a></li>
 </ul>
+
+***
+
+## CHLY: Parking Minimums (September 13th, 2024)
+
+Midcoast Morning speaks with Caelen Middleton of Strong Towns Nanaimo about parking minimums, and James Knight with the  City of Nanaimo about the construction project underway on Commercial Street.
+
+<div id="sidewalking-victoria-button">
+  <a href="https://www.chly.ca/midcoastmorning/parking">Listen to the Segment on CHLY's Website</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
 
 ## CBC News: Pedestrian Deaths Spike In Nanaimo (Aired on April 14th, 2024)
 
