@@ -9,7 +9,7 @@ description: Everyone deserves to live in an affordable, equitable, and financia
 # Author Global Settings
 author:
   author__name: Strong Towns Nanaimo
-  author__bio: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. We are a grassroots organization that is not affiliated with the City of Nanaimo.
+  author__bio: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. We are a grassroots organization that is not affiliated with the City of Nanaimo.  Everyone deserves to live in an affordable, equitable, and financially secure city. Decades of auto-oriented, sprawling development have left their mark on Nanaimo, leading to expensive housing, unproductive urban spaces, and unsafe streets. Together, we can advocate for a city built around people, not automobiles.
   author__avatar: /images/logo-small.png
 
 #-------------------------------
@@ -22,18 +22,20 @@ menu__settings:
       title: 'Events'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+    - title: 'Campaigns'
+      submenu:
+        - title: 'Parking'
+          url: '/parking'
     - title: 'More'
       submenu:
+      - title: 'Contact'
+        url: '/contact'
       - url: '/members'
         title: 'Members'
       - url: '/library'
         title: 'Library'
       - url: '/media'
         title: 'Media'
-      - url: '/partners'
-        title: 'Partners'
 
 #-------------------------------
 # Footer Navigation
@@ -45,6 +47,8 @@ footer__menu__settings:
       url: '/events'
     - title: 'About'
       url: '/about'
+    - title: 'Parking'
+      url: '/parking'
     - title: 'Contact'
       url: '/contact'
     - title: 'Members'
@@ -53,8 +57,6 @@ footer__menu__settings:
       url: '/library'
     - title: 'Media'
       url: '/media'
-    - title: 'Partners'
-      url: '/partners'
 
 #-------------------------------
 # Hero Settings
@@ -98,11 +100,7 @@ social:
 - {icon: "ion-logo-linkedin", color: "#0a243f", name: LinkedIn, link: "https://www.linkedin.com/company/STNanaimo/"}
 - {icon: "ion-logo-facebook", color: "#0a243f", name: Facebook, link: "https://www.facebook.com/stnanaimo"}
 - {icon: "ion-logo-twitter", color: "#0a243f", name: Twitter, link: "https://twitter.com/STNanaimo"}
-- {icon: "ion-ios-business", color: "#0a243f", name: Strong Towns Homepage, link: "https://www.strongtowns.org"}
-- {icon: "ion-ios-boat", color: "#00b9f1", name: Nanaimo Official City Plan, link: "https://www.nanaimo.ca/property-development/community-planning-land-use/city-plan"}
-- {icon: "ion-ios-build", color: "#004475", name: Nanaimo City Projects, link: "https://www.nanaimo.ca/your-government/projects"}
-- {icon: "ion-ios-bicycle", color: "#00668d", name: Get Involved Nanaimo, link: "https://www.getinvolvednanaimo.ca"}
-- {icon: "ion-md-contacts", color: "#444444", name: Volunteer Nanaimo, link: "https://www.volunteernanaimo.ca"}
+- {icon: "ion-logo-rss", color: "#0a243f", name: RSS, link: "/feed.xml"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
 # Other icons can be found at https://ionicons.com/v4/
