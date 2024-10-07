@@ -108,7 +108,7 @@ We need your help to make this vision a reality. By sending an email to Nanaimo 
         var email = document.getElementById('email').value;
         var message = document.getElementById('message').value;
         var subject = name + " - Support for People Over Parking";
-        window.location.href = "mailto:michael@bassi.li?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(message);
+        window.location.href = "mailto:mayor.council@nanaimo.ca?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(message);
     });
 </script>
 
