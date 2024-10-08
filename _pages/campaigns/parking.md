@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Let's Put People Over Parking
-# description: "Nanaimo has already solved the housing crisis…for cars."
+# description: "Your friends at Strong Towns Nanaimo are asking Nanaimo City Council and Staff to put #PeopleOverParking. It's time to rethink our parking mandates and create a more sustainable, equitable, and vibrant city. Learn more about our proposal and how you can help make it a reality."
 permalink: /parking
 # image: '/images/campaigns/people-over-parking/people-over-parking-header.png'
 toc: true
