@@ -9,21 +9,19 @@ toc: true
 
 Nanaimo is at a pivotal moment—today's decisions on parking mandates will determine the future of urban development, livability, and sustainability in our city. As highlighted in this paper, the existing parking requirements have widespread negative impacts on housing affordability, urban design, municipal budgets, and environmental well-being.
 
-<div id="sidewalking-victoria-button">
-  <a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">Download The "People Over Parking" Report!</a>
-  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+<div style="margin-bottom:32px;">
+<a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">
+  <div style="height:100%;z-index: 10;border-radius: 60px !important;" id="parking-victoria-button">
+    <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
+      <div id="parking_banner_text">
+        Download The "People Over Parking" Report!
+      </div>
+    </div>
+  </div>
+</a>
 </div>
 
-By embracing reform, we have the opportunity to create a more equitable, economically robust, and environmentally sustainable Nanaimo. The time to act is now, and with the support of policymakers, planners, and the community, we can build a city that truly reflects our shared values and aspirations. 
-
-- [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
-- [See Where Parking Reform Has Already Happened](#see-where-parking-reform-has-already-happened)
-- [Words From Community Supporters Our Proposal](#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform)
-
 Nanaimo has already solved the housing crisis… _for cars_. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.
-
-![Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)](/images/campaigns/people-over-parking/parking-day-1.jpg){:loading="lazy"}
-*Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)*
 
 ## Tell The City You Want To Put People Over Parking
 
@@ -113,6 +111,25 @@ We need your help to make this vision a reality. By sending an email to Nanaimo 
 </script>
 
 You can also email [mayor.council@nanaimo.ca](mailto:mayor.council@nanaimo.ca) directly as well.
+
+***
+
+- [What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?](#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad)
+- [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
+- [See Where Parking Reform Has Already Happened](#see-where-parking-reform-has-already-happened)
+- [Words From Community Supporters Our Proposal](#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform)
+
+# What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?
+
+Parking mandates are regulations that require developers to provide a certain number of parking spaces for each new building they construct. These requirements are intended to ensure that there is enough parking available for residents, customers, and employees. However, they often result in an overabundance of parking, which can have negative consequences for urban development, housing affordability, and the environment. Municipal parking requirements were initially implemented in a time when personal automobiles were assumed to be the best and primary mode of transportation.
+
+> “The right to access every building in a city by private motorcar in an age when everyone owns such a vehicle, is actually the right to destroy the city.” &mdash; Lewis Mumford, 1961
+
+We have learned much about equity, finance, and the environment since those days and it is clear—parking minimums are a subsidy to the automobile which comes as a detriment to nearly everyone in society, including those who drive them. Parking minimums were created with the specific intent to alleviate on-street parking congestion. Ultimately, however, these regulations have resulted in an overabundance of parking infrastructure, leading to a host of urban planning challenges. By embracing reform, we have the opportunity to create a more equitable, economically robust, and environmentally sustainable Nanaimo. The time to act is now, and with the support of policymakers, planners, and the community, we can build a city that truly reflects our shared values and aspirations. 
+
+![Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)](/images/campaigns/people-over-parking/parking-day-1.jpg){:loading="lazy"}
+*Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)*
+
 
 ## Our Proposal For Parking Reform In Nanaimo
 

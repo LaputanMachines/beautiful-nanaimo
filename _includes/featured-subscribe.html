@@ -1,5 +1,17 @@
 {% if site.data.settings.mailchimp.enable == true %}
 <div class="container">
+  
+  <!-- Parking Reform Banner -->
+  <a href="/parking">
+    <div style="height:100%;z-index: 10;border-radius: 60px !important;" id="parking-victoria-button">
+      <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
+        <div id="parking_banner_text">
+          Click Here To Put People Over Parking
+        </div>
+      </div>
+    </div>
+  </a>
+  
   <div class="row">
     <div class="col col-12">
       <div class="subscribe" style="margin-bottom:30px;box-shadow: none;background:none;padding:0px;">
@@ -20,7 +32,7 @@
             <div>
               <div class="sib-form-block" style="text-align: left">
                 <button class="button button--primary subscribe-button" id="membedded-subscribe" form="sib-form"
-                  type="submit" name="subscribe" style="">Sign Up for Updates</button>
+                  type="submit" name="subscribe">Sign Up for Updates</button>
               </div>
             </div>
           </form>
