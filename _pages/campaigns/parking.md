@@ -7,24 +7,6 @@ permalink: /parking
 toc: true
 ---
 
-Nanaimo is at a pivotal moment—today's decisions on parking mandates will determine the future of urban development, livability, and sustainability in our city. As highlighted in this paper, the existing parking requirements have widespread negative impacts on housing affordability, urban design, municipal budgets, and environmental well-being.
-
-<div style="margin-bottom:32px;">
-<a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">
-  <div style="height:100%;z-index: 10;border-radius: 60px !important;" id="parking-victoria-button">
-    <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
-      <div id="parking_banner_text">
-        Download The "People Over Parking" Report!
-      </div>
-    </div>
-  </div>
-</a>
-</div>
-
-Nanaimo has already solved the housing crisis… _for cars_. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.
-
-## Tell The City You Want To Put People Over Parking
-
 We need your help to make this vision a reality. By sending an email to Nanaimo City Council, you can show your support for parking reform and help shape the future of our city. Use the form below to send a message to Nanaimo City Council expressing your support for the proposed motions. You can choose from a selection of template letters or write your own message.
 
 <form style="margin-bottom: 32px;" >
@@ -113,6 +95,22 @@ We need your help to make this vision a reality. By sending an email to Nanaimo 
 You can also email [mayor.council@nanaimo.ca](mailto:mayor.council@nanaimo.ca) directly as well.
 
 ***
+
+Nanaimo is at a pivotal moment—today's decisions on parking mandates will determine the future of urban development, livability, and sustainability in our city. As highlighted in this paper, the existing parking requirements have widespread negative impacts on housing affordability, urban design, municipal budgets, and environmental well-being.
+
+<div style="margin-bottom:32px;">
+<a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">
+  <div style="height:100%;z-index: 10;border-radius: 60px !important;" id="parking-victoria-button">
+    <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
+      <div id="parking_banner_text">
+        Download The "People Over Parking" Report!
+      </div>
+    </div>
+  </div>
+</a>
+</div>
+
+Nanaimo has already solved the housing crisis… _for cars_. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.
 
 - [What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?](#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad)
 - [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
