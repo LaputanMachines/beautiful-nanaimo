@@ -112,11 +112,11 @@ Nanaimo is at a pivotal moment—today's decisions on parking mandates will dete
 
 Nanaimo has already solved the housing crisis… _for cars_. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.
 
-- [What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?](#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad)
-- [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
-- [See Where Parking Reform Has Already Happened](#see-where-parking-reform-has-already-happened)
-- [Words From Community Supporters Our Proposal](#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform)
-- [Read Letters Of Support For Our Proposal](#read-letters-of-support-for-our-proposal)
+- 🚗 [What The Heck Are Mandatory Parking Requirements?](#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad)
+- 🛠️ [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
+- 🌎 [See Where Parking Reform Has Already Happened](#see-where-parking-reform-has-already-happened)
+- 📃 [Words From Community Supporters Our Proposal](#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform)
+- 🙌 [Read Letters Of Support For Our Proposal](#read-letters-of-support-for-our-proposal)
 
 # What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?
 
