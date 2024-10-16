@@ -7,6 +7,7 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#chly-parking-day-september-20th-2024">CHLY: Parking Day</a></li>
   <li class="toc-entry toc-h2"><a href="#chly-parking-minimums-september-13th-2024">CHLY Parking Minimum Interview</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-news-pedestrian-deaths-spike-in-nanaimo-aired-on-april-14th-2024">CBC News: Pedestrian Deaths Spike In Nanaimo</a></li>
   <li class="toc-entry toc-h2"><a href="#on-the-island-with-gregor-craigie-pedestrian-deaths-on-the-rise-aired-on-mar-26th-2024">On The Island with Gregor Craigie: Pedestrian Deaths On The Rise</a></li>
@@ -16,6 +17,15 @@ permalink: /media
 </ul>
 
 ***
+
+## CHLY: Parking Day (September 20th, 2024)
+
+In downtown Nanaimo, Park(ing) Day was observed by Strong Towns Nanaimo and Master of Community Planning (MCP) students from Vancouver Island University who created two “parklets” in front of the Vancouver Island Literary Center and Cold Front Gelato on Commercial Street. Parklets are flexible and usually non-permanent sidewalk extensions made to create more public space. Parklets tend to be installed where there is streetside parking taking up one, two, or sometimes three parking spaces.
+
+<div id="sidewalking-victoria-button">
+  <a href="https://www.chly.ca/local-news/2024/09/20/groups-take-over-parking-spaces-in-downtown-nanaimo-to-showcase-a-vehicle-future">Read the article on CHLY's website</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
 
 ## CHLY: Parking Minimums (September 13th, 2024)
 
