@@ -172,6 +172,7 @@ We've met with developers, architects, planners, and other stakeholders to discu
 
 We have received letters of support from a variety of organizations and individuals who believe in the importance of parking reform. Some of these letters are included below:
 
+- 🚌 [Urban Thrive](/urban-thrive-letter-of-support-for-parking-reform.pdf) - Submitted on October 17th, 2024
 - 🏙️ [Happy Cities](/documents/campaigns/parking/happy-cities-letter-of-support-for-parking-reform.pdf) - Submitted on October 16th, 2024
 - 🏠 [Small Housing BC](/documents/campaigns/parking/small-housing-bc-letter-of-support-for-parking-reform.pdf) - Submitted on September 20th, 2024
 - 🏙️ [More Homes Canada](/documents/campaigns/parking/more-homes-canada-letter-of-support-for-parking-reform.pdf) - Submitted on September 14th, 2024
