@@ -3,7 +3,7 @@ layout: page
 title: "OasCity: 17th Annual Urban Issues Film Festival"
 description: "Join us for another Urban Issues Film Festival. As always, admission is free and pizza is provided. Enjoy films that focus on promoting diverse housing options, accessible public services, and safe spaces that foster belonging and connection."
 permalink: /events/2024/11/22/urban-issues-film-festival
-event_datetime: "2024-11-22 6:00 - 9:00 pm"
+event_datetime: "2024-11-22 6:00pm - 9:00pm"
 event_location: "VIU Building 356, Room 109"
 image: '/images/events/2024-11-22-urban-issues-film-festival/2024-11-22-urban-issues-film-festival-promo.png'
 published: true

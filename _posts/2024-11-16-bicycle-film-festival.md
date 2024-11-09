@@ -3,7 +3,7 @@ layout: page
 title: "2024 Bicycle Film Festival"
 description: "Get ready for a pedal-powered extravaganza at the 2024 Bicycle Film Festival in Nanaimo - a celebration of all things cycling. Strong Towns Nanaimo members get 15% off tickets!"
 permalink: /events/2024/11/16/bicycle-film-festival
-event_datetime: "2024-11-16 5:00 - 8:00 pm"
+event_datetime: "2024-11-16 5:00pm - 8:00pm"
 event_location: "Malaspina Theatre"
 image: '/images/events/2024-11-16-bicycle-film-festival/2024-11-16-bicycle-film-festival-promo.png'
 published: true
