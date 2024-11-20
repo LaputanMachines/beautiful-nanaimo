@@ -178,6 +178,7 @@ We have received letters of support from a variety of organizations and individu
 - 🏙️ [More Homes Canada](/documents/campaigns/parking/more-homes-canada-letter-of-support-for-parking-reform.pdf) - Submitted 2024-09-14
 - 👑 [Donald Shoup](/documents/campaigns/parking/donald-shoup-letter-of-support-for-parking-reform.pdf) - Submitted 2024-09-12
 - 🚲 [Strong Towns (US)](/documents/campaigns/parking/strong-towns-letter-of-support-for-parking-reform.pdf) - Submitted 2024-09-11
+- 🛠️ [Masthead Properties](/documents/campaigns/parking/masthead-properties-letter-of-support-for-parking-reform.pdf) - Submitted 2024-09-10
 
 We are grateful for the support of these organizations and look forward to working with them to make parking reform a reality in Nanaimo. Note that these letters are just a small sample of the many organizations and individuals who have endorsed our proposal. We are proud to have the support of so many diverse groups and individuals who share our vision for a more sustainable, equitable, and vibrant Nanaimo. However, not all letters of support are public, and some _organizations have requested that their support remain private_.
 
