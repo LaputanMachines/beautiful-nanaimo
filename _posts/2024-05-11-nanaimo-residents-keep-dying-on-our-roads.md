@@ -7,7 +7,7 @@ author: strong-towns-nanaimo
 image: '/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/header.png'
 image_caption: "Proposed plans for Wakesiah Ave corridor improvements. (City of Nanaimo)"
 tags: [features, roads, safety]
-featured: true
+featured: false
 type: post
 toc: true
 submitted_by: Michael Bassili
