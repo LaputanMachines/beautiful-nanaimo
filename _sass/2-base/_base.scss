@@ -201,6 +201,8 @@ hr {
 }
 
 table {
+  display: block;
+  overflow: scroll;
   font-size: 12px;
   color: var(--dark);
   width: 100%;
