@@ -7,7 +7,7 @@ author: strong-towns-nanaimo
 image: '/images/large-trucks-are-dangerous/vehicle-viewlines-header-1.jpg'
 image_caption: 'Different viewlines for different trucks (2023, Myles Russell, Civil Engineering Technologist)'
 tags: [features, safety, cars]
-featured: true
+featured: false
 type: post
 submitted_by: Michael Bassili
 ---
