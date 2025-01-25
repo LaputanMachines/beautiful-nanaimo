@@ -6,6 +6,11 @@ permalink: /about
 image: '/images/about-us/strong-towns-nanaimo-meetup.jpg'
 ---
 
+<div id="sidewalking-victoria-button">
+  <a href="/members">Learn More About The Board Here</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
+
 *The Strong Towns movement represents a new way of thinking about urban planning and development that prioritizes the needs of the community, rather than those of developers or other stakeholders*. A Strong Town is characterized by a number of important features, including productive land use, wise infrastructure investment, incremental building, people-focused planning, and bottom-up decision-making.  Another key feature of Strong Towns is wise infrastructure investment. This means investing in infrastructure that provides a high return on investment, both financially and socially. For example, Strong Towns prioritize investments in roads and sidewalks that are designed to be safe and accessible for pedestrians, cyclists, and public transit users, rather than prioritizing the needs of cars.
 
 > The best thing we can do for the safety of our children is to get them out of the car by building mixed-use, walkable neighborhoods. The safest trip is the one not taken. 
