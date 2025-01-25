@@ -7,6 +7,7 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#bottom-up-shorts-how-to-remove-parking-mandates-in-your-downtown-january-20th-2025">Bottom-Up Shorts: Parking</a></li>
   <li class="toc-entry toc-h2"><a href="#chly-parking-day-september-20th-2024">CHLY: Parking Day</a></li>
   <li class="toc-entry toc-h2"><a href="#chly-parking-minimums-september-13th-2024">CHLY Parking Minimum Interview</a></li>
   <li class="toc-entry toc-h2"><a href="#cbc-news-pedestrian-deaths-spike-in-nanaimo-aired-on-april-14th-2024">CBC News: Pedestrian Deaths Spike In Nanaimo</a></li>
@@ -17,6 +18,15 @@ permalink: /media
 </ul>
 
 ***
+
+## Bottom-Up Shorts: How To Remove Parking Mandates in Your Downtown (January 20th, 2025)
+
+In this episode of Bottom-Up Shorts, host Norm Van Eeden Petersman is joined by Michael Bassili, one of the leaders of Strong Towns Nanaimo, a Local Conversation group based in British Columbia, Canada. Bassili explains how his Local Conversation created a parking campaign that convinced their city council to vote 8-1 to eliminate parking mandates in their downtown.
+
+<div id="sidewalking-victoria-button">
+  <a href="https://littlethings.strongtowns.org/e/bottom-up-shorts-how-to-remove-parking-mandates-in-your-downtown/">Listen To The Podcast Episode</a>
+  <div class="banner_bg lazy loaded" data-bg="" data-ll-status="entered"></div>
+</div>
 
 ## CHLY: Parking Day (September 20th, 2024)
 
