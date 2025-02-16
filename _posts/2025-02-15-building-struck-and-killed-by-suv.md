@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Local Restaurant Was Not Wearing Reflective Gear When It Was Struck And Killed By An SUV"
-description: "The vehicle that struck Poké Page North Nanaimo on Feb. 13 was not wearing reflective gear, nor did it make eye contact with the driver of the SUV. "
+description: "Poké Page in North Nanaimo on Feb. 13 was not wearing reflective gear, nor did it make eye contact with the driver of the SUV."
 date: 2025-02-15
 author: strong-towns-nanaimo
 image: '/images/posts/2025-02-15-building-struck-and-killed-by-suv/aulds-road-restaurant-crash-feb-13.jpg'
