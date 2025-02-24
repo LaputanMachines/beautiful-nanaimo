@@ -2,8 +2,8 @@
 layout: page
 title: "March 2025 Monthly Meetup: Downtown Library"
 description: "This month, we're excited to welcome Roy Symons, a Sustainable Transportation Specialist with ISL Engineering and Land Services Ltd. where he works with cities to plan and design better active transportation facilities and safer streets."
-permalink: /events/2025/02/08/monthly-meetup
-event_datetime: "2025-02-08 11:00am-1:00pm"
+permalink: /events/2025/03/08/monthly-meetup
+event_datetime: "2025-03-08 11:00am-1:00pm"
 event_location: "VIRL Downtown"
 image: '/images/events/2025-02-08-monthly-meetup/2025-02-08-monthly-meetup.png'
 published: true
