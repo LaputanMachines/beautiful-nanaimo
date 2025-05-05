@@ -3,7 +3,7 @@ layout: page
 title: About Strong Towns Nanaimo
 description: Strong Towns Nanaimo advocates for a new approach to urban planning and development that is financially resilient, sustainable, and equitable. <i>We are a grassroots organization that is not affiliated with the City of Nanaimo.</i> 
 permalink: /about
-image: '/images/about-us/strong-towns-nanaimo-meetup.jpg'
+image: '/images/about-us/strong-towns-nanaimo-group-photo-1.JPG'
 ---
 
 <div id="sidewalking-victoria-button">
