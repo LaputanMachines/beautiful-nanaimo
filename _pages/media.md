@@ -7,6 +7,7 @@ permalink: /media
 ---
 
 <ul id="toc" class="section-nav">
+  <li class="toc-entry toc-h2"><a href="#cbc-why-conversation-is-key-in-fighting-polarization-and-helping-democracy-april-19th-2025">CBC: Conversations To Help Democracy</a></li>
   <li class="toc-entry toc-h2"><a href="#bottom-up-shorts-how-to-remove-parking-mandates-in-your-downtown-january-20th-2025">Bottom-Up Shorts: Parking</a></li>
   <li class="toc-entry toc-h2"><a href="#chly-parking-day-september-20th-2024">CHLY: Parking Day</a></li>
   <li class="toc-entry toc-h2"><a href="#chly-parking-minimums-september-13th-2024">CHLY Parking Minimum Interview</a></li>
@@ -18,6 +19,12 @@ permalink: /media
 </ul>
 
 ***
+
+## CBC: Why Conversation Is Key In Fighting Polarization And Helping Democracy (April 19th, 2025)
+
+Ideas host Nahlah Ayed speaks with residents of Edmonton about the importance of engaging in conversation with others in real life amidst polarization. They explore what polarization actually is, and when it’s a positive or negative aspect of our democratic discourse — specifically during an election cycle.
+
+<p><iframe src="https://www.youtube.com/embed/hwECJctpDn8?si=xnnw85jQPI9ACQ47" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 ## Bottom-Up Shorts: How To Remove Parking Mandates in Your Downtown (January 20th, 2025)
 
