@@ -2,7 +2,7 @@
 username: michael
 name: Michael B.
 image: '/images/authors/michael.jpg'
-position: "Managing Director"
+position: "Co-Founder, Managing Director"
 email: michael@beautifulnanaimo.ca
 permalink: /members/michael
 ---
