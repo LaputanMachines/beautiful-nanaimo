@@ -3,14 +3,13 @@ layout: post
 title: "One Step Forward, Two Giant Steps Back"
 description: "Despite Nanaimo's own design and safety guidelines advocating for minimizing conflicts between drivers and vulnerable road users, the outcome of the Fifth Street project falls short of creating a truly complete street. The hope remains that future projects, such as the Bruce and Fifth Complete Streets initiatives, will address these concerns and provide safer, more accessible infrastructure for all residents."
 date: 2023-12-03
-author: strong-towns-nanaimo
+author: michael
 image: '/images/posts/2023-12-03-one-step-forward/bruce-and-fifth-render.png'
 image_caption: "Render of the new signalized intersection at Fifth and Bruce (City of Nanaimo)"
 tags: [features, infrastructure, roads, safety]
 featured: false
 type: post
 toc: true
-submitted_by: Michael Bassili
 ---
 
 Nanaimo has seen a slew of new infrastructure projects in recent months. As our city grows, the need for improved, accessible and equitable infrastructure grows as well. Growing communities need to consider the needs of both current and future residents as it plans infrastructure projects. 

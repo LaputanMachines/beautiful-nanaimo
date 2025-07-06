@@ -3,12 +3,11 @@ layout: post
 title: "Sacrificing Tomorrow for Yesterday: Nanaimo’s Housing Crossroads"
 description: "As Nanaimo grapples with a growing housing crisis, this article challenges us to confront the contradictions between our values and our actions—asking whether we’re building a future for our children or preserving the past at their expense."
 date: 2025-05-03
-author: strong-towns-nanaimo
+author: louis
 image: '/images/posts/2025-05-03-sacrificing-tomorrow-for-yesterday/downtown-nanaimo-development.jpg'
 image_caption: "A new development on Machleary St. Several years after a contested housing proposal was voted down, construction has begun to erect a 145-unit seniors’ housing project."
 permalink: /posts/2025/05/03/sacrificing-tomorrow-for-yesterday
 tags: [features, housing, community]
-submitted_by: Louis James
 featured: false
 type: post
 toc: true

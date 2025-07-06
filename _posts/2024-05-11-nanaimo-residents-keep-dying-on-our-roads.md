@@ -3,14 +3,13 @@ layout: post
 title: "Nanaimo Residents Keep Dying On Our Roads"
 description: "Four Nanaimo residents have already died from vehicular collisions, and it’s only May. Many factors determine if a person hit by a vehicle survives, but building safe streets is by far the most important thing we can do to make our streets safe."
 date: 2024-05-11
-author: strong-towns-nanaimo
+author: michael
 image: '/images/posts/2024-05-11-nanaimo-residents-keep-dying-on-our-roads/header.png'
 image_caption: "Proposed plans for Wakesiah Ave corridor improvements. (City of Nanaimo)"
 tags: [features, roads, safety]
 featured: false
 type: post
 toc: true
-submitted_by: Michael Bassili
 ---
 
 As of May 11th, four Nanaimo residents have died after being hit by a vehicle. After a 90 year-old woman was struck and killed in the Walmart parking lot, CBC reached out to Strong Towns Nanaimo for comment. This article follows up on our radio and television interviews on Nanaimo’s pedestrian safety. Size, speed, and roadway design all impact the safety of our streets. 

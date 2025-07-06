@@ -10,7 +10,7 @@ tags: [features, climate, sprawl]
 featured: false
 type: post
 toc: true
-submitted_by: Michael Bassili, Heather Baitz
+submitted_by: Heather Baitz
 ---
 
 Transportation is Nanaimo’s leading source of greenhouse gas emissions, accounting for 63% of total GHG emissions in 2017[^1]. One of the reasons for this insanely large number is the reliance on automobiles to get around town. Since the post-war home-building boom of the 50s and 60s, North America has been building its cities for _cars, not people_. This auto-oriented development pattern has cemented the need for a car in every resident’s mind. From grocery shopping to dentist appointments and everything in between. Nanaimo has sprawled out to the point of absurdity; whole neighbourhoods are kilometres away from the nearest commercial zone; our downtown experienced disinvestment as big-box commercial set up shop in the North-End of town; communities like Harewood lost their corner grocers as chain stores emerged. At the heart of all these issues was the insistence that cars were the future. That hasn’t exactly worked out for us.

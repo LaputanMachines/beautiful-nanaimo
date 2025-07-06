@@ -3,13 +3,12 @@ layout: post
 title: BC Eliminates SF Zoning
 description: "Upzoning all of British Columbia will help increase housing diversity, improve housing affordability, and enhance walkability in our cities while preserving neighbourhood character."
 date: 2023-04-09
-author: strong-towns-nanaimo
+author: michael
 image: '/images/bc-eliminates-single-family-zoning/nanaimo-zoning-map-1.jpg'
 image_caption: 'Nanaimo Zoning Bylaw Map, Yellow Indicating Residential Zoning'
 tags: [news, housing]
 featured: false
 type: post
-submitted_by: Michael Bassili
 ---
 
 On April 3rd, the Provincial government announced its [Homes for People plan](https://news.gov.bc.ca/files/Homes_For_People.pdf). One of the most critical inclusions is [the elimination of single-family zoning throughout British Columbia](https://news.gov.bc.ca/files/Homes4People.pdf). Up to four homes will be allowed on a traditional single-family lot across the Province. Legislation is expected to be introduced before the end of the year.

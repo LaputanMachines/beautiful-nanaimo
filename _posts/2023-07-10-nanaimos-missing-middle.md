@@ -3,13 +3,12 @@ layout: post
 title: "Nanaimo's Missing Middle"
 description: "A collaborative project with <a target=\"_blank\" href=\"https://www.sidewalkingvictoria.com\">Sidewalking Victoria</a>! Exploring Nanaimo’s diverse missing middle housing; townhomes, rowhomes, walk-ups, dingbats, duplexes, and everything in between! Our best neighbourhoods are those that contain a wide variety of housing forms."
 date: 2023-07-30
-author: strong-towns-nanaimo
+author: michael
 image: '/images/nanaimos-missing-middle/neighbourhood-waterfront.png'
 image_caption: "3D Aerial View of the Waterfront Neighbourhood off Townsite in Downtown Nanaimo"
 tags: [features, housing, gallery]
 featured: true
 type: post
-submitted_by: Michael Bassili
 ---
 
 <!-- TOC - Manually Added -->

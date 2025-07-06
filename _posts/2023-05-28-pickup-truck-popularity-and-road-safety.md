@@ -3,13 +3,12 @@ layout: post
 title: "Pickup Truck Popularity and Road Safety"
 description: "More Canadians are buying trucks over sedans every year. Let’s look at the numbers to see how “safe” trucks really are on our roads."
 date: 2023-05-28
-author: strong-towns-nanaimo
+author: michael
 image: '/images/large-trucks-are-dangerous/vehicle-viewlines-header-1.jpg'
 image_caption: 'Different viewlines for different trucks (2023, Myles Russell, Civil Engineering Technologist)'
 tags: [features, safety, cars]
 featured: false
 type: post
-submitted_by: Michael Bassili
 ---
 
 In recent years, there has been a notable increase in the popularity of pickup trucks in Canada, with [over 23% of vehicles sold in 2022 falling into this category](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000201). This rise in preference for trucks has coincided with [a decline in sedan sales](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010000201), indicating shifting consumer trends. However, it is important to examine the implications of this trend and consider its impact on our roads.

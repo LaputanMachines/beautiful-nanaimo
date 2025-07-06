@@ -3,12 +3,11 @@ layout: post
 title: "Celebrating Nanaimo’s Transit Expansion"
 description: "The Regional District of Nanaimo  will increase annual transit service hours by 8,700 starting January 5th, a boost of over 5%, supporting a more connected and sustainable community. This is a major win for transit in Nanaimo! This will help more people choose transit over their personal vehicle, and we think that's neat."
 date: 2025-01-05
-author: strong-towns-nanaimo
+author: louis
 image: '/images/posts/2025-01-05-celebrating-nanaimos-transit-expansion/downtown-nanaimo-bus.jpg'
 image_caption: "A #40 bus passing through the Victoria Crescent intersection. (Louis James)"
 permalink: /posts/2025/01/05/celebrating-nanaimos-transit-expansion
 tags: [features, transit, transportation]
-submitted_by: Louis James
 featured: true
 type: post
 toc: true

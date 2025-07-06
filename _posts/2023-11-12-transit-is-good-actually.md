@@ -8,9 +8,8 @@ image: '/images/letters/2023-11-12-transit-is-good-actually/header.png'
 image_caption: "Artist's rendering of the future downtown Nanaimo transit exchange. (City of Nanaimo)"
 published: true
 type: post
-author: strong-towns-nanaimo
+author: louis
 tags: [features, transit, livability]
-submitted_by: Louis James
 ---
 
 Busses are a good thing, actually. If you believe (as I do) that our city should prioritize equity, economic prosperity, and the environment, you should be supportive of this exchange. There have been many people writing to local papers about why the city should not move forward with this exchange, but I believe they are wrong. Here’s why. 

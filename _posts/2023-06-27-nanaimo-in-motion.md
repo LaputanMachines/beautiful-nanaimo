@@ -3,13 +3,12 @@ layout: post
 title: "Nanaimo in Motion"
 description: "Exciting new active transportation corridors are sprouting up throughout our town, reflecting a shift in Nanaimoites' mindset regarding transportation. Furthermore, it is evident that city staff are wholeheartedly dedicated to enhancing our streets for the benefit of all residents."
 date: 2023-06-27
-author: strong-towns-nanaimo
+author: michael
 image: '/images/nanaimo-in-motion/header.png'
 image_caption: "New Protected Bike Infrastructure Along Nelson Street (Strong Towns Nanaimo)"
 tags: [features, mobility, transportation]
 featured: false
 type: post
-submitted_by: Michael Bassili
 ---
 
 Nanaimo's recently-adopted City Plan emphasizes the need for our city to move away from car commuting, marking a significant shift as we undo years of suburban sprawl. An evident manifestation of this transformation is the impressive introduction of protected cycling infrastructure throughout the town. Prominent examples include the Metral Drive, Front Street, and Albert/Fourth Street bikeways. These projects demonstrate that the City is committed to actively investing in transportation improvements, and the results are truly remarkable.

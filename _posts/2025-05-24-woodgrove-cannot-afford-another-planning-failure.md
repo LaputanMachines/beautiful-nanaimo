@@ -3,12 +3,11 @@ layout: post
 title: "Woodgrove Cannot Afford Another Planning Failure"
 description: "Woodgrove today is a monument to everything wrong with suburban sprawl. This plan is Nanaimo’s chance to build something human, vibrant, and lasting."
 date: 2025-05-24
-author: strong-towns-nanaimo
+author: michael
 image: '/images/posts/2025-05-24-woodgrove-cannot-afford-another-planning-failure/woodgrove-3d-overhead-shot-intersection.png'
 image_caption: "Woodgrove was built for cars, and it shows. From the massive intersections, narrow sidewalks, and kilometers of surface parking lots, it's clear that this space rarely considers the needs of those outside of a vehicle. But things might be shaking up for Nanaimo's 'Northern Gateway;' this is our chance to get things right!"
 permalink: /posts/2025/05/24/woodgrove-cannot-afford-another-planning-failure
 tags: [features, housing, planning, place]
-submitted_by: Michael Bassili
 featured: false
 type: post
 toc: true

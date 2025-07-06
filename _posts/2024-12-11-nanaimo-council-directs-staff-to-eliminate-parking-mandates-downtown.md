@@ -3,12 +3,11 @@ layout: post
 title: "Strong Towns Nanaimo Applauds City Council’s Bold Move Towards Eliminating Parking Minimums Downtown"
 description: "Strong Towns Nanaimo is celebrating City Council’s landmark decision on parking mandates in the downtown core.  In a decisive vote, Mayor and Council voted 8-1 to begin the process of eliminating off-street minimum parking requirements for all uses in the Downtown Primary Urban Centre. Staff have been instructed to begin drafting changes to the Parking Bylaw in order to make this a reality. Council will likely have a vote in January according to normal rules for amending bylaws."
 date: 2024-12-11
-author: strong-towns-nanaimo
+author: deraek
 image: '/images/campaigns/people-over-parking/parking-day-1.jpg'
 image_caption: "Nanaimo residents choose people over parking on Park(ing) Day 2024. (Strong Towns Nanaimo)"
 permalink: /posts/2024/12/11/nanaimo-council-directs-staff-to-eliminate-parking-mandates-downtown
 tags: [features, parking]
-submitted_by: Deraek Menard
 featured: true
 type: post
 toc: true

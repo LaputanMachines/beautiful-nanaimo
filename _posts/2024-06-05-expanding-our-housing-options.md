@@ -3,7 +3,7 @@ layout: post
 title: "Expanding Our Housing Options"
 description: "This article is the first in a series following the changes in our city relating to housing. Check back in later to see what Nanaimo has been doing to make Missing Middle Housing possible."
 date: 2024-06-05
-author: strong-towns-nanaimo
+author: louis
 image: '/images/posts/2024-06-05-expanding-our-housing-options/540-franklyn-street.jpg'
 permalink: /posts/2024/06/05/expanding-our-housing-options/
 image_caption: "540 Franklyn Street showcasing tall townhomes in the downtown core. (460 Realty Inc.)"
@@ -11,7 +11,6 @@ tags: [features, housing, policy]
 featured: false
 type: post
 toc: true
-submitted_by: Louis James
 ---
 
 Last year we covered the City's plans to increase housing options throughout the city. (You can read about that here). While not as ambitious as we would have hoped, considering Nanaimo is in a full-blown housing crisis, we were happy to see the city moving in the right direction. At the time, Nanaimo was planning on allowing triplex and fourplex housing in some parts of Nanaimo. This was a step in the right direction. More homes are better, after all. Multi-unit housing like townhouses and plexes create more homes on the same size of land used by a single home, the cost is shared by more households which can lower the price of each home overall. But Nanaimo’s need for homes continues as can be seen in the City’s Housing Needs Report.  

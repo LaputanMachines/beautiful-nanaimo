@@ -3,13 +3,12 @@ layout: post
 title: Roundabouts, Fast Ferries, and Downtown Density
 description: "There are loads of changes coming to Nanaimo! The Mary Ellen roundabout is now complete in the North End. The Hullo fast ferry is slated to launch in June. And, Nanaimo city council approves new low-rises and condos downtown."
 date: 2023-04-20
-author: strong-towns-nanaimo
+author: michael
 image: '/images/roundabouts-fast-ferries-and-downtown-density/chapel-street-street-view-1.jpg'
 image_caption: '3D View of Chapel Street Downtown (Google Street View)'
 tags: [news, transportation, infrastructure]
 featured: false
 type: post
-submitted_by: Michael Bassili
 ---
 
 This was a big week for urbanist news in Nanaimo! Downtown, the Vancouver Island Ferry Company (VIFC) broke ground on a new welcome centre, and a set of low-rise towers were approved behind the courthouse. And, in the North End of town, the Mary Ellen roundabout is finally complete. 

@@ -3,8 +3,7 @@ layout: post
 title: "Building A Vibrant Downtown Starts With Pedestrian-Friendly Infrastructure"
 description: "A response to the recent op-ed in the Nanaimo News Bulletin. Narrow lanes and pedestrian-friendly improvements on Terminal Avenue and Nicol Street enhance safety, boost local economies, and promote environmental sustainability."
 date: 2024-06-23
-author: strong-towns-nanaimo
-submitted_by: Michael Bassili
+author: michael
 image: '/images/posts/2024-06-23-building-a-vibrant-downtown-starts-with-pedestrian-friendly-infrastructure/commercial-street-bikes.jpg'
 permalink: /posts/2024/06/23/building-a-vibrant-downtown-starts-with-pedestrian-friendly-infrastructure
 image_caption: "A vibrant Commercial Street filled with bikes and people. Our most valuable streetscapes are often overrun by cars, but they can be transformed into vibrant, people-friendly spaces. (Strong Towns Nanaimo)"

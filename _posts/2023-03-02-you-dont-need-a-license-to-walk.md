@@ -3,13 +3,12 @@ layout: post
 title: You Don't Need a License to Walk
 description: "We need to rethink how we talk about car accidents involving pedestrians in Nanaimo. Pedestrians are seen as obstacles for drivers who are often driving too fast and are too distracted along roads that are all too wide."
 date: 2023-03-02
-author: strong-towns-nanaimo
+author: michael
 image: '/images/nanaimo-photos/metral-drive-1.jpg'
 image_caption: 'Pedestrian crosswalk on Metral Drive (03-03-2023)'
 tags: [features, cars, pedestrians, safety]
 featured: false
 type: post
-submitted_by: Michael Bassili
 ---
 
 In Nanaimo, the message is clear: if you’re not wearing reflective clothing while out for a walk, expect to be hit by a car. [That’s the message we’re routinely told by RCMP, ICBC, and city officials](https://nanaimonewsnow.com/2021/10/20/pedestrians-need-to-be-seen-to-be-safe/). Pedestrians are expected to suit up before leaving their homes so drivers, equipped with headlights and a driver's license, can avoid hitting you. Drivers are the center of attention when it comes to transportation in Nanaimo. Roads rarely accommodate anyone other than drivers here, although [that’s slowly changing as projects like Metral Drive begin to take shape](https://nanaimonewsnow.com/2022/11/15/really-important-to-the-community-construction-all-but-wrapped-on-extensive-metral-dr-redesign/). 
