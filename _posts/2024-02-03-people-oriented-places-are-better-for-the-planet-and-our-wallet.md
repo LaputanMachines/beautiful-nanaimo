@@ -3,14 +3,13 @@ layout: post
 title: "People-Oriented Places Are Better For The Planet (And Our Wallet)"
 description: "Sprawling out often means consuming land, misusing resources, and forcing residents into private cars. Building denser cities with people in mind can contribute to a reduction in greenhouse emissions while also improving the lives of residents."
 date: 2024-02-03
-author: strong-towns-nanaimo
+author: michael
 image: '/images/posts/2024-02-03-people-oriented-places-are-better-for-the-planet-and-our-wallet/header.jpg'
 image_caption: "Downtown Qualicum Beach, a narrow street with lots of commercial and mixed use buildings pushed right up to the street. The town of Qualicum Beach is more walkable than most municipalities of its size in British Columbia. (Strong Towns Nanaimo)"
 tags: [features, climate, sprawl]
 featured: false
 type: post
 toc: true
-submitted_by: Heather Baitz
 ---
 
 Transportation is Nanaimo’s leading source of greenhouse gas emissions, accounting for 63% of total GHG emissions in 2017[^1]. One of the reasons for this insanely large number is the reliance on automobiles to get around town. Since the post-war home-building boom of the 50s and 60s, North America has been building its cities for _cars, not people_. This auto-oriented development pattern has cemented the need for a car in every resident’s mind. From grocery shopping to dentist appointments and everything in between. Nanaimo has sprawled out to the point of absurdity; whole neighbourhoods are kilometres away from the nearest commercial zone; our downtown experienced disinvestment as big-box commercial set up shop in the North-End of town; communities like Harewood lost their corner grocers as chain stores emerged. At the heart of all these issues was the insistence that cars were the future. That hasn’t exactly worked out for us.
