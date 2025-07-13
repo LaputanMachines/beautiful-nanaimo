@@ -117,6 +117,12 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   /* ======================================
+  // Photo Carousel Enhancements
+  ====================================== */
+  // Carousel functionality removed - continuous scrolling only
+
+
+  /* ======================================
   // Stop Animations During Window Resizing
   ====================================== */
   let resizeTimer;

@@ -86,6 +86,160 @@
   height: 600px;
   width: 100%;
 }
+
+/* Photo Carousel */
+.photo-carousel-section {
+  margin-bottom: 40px;
+  overflow: hidden;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, 
+      rgba(255,255,255,0.8) 0%, 
+      rgba(255,255,255,0) 10%, 
+      rgba(255,255,255,0) 90%, 
+      rgba(255,255,255,0.8) 100%);
+    pointer-events: none;
+    z-index: 2;
+  }
+}
+
+.photo-carousel {
+  position: relative;
+  width: 100%;
+  /* height: 300px; */
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.carousel-track {
+  display: flex;
+  width: calc(200% + 20px); /* Double width plus gap */
+  animation: scroll 60s linear infinite;
+  will-change: transform;
+}
+
+.carousel-slide {
+  flex: 0 0 auto;
+  margin-right: 0;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.carousel-image-wrapper {
+  box-shadow: none;
+  overflow: hidden;
+  display: block;
+  height: 220px;
+  width: 100%;
+}
+
+.carousel-slide img {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  transition: all 0.3s ease;
+  box-shadow: none;
+  filter: brightness(0.9);
+  display: block;
+}
+
+.carousel-slide:last-child {
+  margin-right: 0;
+}
+
+.carousel-slide img::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  pointer-events: none;
+  z-index: -1;
+}
+
+@media (max-width: $tablet) {
+  .carousel-slide img {
+    height: 160px;
+  }
+}
+
+@media (max-width: $mobile) {
+  .carousel-slide img {
+    height: 110px;
+  }
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-50% - 10px)); /* Move by half width plus gap */
+  }
+}
+
+/* Add a subtle overlay with title */
+.carousel-slide::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 5px;
+  right: 5px;
+  height: 30%;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  border-radius: 0 0 15px 15px;
+  pointer-events: none;
+}
+
+/* Accessibility improvements */
+.photo-carousel:focus {
+  outline: 2px solid var(--accent-color, #007acc);
+  outline-offset: 2px;
+}
+
+/* Loading state */
+.carousel-slide img:not([src]) {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  .carousel-track {
+    animation: none;
+  }
+  
+  .photo-carousel:hover .carousel-track {
+    animation-play-state: running;
+  }
+}
+
 /* Banner */
 .banner {
 

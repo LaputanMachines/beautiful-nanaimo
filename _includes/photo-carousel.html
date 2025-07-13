@@ -1,0 +1,31 @@
+<!-- Photo Carousel -->
+<section class="photo-carousel-section">
+  <div class="container">
+    <div class="section__info">
+      <div class="section__head">
+        <h2 class="section__title">Join Hundreds Of Community Advocates</h2>
+        <p class="section__description">We Meet At Least Once A Month For Bike Rides, Talks, And Walks</p>
+      </div>
+    </div>
+    <div class="photo-carousel">
+      <div class="carousel-track">
+        {% assign carousel_images = site.data.carousel_images %}
+        {% for img in carousel_images %}
+          <div class="carousel-slide">
+            <div class="carousel-image-wrapper">
+              <img src="{{ img }}" alt="Carousel image" loading="lazy">
+            </div>
+          </div>
+        {% endfor %}
+        <!-- Duplicate set for seamless loop -->
+        {% for img in carousel_images %}
+          <div class="carousel-slide">
+            <div class="carousel-image-wrapper">
+              <img src="{{ img }}" alt="Carousel image" loading="lazy">
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section> 
