@@ -25,8 +25,8 @@ toc: true
   font-family: inherit;
 ">
   <span style="font-size: 2.2rem; line-height: 1;">🎉🥳🎊</span>
-  <h2 style="margin: 10px 0 6px 0; font-size: 1.5rem; font-weight: 800; letter-spacing: -1px;">Nanaimo Eliminates Parking Mandates Downtown!</h2>
-  <div style="font-size: 1.15rem; font-weight: 500; margin-bottom: 0;">The City of Nanaimo is starting to put people over parking! Thank you for making history with us. Nanaimo is now the SECOND city in British Columbia to eliminate parking mandates. Strong Towns Nanaimo will continue to advocate for more progressive reforms city-wide.</div>
+  <h2 style="margin: 10px 0 6px 0; font-size: 1.5rem; font-weight: 800; letter-spacing: -1px;">Nanaimo Eliminates Parking Mandates Downtown</h2>
+  <div style="font-size: 1.15rem; font-weight: 500; margin-bottom: 0;">The City of Nanaimo has made the first small step towards putting people over parking! Our goal is still city-wide parking mandate elimination and there is so much work left to do, but thank you for making history with us! Nanaimo is now the SECOND city in BC to eliminate any parking mandates! Join us in celebrating as we continue to work towards city-wide elimination!</div>
   <div style="font-size: 0.95rem; color: #333; margin-top: 7px; opacity: 0.7;">(Click this banner to celebrate again!)</div>
 </div>
 
