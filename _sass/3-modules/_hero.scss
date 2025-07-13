@@ -89,7 +89,6 @@
 
 /* Photo Carousel */
 .photo-carousel-section {
-  margin-bottom: 40px;
   overflow: hidden;
   position: relative;
 
@@ -113,11 +112,11 @@
 .photo-carousel {
   position: relative;
   width: 100%;
-  /* height: 300px; */
   overflow: hidden;
   transition: transform 0.3s ease;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   border-radius: 20px;
+  margin-bottom: 40px;
 }
 
 .carousel-track {
@@ -141,13 +140,15 @@
   box-shadow: none;
   overflow: hidden;
   display: block;
-  height: 220px;
   width: 100%;
+  max-height: 220px;
+  height: 100%;
 }
 
 .carousel-slide img {
-  height: 100%;
   width: 100%;
+  height: 100%;
+  max-height: 220px;
   max-width: 100%;
   object-fit: contain;
   transition: all 0.3s ease;
@@ -174,14 +175,16 @@
 }
 
 @media (max-width: $tablet) {
+  .carousel-image-wrapper,
   .carousel-slide img {
-    height: 160px;
+    max-height: 160px;
   }
 }
 
 @media (max-width: $mobile) {
+  .carousel-image-wrapper,
   .carousel-slide img {
-    height: 110px;
+    max-height: 110px;
   }
 }
 
