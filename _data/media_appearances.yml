@@ -1,0 +1,74 @@
+- title: "Why Conversation Is Key In Fighting Polarization And Helping Democracy"
+  outlet: "CBC Ideas"
+  date: "April 19th, 2025"
+  description: "Ideas host Nahlah Ayed speaks with residents of Edmonton about the importance of engaging in conversation with others in real life amidst polarization. They explore what polarization actually is, and when it's a positive or negative aspect of our democratic discourse — specifically during an election cycle."
+  external_url: "https://www.youtube.com/watch?v=hwECJctpDn8"
+  video_embed: "https://www.youtube.com/embed/hwECJctpDn8?si=xnnw85jQPI9ACQ47"
+  type: "video"
+  tags: ["democracy", "polarization", "conversation"]
+
+- title: "How To Remove Parking Mandates in Your Downtown"
+  outlet: "Bottom-Up Shorts"
+  date: "January 20th, 2025"
+  description: "In this episode of Bottom-Up Shorts, host Norm Van Eeden Petersman is joined by Michael Bassili, one of the leaders of Strong Towns Nanaimo, a Local Conversation group based in British Columbia, Canada. Bassili explains how his Local Conversation created a parking campaign that convinced their city council to vote 8-1 to eliminate parking mandates in their downtown."
+  external_url: "https://littlethings.strongtowns.org/e/bottom-up-shorts-how-to-remove-parking-mandates-in-your-downtown/"
+  type: "podcast"
+  tags: ["parking", "downtown", "campaign", "policy"]
+
+- title: "Parking Day"
+  outlet: "CHLY"
+  date: "September 20th, 2024"
+  description: "In downtown Nanaimo, Park(ing) Day was observed by Strong Towns Nanaimo and Master of Community Planning (MCP) students from Vancouver Island University who created two 'parklets' in front of the Vancouver Island Literary Center and Cold Front Gelato on Commercial Street."
+  external_url: "https://www.chly.ca/local-news/2024/09/20/groups-take-over-parking-spaces-in-downtown-nanaimo-to-showcase-a-vehicle-future"
+  type: "article"
+  tags: ["parking day", "parklets", "downtown", "public space"]
+
+- title: "Parking Minimums"
+  outlet: "CHLY Midcoast Morning"
+  date: "September 13th, 2024"
+  description: "Midcoast Morning speaks with Caelen Middleton of Strong Towns Nanaimo about parking minimums, and James Knight with the City of Nanaimo about the construction project underway on Commercial Street."
+  external_url: "https://www.chly.ca/midcoastmorning/parking"
+  type: "radio"
+  tags: ["parking minimums", "commercial street", "construction"]
+
+- title: "Pedestrian Deaths Spike In Nanaimo"
+  outlet: "CBC News"
+  date: "April 14th, 2024"
+  description: "Michael Bassili and Deraek Menard speak to CBC News about the recent spike in pedestrian deaths in Nanaimo and what can be done to prevent them."
+  external_url: "https://www.youtube.com/watch?v=f-itjbZur5o"
+  video_embed: "https://www.youtube.com/embed/f-itjbZur5o?si=653b3xhGiWMqrz_S"
+  type: "video"
+  tags: ["pedestrian safety", "road safety", "deaths"]
+
+- title: "Pedestrian Deaths On The Rise"
+  outlet: "On The Island with Gregor Craigie"
+  date: "March 26th, 2024"
+  description: "Co-founder of Strong Towns Nanaimo Michael Bassili believes streets need to be people focused rather than car focused, because pedestrian fatalities are preventable."
+  external_url: "https://www.cbc.ca/listen/live-radio/1-48-on-the-island/clip/16052038-another-pedestrian-death-raises-calls-safer-streets-nanaimo"
+  type: "radio"
+  tags: ["pedestrian safety", "street design", "people-focused"]
+
+- title: "Strong Towns Nanaimo with Michael Bassili"
+  outlet: "Climate911"
+  date: "October 20th, 2023"
+  description: "In this episode, we sit down with Michael Bassili, co-founder of Strong Towns Nanaimo. We discuss what lead him and his partner to start Strong Towns Nanaimo, what they hope to achieve, ways to improve home affordability, and more."
+  external_url: "https://instantteleseminar.com/Events/133019553"
+  type: "podcast"
+  tags: ["strong towns", "housing affordability", "community"]
+
+- title: "Vancouver Island Residents Advocate for Affordable Housing"
+  outlet: "CBC"
+  date: "October 2nd, 2023"
+  description: "People on Vancouver Island are hoping to see some action as the province unveils new building targets for municipalities. Claire Palmer is in Nanaimo, hearing from advocates who say the construction of 'missing middle' housing is critical."
+  external_url: "https://www.youtube.com/watch?v=WfBklBrYS_c"
+  video_embed: "https://www.youtube.com/embed/WfBklBrYS_c?si=1KF25b8vTy613YGD"
+  type: "video"
+  tags: ["housing", "missing middle", "affordability", "provincial policy"]
+
+- title: "Missing Middle Housing in Nanaimo"
+  outlet: "On The Island with Gregor Craigie"
+  date: "August 2nd, 2023"
+  description: "Kathryn Marlow spoke with Michael Bassili, one of the founders of Strong Towns Nanaimo, a community group interested in urban planning and development."
+  external_url: "https://www.cbc.ca/listen/live-radio/1-48-on-the-island/clip/16001148-missing-middle-housing-nanaimo."
+  type: "radio"
+  tags: ["missing middle", "housing", "urban planning"]
