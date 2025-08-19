@@ -31,7 +31,7 @@ toc: true
   position: relative;
   z-index: 10;
   font-family: inherit;
-  animation: slideInDown 0.8s cubic-bezier(.77,0,.18,1);
+  animation: fadeIn 0.5s cubic-bezier(.77,0,.18,1);
 }
 
 .celebration-emoji {
@@ -70,13 +70,11 @@ toc: true
   }
 }
 
-@keyframes slideInDown {
+@keyframes fadeIn {
   from {
-    transform: translateX(-50%) translateY(-100%);
     opacity: 0;
   }
   to {
-    transform: translateX(-50%) translateY(0);
     opacity: 1;
   }
 }
