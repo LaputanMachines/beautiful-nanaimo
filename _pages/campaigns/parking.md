@@ -8,7 +8,15 @@ toc: true
 ---
 
 <!-- Celebration Banner (Improved) -->
-<div id="celebration-banner" style="
+<div id="celebration-banner" class="celebration-banner">
+  <span class="celebration-emoji">🎉🥳🎊</span>
+  <h2 class="celebration-title">Nanaimo Eliminates Parking Mandates Downtown</h2>
+  <div class="celebration-description">The City of Nanaimo has made the first small step towards putting people over parking! Our goal is still city-wide parking mandate elimination and there is so much work left to do, but thank you for making history with us! Nanaimo is now the SECOND city in BC to eliminate any parking mandates! Join us in celebrating as we continue to work towards city-wide elimination!</div>
+  <div class="celebration-subtitle">(Click this banner to celebrate again!)</div>
+</div>
+
+<style>
+.celebration-banner {
   width: 100vw;
   max-width: 100%;
   left: 50%;
@@ -23,22 +31,54 @@ toc: true
   position: relative;
   z-index: 10;
   font-family: inherit;
-">
-  <span style="font-size: 2.2rem; line-height: 1;">🎉🥳🎊</span>
-  <h2 style="margin: 10px 0 6px 0; font-size: 1.5rem; font-weight: 800; letter-spacing: -1px;">Nanaimo Eliminates Parking Mandates Downtown</h2>
-  <div style="font-size: 1.15rem; font-weight: 500; margin-bottom: 0;">The City of Nanaimo has made the first small step towards putting people over parking! Our goal is still city-wide parking mandate elimination and there is so much work left to do, but thank you for making history with us! Nanaimo is now the SECOND city in BC to eliminate any parking mandates! Join us in celebrating as we continue to work towards city-wide elimination!</div>
-  <div style="font-size: 0.95rem; color: #333; margin-top: 7px; opacity: 0.7;">(Click this banner to celebrate again!)</div>
-</div>
-
-<style>
-#celebration-banner {
   animation: slideInDown 0.8s cubic-bezier(.77,0,.18,1);
-  border-radius: 18px !important;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.10), 0 1.5px 6px rgba(0,0,0,0.08) !important;
 }
-@media (max-width: 600px) {
-  #celebration-banner h2 { font-size: 1.2rem; }
-  #celebration-banner { padding: 18px 2vw 14px 2vw; border-radius: 10px !important; }
+
+.celebration-emoji {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+
+.celebration-title {
+  margin: 10px 0 6px 0;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.celebration-description {
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.celebration-subtitle {
+  font-size: 0.95rem;
+  color: #333;
+  margin-top: 7px;
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .celebration-title {
+    font-size: 1.2rem;
+  }
+  
+  .celebration-banner {
+    padding: 18px 2vw 14px 2vw;
+    border-radius: 10px;
+  }
+}
+
+@keyframes slideInDown {
+  from {
+    transform: translateX(-50%) translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
 }
 </style>
 
@@ -78,9 +118,11 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 </script>
 
-We need your help to make this vision a reality. By sending an email to Nanaimo City Council, you can show your support for parking reform and help shape the future of our city. Use the form below to send a message to Nanaimo City Council expressing your support for the proposed motions. You can choose from a selection of template letters or write your own message.
+<div class="campaign-intro">
+  <p>We need your help to make this vision a reality. By sending an email to Nanaimo City Council, you can show your support for parking reform and help shape the future of our city. Use the form below to send a message to Nanaimo City Council expressing your support for the proposed motions. You can choose from a selection of template letters or write your own message.</p>
+</div>
 
-<form style="margin-bottom: 32px;" >
+<form class="campaign-form" style="margin-bottom: 32px;" >
     <input type="hidden" class="campaign-input" name="_subject" id="_subject" name="_subject">
     <input type="hidden" class="campaign-input" name="_from" id="_from" name="_from">
     <input class="campaign-input" type="text" id="name" name="name" placeholder="Your Name (eg. Johny The Housing Activist)" required>
@@ -163,33 +205,43 @@ We need your help to make this vision a reality. By sending an email to Nanaimo 
     });
 </script>
 
-You can also email [mayor.council@nanaimo.ca](mailto:mayor.council@nanaimo.ca) directly as well.
-
-***
-
-Nanaimo is at a pivotal moment—today's decisions on parking mandates will determine the future of urban development, livability, and sustainability in our city. As highlighted in this paper, the existing parking requirements have widespread negative impacts on housing affordability, urban design, municipal budgets, and environmental well-being.
-
-<div style="margin-bottom:32px;">
-<a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">
-  <div style="height:100%;z-index: 10;border-radius: 60px !important;" id="parking-victoria-button">
-    <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
-      <div id="parking_banner_text">
-        Download The "People Over Parking" Report!
-      </div>
-    </div>
-  </div>
-</a>
+<div class="campaign-email-note">
+  <p>You can also email <a href="mailto:mayor.council@nanaimo.ca">mayor.council@nanaimo.ca</a> directly as well.</p>
 </div>
 
-Nanaimo has already solved the housing crisis… _for cars_. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.
+<hr>
 
-- 🚗 [What The Heck Are Mandatory Parking Requirements?](#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad)
-- 🛠️ [Our Proposal For Parking Reform In Nanaimo](#our-proposal-for-parking-reform-in-nanaimo)
-- 🌎 [See Where Parking Reform Has Already Happened](#see-where-parking-reform-has-already-happened)
-- 📃 [Words From Community Supporters Our Proposal](#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform)
-- 🙌 [Read Letters Of Support For Our Proposal](#read-letters-of-support-for-our-proposal)
+<div class="campaign-overview">
+  <p>Nanaimo is at a pivotal moment—today's decisions on parking mandates will determine the future of urban development, livability, and sustainability in our city. As highlighted in this paper, the existing parking requirements have widespread negative impacts on housing affordability, urban design, municipal budgets, and environmental well-being.</p>
+</div>
 
-# What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?
+<div class="campaign-download">
+  <a target="_blank" href="/reports/people-over-parking-2024-09-01.pdf">
+    <div class="parking-victoria-button">
+      <div class="parking_banner_bg lazy loaded" data-bg="" data-ll-status="entered">
+        <div id="parking_banner_text">
+          Download The "People Over Parking" Report!
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+<div class="campaign-summary">
+  <p>Nanaimo has already solved the housing crisis… <em>for cars</em>. Strong Towns Nanaimo & friends are asking Nanaimo City Council and Staff to put people over parking.</p>
+</div>
+
+<div class="campaign-navigation">
+  <ul>
+    <li>🚗 <a href="#what-the-heck-are-mandatory-parking-requirements-and-why-are-they-so-bad">What The Heck Are Mandatory Parking Requirements?</a></li>
+    <li>🛠️ <a href="#our-proposal-for-parking-reform-in-nanaimo">Our Proposal For Parking Reform In Nanaimo</a></li>
+    <li>🌎 <a href="#see-where-parking-reform-has-already-happened">See Where Parking Reform Has Already Happened</a></li>
+    <li>📃 <a href="#hear-from-groups-in-nanaimo-and-beyond-that-support-our-proposal-for-parking-reform">Words From Community Supporters Our Proposal</a></li>
+    <li>🙌 <a href="#read-letters-of-support-for-our-proposal">Read Letters Of Support For Our Proposal</a></li>
+  </ul>
+</div>
+
+## What The Heck Are Mandatory Parking Requirements And Why Are They So Bad?
 
 Parking mandates are regulations that require developers to provide a certain number of parking spaces for each new building they construct. These requirements are intended to ensure that there is enough parking available for residents, customers, and employees. However, they often result in an overabundance of parking, which can have negative consequences for urban development, housing affordability, and the environment. Municipal parking requirements were initially implemented in a time when personal automobiles were assumed to be the best and primary mode of transportation.
 
@@ -199,7 +251,6 @@ We have learned much about equity, finance, and the environment since those days
 
 ![Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)](/images/campaigns/people-over-parking/parking-day-1.jpg){:loading="lazy"}
 *Our contribution to Park(ing) Day 2024. Strong Towns Nanaimo transformed a single parking space into an outdoor living room, complete with a TV, seating, board games, Twister, and more! (Strong Towns Nanaimo)*
-
 
 ## Our Proposal For Parking Reform In Nanaimo
 
@@ -217,7 +268,7 @@ These motions independently seek to rectify the adverse impacts of our current p
 
 While to many Canadians and residents of Nanaimo, market-controlled parking might seem unthinkable, Parking reform is anything but new. Below is a map of all cities in North America that have removed their parking mandates or relaxed their parking requirements city-wide.
 
-<div style="border: 1px solid var(--border-second-color) !important;box-shadow: 0 0 30px rgba(0,0,0,.3);margin-bottom: 32px;border-radius: 10px;">
+<div class="parking-reform-map">
     <iframe src="https://parkingreform.org/mandates-map" width="100%" height="100%"></iframe>
 </div>
 
@@ -254,3 +305,101 @@ We have received letters of support from a variety of organizations and individu
 We are grateful for the support of these organizations and look forward to working with them to make parking reform a reality in Nanaimo. Note that these letters are just a small sample of the many organizations and individuals who have endorsed our proposal. We are proud to have the support of so many diverse groups and individuals who share our vision for a more sustainable, equitable, and vibrant Nanaimo. However, not all letters of support are public, and some _organizations have requested that their support remain private_.
 
 ***
+
+<style>
+/* Campaign page specific styles that match the site's typography system */
+.campaign-intro,
+.campaign-overview,
+.campaign-summary {
+  margin-bottom: 32px;
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+.campaign-email-note {
+  margin-bottom: 32px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text-color);
+}
+
+.campaign-navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 32px 0;
+}
+
+.campaign-navigation li {
+  margin-bottom: 12px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.campaign-navigation a {
+  color: var(--link-color);
+  text-decoration: none;
+  border-bottom: 1px solid var(--border-alt-color);
+  transition: all 0.2s;
+}
+
+.campaign-navigation a:hover {
+  color: var(--link-color-hover);
+  border-bottom-color: var(--link-color-hover);
+}
+
+.parking-reform-map {
+  border: 1px solid var(--border-second-color);
+  box-shadow: 0 0 30px rgba(0,0,0,.3);
+  margin-bottom: 32px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.parking-reform-map iframe {
+  width: 100%;
+  height: 600px;
+  border: none;
+}
+
+.campaign-download {
+  margin-bottom: 32px;
+}
+
+/* Responsive design for campaign elements */
+@media (max-width: 768px) {
+  .campaign-intro,
+  .campaign-overview,
+  .campaign-summary {
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+  
+  .campaign-navigation li {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .parking-reform-map iframe {
+    height: 400px;
+  }
+}
+
+@media (max-width: 576px) {
+  .campaign-intro,
+  .campaign-overview,
+  .campaign-summary {
+    font-size: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .campaign-navigation li {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .parking-reform-map iframe {
+    height: 300px;
+  }
+}
+</style>
