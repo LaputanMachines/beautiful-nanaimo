@@ -8,7 +8,7 @@ event_location: "Wellington Hall, Nanaimo"
 image: '/images/events/2025-09-12-nanaimo-climate-connections-2025/climate-connections-2025.png'
 published: true
 type: event
-hidden: false
+hidden: true
 author: strong-towns-nanaimo
 toc: true
 ---
