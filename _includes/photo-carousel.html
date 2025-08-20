@@ -16,7 +16,7 @@
             {% for img in carousel_images %}
               <li class="splide__slide">
                 <div class="carousel-image-wrapper">
-                  <img src="{{ img }}" alt="Community event photo {{ forloop.index }}" loading="lazy">
+                  <img class="lazy" data-src="{{ img }}" alt="Community event photo {{ forloop.index }}" loading="lazy">
                 </div>
               </li>
             {% endfor %}

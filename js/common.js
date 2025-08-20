@@ -188,6 +188,44 @@ document.addEventListener("DOMContentLoaded", function() {
         }
       });
 
+      // Enhanced lazy loading integration
+      carousel.on('moved', () => {
+        // Trigger lazy loading for newly visible images
+        if (window.lazyLoadInstance) {
+          window.lazyLoadInstance.update();
+        }
+      });
+
+      // Preload next few images for smooth transitions
+      carousel.on('mounted', () => {
+        setTimeout(() => {
+          if (window.lazyLoadInstance) {
+            window.lazyLoadInstance.update();
+          }
+        }, 100);
+      });
+
+      // Additional lazy loading optimizations
+      carousel.on('active', (splide, slide) => {
+        // Ensure lazy loading is triggered when slides become active
+        setTimeout(() => {
+          if (window.lazyLoadInstance) {
+            window.lazyLoadInstance.update();
+          }
+        }, 50);
+      });
+
+      // Handle lazy loading errors gracefully
+      carousel.on('mounted', () => {
+        const images = carouselElement.querySelectorAll('img.lazy');
+        images.forEach(img => {
+          img.addEventListener('error', () => {
+            img.classList.add('error');
+            img.alt = 'Image failed to load';
+          });
+        });
+      });
+
     } catch (error) {
       console.warn('Splide.js carousel initialization failed:', error);
       // Fallback to basic carousel functionality
@@ -223,7 +261,10 @@ document.addEventListener("DOMContentLoaded", function() {
   ======================= */
   var lazyLoadInstance = new LazyLoad({
     elements_selector: ".lazy"
-  })
+  });
+  
+  // Make lazyLoadInstance globally accessible
+  window.lazyLoadInstance = lazyLoadInstance;
 
 
   // =====================

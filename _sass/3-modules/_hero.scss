@@ -96,7 +96,7 @@
 .carousel-container {
   padding: 28px;
   background: rgba(255, 255, 255, 0.1);
-  border-radius: 25px;
+  border-radius: 20px;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
@@ -211,7 +211,7 @@
 @media (max-width: $mobile) {
   .carousel-container {
     padding: 10px;
-    border-radius: 15px;
+    border-radius: 20px;
   }
   
   .photo-carousel .splide__arrow {
@@ -240,6 +240,22 @@
 
 /* Loading state */
 .carousel-image-wrapper img:not([src]) {
+  background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+  background-size: 200% 100%;
+  animation: loading 1.5s infinite;
+}
+
+/* Enhanced lazy loading states */
+.carousel-image-wrapper img.lazy {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.carousel-image-wrapper img.lazy.loaded {
+  opacity: 1;
+}
+
+.carousel-image-wrapper img.lazy.loading {
   background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
   background-size: 200% 100%;
   animation: loading 1.5s infinite;
