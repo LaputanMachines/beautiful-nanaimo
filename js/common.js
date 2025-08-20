@@ -119,7 +119,84 @@ document.addEventListener("DOMContentLoaded", function() {
   /* ======================================
   // Photo Carousel Enhancements
   ====================================== */
-  // Carousel functionality removed - continuous scrolling only
+  // Initialize Splide.js carousel
+  if (document.querySelector(".photo-carousel")) {
+    try {
+      const carousel = new Splide('.photo-carousel', {
+        type: 'loop',
+        perPage: 3,
+        perMove: 1,
+        gap: 0,
+        autoplay: true,
+        interval: 3000,
+        pauseOnHover: false,
+        pauseOnFocus: false,
+        resetProgress: false,
+        arrows: false,
+        drag: false,
+        keyboard: false,
+        wheel: false,
+        focus: 'center',
+        trimSpace: false,
+        updateOnMove: true,
+        speed: 800,
+        easing: 'linear',
+        lazyLoad: 'nearby',
+        breakpoints: {
+          1024: {
+            perPage: 2,
+            gap: 0,
+          },
+          768: {
+            perPage: 1,
+            gap: 0,
+          }
+        }
+      });
+
+      // Mount the carousel
+      carousel.mount();
+
+      // Ensure continuous autoplay
+      carousel.on('mounted', () => {
+        carousel.Components.Autoplay.play();
+      });
+
+      // Add intersection observer for performance
+      const carouselElement = document.querySelector('.photo-carousel');
+      if (carouselElement && 'IntersectionObserver' in window) {
+        const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              carousel.Components.Autoplay.play();
+            } else {
+              carousel.Components.Autoplay.pause();
+            }
+          });
+        }, { threshold: 0.1 });
+        
+        observer.observe(carouselElement);
+      }
+
+      // Add keyboard navigation improvements
+      carousel.on('mounted', () => {
+        const track = carouselElement.querySelector('.splide__track');
+        if (track) {
+          track.setAttribute('tabindex', '0');
+          track.setAttribute('role', 'region');
+          track.setAttribute('aria-label', 'Photo carousel');
+        }
+      });
+
+    } catch (error) {
+      console.warn('Splide.js carousel initialization failed:', error);
+      // Fallback to basic carousel functionality
+      const carouselElement = document.querySelector('.photo-carousel');
+      if (carouselElement) {
+        carouselElement.innerHTML = '<p>Carousel loading...</p>';
+      }
+    }
+  }
 
 
   /* ======================================

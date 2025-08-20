@@ -7,24 +7,21 @@
         <p class="section__description">We Meet At Least Once A Month For Bike Rides, Talks, And Walks</p>
       </div>
     </div>
-    <div class="photo-carousel">
-      <div class="carousel-track">
-        {% assign carousel_images = site.data.carousel_images %}
-        {% for img in carousel_images %}
-          <div class="carousel-slide">
-            <div class="carousel-image-wrapper">
-              <img src="{{ img }}" alt="Carousel image" loading="lazy">
-            </div>
-          </div>
-        {% endfor %}
-        <!-- Duplicate set for seamless loop -->
-        {% for img in carousel_images %}
-          <div class="carousel-slide">
-            <div class="carousel-image-wrapper">
-              <img src="{{ img }}" alt="Carousel image" loading="lazy">
-            </div>
-          </div>
-        {% endfor %}
+    
+    <div class="carousel-container">
+      <div class="splide photo-carousel" role="region" aria-label="Community Photos Carousel">
+        <div class="splide__track">
+          <ul class="splide__list">
+            {% assign carousel_images = site.data.carousel_images %}
+            {% for img in carousel_images %}
+              <li class="splide__slide">
+                <div class="carousel-image-wrapper">
+                  <img src="{{ img }}" alt="Community event photo {{ forloop.index }}" loading="lazy">
+                </div>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>

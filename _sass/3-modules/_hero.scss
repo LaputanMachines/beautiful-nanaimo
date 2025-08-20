@@ -89,125 +89,151 @@
 
 /* Photo Carousel */
 .photo-carousel-section {
-  overflow: hidden;
   position: relative;
+  margin-bottom: 40px;
+}
 
-  &::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(90deg, 
-      rgba(255,255,255,0.8) 0%, 
-      rgba(255,255,255,0) 10%, 
-      rgba(255,255,255,0) 90%, 
-      rgba(255,255,255,0.8) 100%);
-    pointer-events: none;
-    z-index: 2;
-  }
+.carousel-container {
+  padding: 28px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 25px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .photo-carousel {
   position: relative;
   width: 100%;
-  overflow: hidden;
-  transition: transform 0.3s ease;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
-  border-radius: 20px;
-  margin-bottom: 40px;
-}
-
-.carousel-track {
-  display: flex;
-  width: calc(200% + 20px); /* Double width plus gap */
-  animation: scroll 60s linear infinite;
-  will-change: transform;
-}
-
-.carousel-slide {
-  flex: 0 0 auto;
-  margin-right: 0;
-  box-sizing: border-box;
-  position: relative;
   overflow: hidden;
-  display: flex;
+}
+
+/* Splide.js Customizations */
+.photo-carousel .splide__track {
+  overflow: hidden;
+}
+
+.photo-carousel .splide__list {
   align-items: center;
 }
 
-.carousel-image-wrapper {
-  box-shadow: none;
+/* Ensure seamless transitions */
+.photo-carousel .splide__slide {
+  margin: 0;
+  padding: 0;
+}
+
+/* Continuous scrolling effect */
+.photo-carousel .splide__track {
   overflow: hidden;
-  display: block;
-  width: 100%;
-  max-height: 220px;
-  height: 100%;
 }
 
-.carousel-slide img {
-  width: 100%;
-  height: 100%;
-  max-height: 220px;
-  max-width: 100%;
-  object-fit: contain;
-  transition: all 0.3s ease;
-  box-shadow: none;
-  filter: brightness(0.9);
-  display: block;
-}
-
-.carousel-slide:last-child {
-  margin-right: 0;
-}
-
-.carousel-slide img::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+/* Focus styles for accessibility */
+.photo-carousel .splide__slide:focus-within {
+  outline: 2px solid var(--accent-color, #007acc);
+  outline-offset: 4px;
   border-radius: 15px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
-  pointer-events: none;
-  z-index: -1;
 }
 
+/* Smooth transitions for all interactive elements */
+.photo-carousel .splide__slide,
+.photo-carousel .splide__arrow,
+.photo-carousel .splide__pagination__page {
+  transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.photo-carousel .splide__slide {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.photo-carousel .splide__slide:hover {
+  transform: scale(1.02);
+}
+
+.carousel-image-wrapper {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-image-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: all 0.3s ease;
+  filter: brightness(0.9);
+}
+
+.carousel-image-wrapper img:hover {
+  filter: brightness(1);
+  transform: scale(1.05);
+}
+
+/* Splide Navigation Arrows - Hidden */
+.photo-carousel .splide__arrow {
+  display: none !important;
+}
+
+/* Splide Pagination - Hidden */
+.photo-carousel .splide__pagination {
+  display: none !important;
+}
+
+/* Responsive Design */
 @media (max-width: $tablet) {
-  .carousel-image-wrapper,
-  .carousel-slide img {
-    max-height: 160px;
+  .carousel-container {
+    padding: 15px;
+    border-radius: 20px;
+  }
+  
+  .carousel-image-wrapper {
+    height: 180px;
+  }
+  
+  .photo-carousel .splide__arrow {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .photo-carousel .splide__arrow--prev {
+    left: -20px;
+  }
+  
+  .photo-carousel .splide__arrow--next {
+    right: -20px;
   }
 }
 
 @media (max-width: $mobile) {
-  .carousel-image-wrapper,
-  .carousel-slide img {
-    max-height: 110px;
+  .carousel-container {
+    padding: 10px;
+    border-radius: 15px;
   }
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
+  
+  .carousel-image-wrapper {
+    height: 140px;
   }
-  100% {
-    transform: translateX(calc(-50% - 10px)); /* Move by half width plus gap */
+  
+  .photo-carousel .splide__arrow {
+    width: 36px;
+    height: 36px;
   }
-}
-
-/* Add a subtle overlay with title */
-.carousel-slide::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 5px;
-  right: 5px;
-  height: 30%;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.3));
-  border-radius: 0 0 15px 15px;
-  pointer-events: none;
+  
+  .photo-carousel .splide__arrow--prev {
+    left: -18px;
+  }
+  
+  .photo-carousel .splide__arrow--next {
+    right: -18px;
+  }
+  
+  .photo-carousel .splide__pagination {
+    bottom: -25px;
+  }
 }
 
 /* Accessibility improvements */
@@ -217,7 +243,7 @@
 }
 
 /* Loading state */
-.carousel-slide img:not([src]) {
+.carousel-image-wrapper img:not([src]) {
   background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
   background-size: 200% 100%;
   animation: loading 1.5s infinite;
@@ -234,12 +260,16 @@
 
 /* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
-  .carousel-track {
-    animation: none;
+  .photo-carousel .splide__slide:hover {
+    transform: none;
   }
   
-  .photo-carousel:hover .carousel-track {
-    animation-play-state: running;
+  .carousel-image-wrapper img:hover {
+    transform: none;
+  }
+  
+  .photo-carousel .splide__arrow:hover {
+    transform: none;
   }
 }
 
