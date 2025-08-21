@@ -260,7 +260,19 @@ document.addEventListener("DOMContentLoaded", function() {
   // LazyLoad Images
   ======================= */
   var lazyLoadInstance = new LazyLoad({
-    elements_selector: ".lazy"
+    elements_selector: ".lazy",
+    callback_enter: function(element) {
+      // Add loaded class to media cards when they enter viewport
+      if (element.classList.contains('grid__post')) {
+        element.classList.add('loaded');
+      }
+    },
+    callback_loaded: function(element) {
+      // Ensure loaded class is added for media cards
+      if (element.classList.contains('grid__post')) {
+        element.classList.add('loaded');
+      }
+    }
   });
   
   // Make lazyLoadInstance globally accessible
