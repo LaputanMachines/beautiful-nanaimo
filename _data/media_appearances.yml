@@ -1,17 +1,24 @@
+- title: " City of Nanaimo looking at long-term parking needs "
+  outlet: "CBC News"
+  date: "Jul 20th, 2025 "
+  description: "The City of Nanaimo is looking at long-term parking needs and strategies, as it seeks to help remove red tape around housing developments especially in the downtown area. As Claire Palmer reports, it's one of a handful of areas that have been earmarked as key centres for residential development."
+  external_url: "https://www.youtube.com/watch?v=lzwP5FW7heI"
+  type: "video"
+  tags: ["parking", "housing", "downtown"]
+
 - title: "Why This Canadian City Said Goodbye to Parking Mandates (And How It Really Happened)"
   outlet: "Strong Towns"
   date: "August 12th, 2025"
   description: "Strong Towns features Nanaimo's successful campaign to abolish parking mandates downtown, highlighting the 8-1 council vote and the community organizing work of Strong Towns Nanaimo. The article details how parking minimums were creating economic barriers and how removing them opens opportunities for more housing and small businesses."
   external_url: "https://www.strongtowns.org/journal/2025/8/12/why-this-canadian-city-said-goodbye-to-parking-mandates-and-how-it-really-happened"
   type: "article"
-  tags: ["parking mandates", "downtown", "housing affordability", "policy change", "community organizing"]
+  tags: ["parking", "downtown", "housing", "policy", "community"]
 
 - title: "Why Conversation Is Key In Fighting Polarization And Helping Democracy"
   outlet: "CBC Ideas"
   date: "April 19th, 2025"
   description: "Ideas host Nahlah Ayed speaks with residents of Edmonton about the importance of engaging in conversation with others in real life amidst polarization. They explore what polarization actually is, and when it's a positive or negative aspect of our democratic discourse — specifically during an election cycle."
   external_url: "https://www.youtube.com/watch?v=hwECJctpDn8"
-  video_embed: "https://www.youtube.com/embed/hwECJctpDn8?si=xnnw85jQPI9ACQ47"
   type: "video"
   tags: ["democracy", "polarization", "conversation"]
 
@@ -44,7 +51,6 @@
   date: "April 14th, 2024"
   description: "Michael Bassili and Deraek Menard speak to CBC News about the recent spike in pedestrian deaths in Nanaimo and what can be done to prevent them."
   external_url: "https://www.youtube.com/watch?v=f-itjbZur5o"
-  video_embed: "https://www.youtube.com/embed/f-itjbZur5o?si=653b3xhGiWMqrz_S"
   type: "video"
   tags: ["pedestrian safety", "road safety", "deaths"]
 
@@ -69,7 +75,6 @@
   date: "October 2nd, 2023"
   description: "People on Vancouver Island are hoping to see some action as the province unveils new building targets for municipalities. Claire Palmer is in Nanaimo, hearing from advocates who say the construction of 'missing middle' housing is critical."
   external_url: "https://www.youtube.com/watch?v=WfBklBrYS_c"
-  video_embed: "https://www.youtube.com/embed/WfBklBrYS_c?si=1KF25b8vTy613YGD"
   type: "video"
   tags: ["housing", "missing middle", "affordability", "provincial policy"]
 
