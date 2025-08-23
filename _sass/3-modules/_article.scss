@@ -445,8 +445,6 @@
 /* Additional spacing fixes for media page */
 .articles .container {
   .row.grid {
-    justify-content: flex-start; /* Align cards to the left */
-    
     .col.col-4.col-d-6.col-t-12 {
       flex: 0 0 auto; /* Prevent flex shrinking */
       max-width: calc(33.333% - 32px); /* Ensure proper width with padding */
