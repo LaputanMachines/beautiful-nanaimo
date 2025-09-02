@@ -307,15 +307,17 @@
   justify-content: center;
   height: 100%;
   min-height: 200px;
-  background: linear-gradient(135deg, var(--st-blue) 0%, white 100%);
+  /* Background will be set dynamically by JavaScript */
+  background: var(--st-blue); /* Fallback color */
   color: var(--white);
   text-align: center;
   padding: 20px;
+  transition: background 0.3s ease; /* Smooth transition for gradient changes */
 }
 
 .article.animate.grid__post.lazy {
   opacity: 0;
-  transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out, transform .5s !important;
 }
 
 .article.animate.grid__post.lazy.loaded {
@@ -325,6 +327,8 @@
 /* Ensure media cards have proper spacing and dimensions */
 .article.animate.grid__post {
   margin-bottom: 32px;
+  will-change: transform;
+  transition: transform .5s !important; /* Override the shorter .animate transition */
   
   /* Ensure proper card width */
   .article__inner {

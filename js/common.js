@@ -278,6 +278,151 @@ document.addEventListener("DOMContentLoaded", function() {
   // Make lazyLoadInstance globally accessible
   window.lazyLoadInstance = lazyLoadInstance;
 
+  /* ======================================
+  // Persistent Media Card Gradients
+  ====================================== */
+  function generatePersistentBlueGradient(seed) {
+    // Define blue-ish color palette
+    const blueColors = [
+      '#0a243f', // st-blue (dark blue)
+      '#1e3a8a', // blue-800
+      '#1e40af', // blue-700
+      '#2563eb', // blue-600
+      '#3b82f6', // blue-500
+      '#60a5fa', // blue-400
+      '#93c5fd', // blue-300
+      '#1e3a8a', // indigo-800
+      '#3730a3', // indigo-700
+      '#4338ca', // indigo-600
+      '#4f46e5', // indigo-500
+      '#6366f1', // indigo-400
+      '#818cf8', // indigo-300
+      '#1e40af', // slate-700
+      '#334155', // slate-600
+      '#475569', // slate-500
+      '#64748b', // slate-400
+      '#0f172a', // slate-900
+      '#1e293b', // slate-800
+      '#0c4a6e', // sky-800
+      '#0369a1', // sky-700
+      '#0284c7', // sky-600
+      '#0ea5e9', // sky-500
+      '#38bdf8', // sky-400
+      '#7dd3fc', // sky-300
+    ];
+
+    // Simple hash function to convert string to number
+    function simpleHash(str) {
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = ((hash << 5) - hash) + char;
+        hash = hash & hash; // Convert to 32-bit integer
+      }
+      return Math.abs(hash);
+    }
+
+    // Generate deterministic values based on seed
+    const hash = simpleHash(seed);
+    const color1Index = hash % blueColors.length;
+    const color2Index = (hash + 1) % blueColors.length;
+    const angle = (hash % 90) + 135; // 135deg to 225deg range
+    
+    const color1 = blueColors[color1Index];
+    const color2 = blueColors[color2Index];
+    
+    return `linear-gradient(${angle}deg, ${color1} 0%, ${color2} 100%)`;
+  }
+
+  function applyPersistentGradientsToMediaCards() {
+    const mediaCards = document.querySelectorAll('.media-placeholder');
+    
+    mediaCards.forEach(card => {
+      // Create a unique seed based on the card's content
+      const cardElement = card.closest('.article');
+      let seed = '';
+      
+      if (cardElement) {
+        // Try to get unique identifiers from the card
+        const titleElement = cardElement.querySelector('.article__title a');
+        const outletElement = cardElement.querySelector('.media-outlet');
+        const dateElement = cardElement.querySelector('.media-date');
+        
+        // Create seed from available content
+        if (titleElement) {
+          seed += titleElement.textContent.trim();
+        }
+        if (outletElement) {
+          seed += outletElement.textContent.trim();
+        }
+        if (dateElement) {
+          seed += dateElement.textContent.trim();
+        }
+        
+        // Fallback to card position if no content found
+        if (!seed) {
+          const allCards = document.querySelectorAll('.media-placeholder');
+          const cardIndex = Array.from(allCards).indexOf(card);
+          seed = `card-${cardIndex}`;
+        }
+      } else {
+        // Fallback seed
+        seed = `fallback-${Math.random()}`;
+      }
+      
+      const persistentGradient = generatePersistentBlueGradient(seed);
+      card.style.background = persistentGradient;
+    });
+  }
+
+  // Apply persistent gradients when DOM is loaded
+  applyPersistentGradientsToMediaCards();
+
+  // Re-apply gradients when new media cards are loaded (for lazy loading)
+  if (window.lazyLoadInstance) {
+    const originalCallback = window.lazyLoadInstance._settings.callback_loaded;
+    window.lazyLoadInstance._settings.callback_loaded = function(element) {
+      if (originalCallback) {
+        originalCallback(element);
+      }
+      
+      // Check if this is a media card and apply persistent gradient
+      if (element.classList.contains('grid__post')) {
+        const mediaPlaceholder = element.querySelector('.media-placeholder');
+        if (mediaPlaceholder) {
+          // Create a unique seed based on the card's content
+          let seed = '';
+          
+          // Try to get unique identifiers from the card
+          const titleElement = element.querySelector('.article__title a');
+          const outletElement = element.querySelector('.media-outlet');
+          const dateElement = element.querySelector('.media-date');
+          
+          // Create seed from available content
+          if (titleElement) {
+            seed += titleElement.textContent.trim();
+          }
+          if (outletElement) {
+            seed += outletElement.textContent.trim();
+          }
+          if (dateElement) {
+            seed += dateElement.textContent.trim();
+          }
+          
+          // Fallback to card position if no content found
+          if (!seed) {
+            const allCards = document.querySelectorAll('.media-placeholder');
+            const cardIndex = Array.from(allCards).indexOf(mediaPlaceholder);
+            seed = `card-${cardIndex}`;
+          }
+          
+          const persistentGradient = generatePersistentBlueGradient(seed);
+          mediaPlaceholder.style.background = persistentGradient;
+        }
+      }
+    };
+  }
+
 
   // =====================
   // Load More Posts
