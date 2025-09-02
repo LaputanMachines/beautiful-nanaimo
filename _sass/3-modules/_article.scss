@@ -313,9 +313,9 @@
   padding: 20px;
 }
 
-/* Lazy loading fade effect for all card types */
 .article.animate.grid__post.lazy {
   opacity: 0;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .article.animate.grid__post.lazy.loaded {
