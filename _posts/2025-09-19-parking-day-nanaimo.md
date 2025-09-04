@@ -15,7 +15,7 @@ toc: true
 
 Join us for **Park(ing) Day 2025** in downtown Nanaimo! We're participating in this global movement to temporarily repurpose curbside parking spaces and convert them into public parks and social spaces, advocating for safer, greener, and more equitable streets for people. 
 
-- **Date:** Thursday, September 19th, 2025
+- **Date:** Friday, September 19th, 2025
 - **Time:** 11:00am - 1:00pm
 - **Location:** Commercial Street, Downtown Nanaimo
 - **Cost:** Free
