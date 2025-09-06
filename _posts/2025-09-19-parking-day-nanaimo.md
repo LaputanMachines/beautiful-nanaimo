@@ -8,7 +8,7 @@ event_location: "Commercial Street, Downtown Nanaimo"
 image: '/images/events/2025-09-19-parking-day-nanaimo/parking-day.png'
 published: true
 type: event
-hidden: false
+hidden: true
 author: strong-towns-nanaimo
 toc: true
 ---

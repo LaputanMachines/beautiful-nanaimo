@@ -8,7 +8,7 @@ event_location: "Maffeo Sutton Park, Nanaimo"
 image: '/images/events/2025-09-26-fall-gobybike-week-nanaimo/gobybike-week.png'
 published: true
 type: event
-hidden: false
+hidden: true
 author: strong-towns-nanaimo
 toc: true
 ---
