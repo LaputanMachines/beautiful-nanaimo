@@ -237,12 +237,13 @@
     height: 100%;
     background-size: cover;
     background-position: center;
-    background-image: linear-gradient(rgba(52, 97, 121, 0.75), rgba(20, 58, 78, 0.75)),url("/images/campaigns/people-over-parking/woodgrove-parking-1.png");
+    background-image: linear-gradient(rgba(255, 255, 204, 0.95), rgba(255, 255, 204, 0.95));
+    background-color: #ffffcc;
   }
 
   #parking_banner_text {
     padding: 20px;
-    color: white;
+    color: #2c3e50;
     font-size: 20px;
     font-weight: bold;
   }
