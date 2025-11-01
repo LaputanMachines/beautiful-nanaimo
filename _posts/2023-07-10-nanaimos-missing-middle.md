@@ -7,7 +7,7 @@ author: michael
 image: '/images/nanaimos-missing-middle/neighbourhood-waterfront.png'
 image_caption: "3D Aerial View of the Waterfront Neighbourhood off Townsite in Downtown Nanaimo"
 tags: [features, housing, gallery]
-featured: true
+featured: false
 type: post
 ---
 
