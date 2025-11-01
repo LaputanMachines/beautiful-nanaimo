@@ -78,6 +78,14 @@
     position: absolute;
     top: 13.5px;
     right: 6px;
+    background: linear-gradient(180deg, rgba(40, 70, 110, 0.95) 0%, rgba(30, 55, 90, 0.95) 100%) !important;
+    background-color: #28466e !important;
+    color: white !important;
+    
+    &:hover {
+      background: linear-gradient(180deg, rgba(35, 65, 105, 0.95) 0%, rgba(25, 50, 85, 0.95) 100%) !important;
+      background-color: #234169 !important;
+    }
   }
 
   .subscribe__bg {
