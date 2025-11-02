@@ -35,6 +35,26 @@
       pagination_next_page_number = '{{ paginator.next_page }}',
       pagination_available_pages_number = '{{ paginator.total_pages }}';
   </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var mermaidElements = document.querySelectorAll('pre code.language-mermaid, pre code.lang-mermaid');
+      mermaidElements.forEach(function(element) {
+        var code = element.textContent || element.innerText;
+        var mermaidDiv = document.createElement('div');
+        mermaidDiv.className = 'mermaid';
+        mermaidDiv.textContent = code;
+        var preElement = element.parentElement;
+        preElement.parentNode.replaceChild(mermaidDiv, preElement);
+      });
+      
+      mermaid.initialize({ 
+        startOnLoad: true,
+        theme: 'default',
+        securityLevel: 'loose'
+      });
+    });
+  </script>
 </body>
 
 </html>
