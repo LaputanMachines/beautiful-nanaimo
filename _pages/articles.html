@@ -37,7 +37,7 @@ description: "Want to learn more about urbanism in Nanaimo? Choose an article be
                             {% assign current_count = site.tags[this_word].size %}
                             
                             {% if current_count >= 2 %}
-                                <a href="{{ site.baseurl }}/articles/?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
+                                <a href="{{ site.baseurl }}/articles?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
                                     {{ this_word }} 
                                     <span class="tag-count">({{ current_count }})</span>
                                 </a>
@@ -52,7 +52,7 @@ description: "Want to learn more about urbanism in Nanaimo? Choose an article be
                             {% assign current_count = site.tags[this_word].size %}
                             
                             {% if current_count == 1 %}
-                                <a href="{{ site.baseurl }}/articles/?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
+                                <a href="{{ site.baseurl }}/articles?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
                                     {{ this_word }} 
                                     <span class="tag-count">({{ current_count }})</span>
                                 </a>
