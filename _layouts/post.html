@@ -25,7 +25,7 @@ endif %}
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
+            <a href="{{ site.baseurl }}/articles/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
             {% endfor %}
           </div>
           {% endif %}

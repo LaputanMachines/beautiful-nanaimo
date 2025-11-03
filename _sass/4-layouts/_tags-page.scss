@@ -55,3 +55,42 @@
     }
   }
 }
+
+/* Tags Page Header */
+.section.tags {
+  .tag__info {
+    margin: 40px 0 60px;
+    text-align: center;
+
+    .tag__title {
+      margin-bottom: 16px;
+      font-size: 48px;
+      line-height: 1.2;
+      font-weight: 700;
+    }
+
+    .tag__description {
+      margin-bottom: 24px;
+      font-size: 18px;
+      line-height: 1.5;
+      color: var(--text-second-color);
+    }
+
+    .button--small {
+      padding: 14px 24px;
+      font-size: 16px;
+    }
+
+    @media (max-width: $mobile) {
+      margin: 20px 0 40px;
+
+      .tag__title {
+        font-size: 32px;
+      }
+
+      .tag__description {
+        font-size: 16px;
+      }
+    }
+  }
+}

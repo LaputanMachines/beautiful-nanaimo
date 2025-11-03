@@ -153,6 +153,7 @@
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 12px;
+  margin-top: 12px;
 
   .article__tag {
     position: relative;
@@ -167,6 +168,8 @@
     border-radius: 30px;
     color: var(--text-color);
     background-color: var(--light-gray);
+    text-decoration: none;
+    transition: $global-transition;
 
     &:hover {
       background-color: var(--darken-gray);
@@ -174,6 +177,19 @@
 
     &:last-child {
       margin: 0 0 4px 0;
+    }
+
+    &--active {
+      background-color: #5b8fc9 !important;
+      color: var(--white) !important;
+      font-weight: 700;
+      box-shadow: 0 2px 8px rgba(91, 143, 201, 0.3);
+
+      &:hover {
+        background-color: #4a7fb8 !important;
+        color: var(--white) !important;
+        box-shadow: 0 4px 12px rgba(91, 143, 201, 0.4);
+      }
     }
   }
 }
@@ -467,5 +483,123 @@
         max-width: calc(100% - 32px);
       }
     }
+  }
+}
+
+/* Article Item for Filtering */
+.article-item {
+  // Article-item has the same classes as regular articles (col, etc.)
+  // It's used as a wrapper for filtering functionality
+  // (Styles are inherited from .article class)
+}
+
+/* Tag Cloud for Articles Filtering */
+.tags-cloud {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: -3px 0;
+  margin-bottom: 40px;
+
+  .tag-cloud-item {
+    padding: 6px 16px;
+    margin: 3px 6px 3px 0;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 60px;
+    color: var(--heading-font-color);
+    text-decoration: none;
+    transition: $global-transition;
+    background-color: var(--background-alt-color);
+
+    &:hover {
+      background-color: var(--darken-gray);
+    }
+
+    &--active {
+      background-color: #5b8fc9 !important;
+      color: var(--white) !important;
+      font-weight: 600;
+      box-shadow: 0 2px 8px rgba(91, 143, 201, 0.3);
+
+      &:hover {
+        background-color: #4a7fb8 !important;
+        color: var(--white) !important;
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(91, 143, 201, 0.4);
+      }
+    }
+
+    &--all {
+      font-weight: 600;
+    }
+
+    &--more {
+      font-weight: 600;
+      color: var(--primary-color);
+
+      &:hover {
+        background-color: var(--light-gray);
+      }
+    }
+
+    &--hidden {
+      display: none;
+    }
+
+    &--mobile-hidden {
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+
+    &--toggle {
+      cursor: pointer;
+      border: none;
+      outline: none;
+      font-family: inherit;
+      display: inline-block;
+      // Ensure button inherits same spacing as anchor tags
+      padding: 6px 16px;
+      margin: 3px 6px 3px 0;
+      
+      // When combined with --more, use primary color styling
+      &.tag-cloud-item--more {
+        font-weight: 600;
+        color: var(--primary-color);
+        
+        &:hover {
+          background-color: var(--light-gray);
+        }
+      }
+    }
+
+    .tag-count {
+      font-size: 11px;
+      opacity: 0.8;
+      margin-left: 4px;
+    }
+  }
+}
+
+/* No Results Message */
+.no-results {
+  text-align: center;
+  padding: 60px 20px;
+
+  h3 {
+    margin-bottom: 16px;
+    font-size: 28px;
+  }
+
+  p {
+    margin-bottom: 24px;
+    font-size: 16px;
+    color: var(--text-second-color);
+  }
+
+  .button {
+    margin-top: 8px;
   }
 }

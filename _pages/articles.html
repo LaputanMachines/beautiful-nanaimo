@@ -4,6 +4,8 @@ title: Strong Towns Nanaimo Articles
 permalink: /articles
 description: "Want to learn more about urbanism in Nanaimo? Choose an article below and start your Strong Towns journey! Articles range from walkable neighbourhoods to transit and active transportation."
 ---
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tag_words = site_tags | split:',' | sort %}
 
 <!-- Begin Articles -->
 <section class="articles">
@@ -12,16 +14,306 @@ description: "Want to learn more about urbanism in Nanaimo? Choose an article be
             <h1 class="page__title">{{ page.title | escape }}</h1> 
             <p class="page__description">{{ page.description | escape }}</p>
         </div>
-        <div class="row grid">
+
+        <!-- begin tags section -->
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12">
+                        <div class="tags-cloud">
+                            {% comment %} All Articles button to reset filter {% endcomment %}
+                            <a href="{{ site.baseurl }}/articles/" class="tag-cloud-item tag-cloud-item--all">
+                                All Articles
+                            </a>
+                            
+                            {% comment %} Show only the most popular tags (top 20 by post count) initially {% endcomment %}
+                            {% assign tag_limit = 20 %}
+                            {% assign count = 0 %}
+                            {% assign total_tags = site.tags.size %}
+                            
+                            {% comment %} Show tags with 2+ posts first, then others {% endcomment %}
+                            {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+                            {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+                            {% assign current_count = site.tags[this_word].size %}
+                            
+                            {% if current_count >= 2 %}
+                                <a href="{{ site.baseurl }}/articles/?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
+                                    {{ this_word }} 
+                                    <span class="tag-count">({{ current_count }})</span>
+                                </a>
+                                {% assign count = count | plus: 1 %}
+                            {% endif %}
+                            {% endunless %}
+                            {% endfor %}
+                            
+                            {% comment %} Add remaining tags {% endcomment %}
+                            {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+                            {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
+                            {% assign current_count = site.tags[this_word].size %}
+                            
+                            {% if current_count == 1 %}
+                                <a href="{{ site.baseurl }}/articles/?tag={{ this_word | downcase | url_encode }}" class="tag-cloud-item {% if count >= tag_limit %}tag-cloud-item--hidden{% endif %}">
+                                    {{ this_word }} 
+                                    <span class="tag-count">({{ current_count }})</span>
+                                </a>
+                                {% assign count = count | plus: 1 %}
+                            {% endif %}
+                            {% endunless %}
+                            {% endfor %}
+                            
+                            {% comment %} Show "View all" / "Show less" button if there are more tags {% endcomment %}
+                            {% if total_tags > tag_limit %}
+                                <button type="button" class="tag-cloud-item tag-cloud-item--more tag-cloud-item--toggle" id="toggle-all-tags">
+                                    View all {{ total_tags }} tags <i class="ion ion-ios-arrow-forward"></i>
+                                </button>
+                            {% endif %}
+                            {% comment %} Mobile-specific hidden class for tags beyond mobile limit {% endcomment %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end tags section -->
+
+        <div class="row grid" id="articles-grid">
             {% if site.posts.size > 0 %}
             {% for post in site.posts %}
             {% if post.type contains 'post' %}
-            {% include article.html %}
+            {% assign article_tags = '' %}
+            {% for tag in post.tags %}
+                {% assign article_tags = article_tags | append: tag | downcase %}
+                {% unless forloop.last %}
+                    {% assign article_tags = article_tags | append: ',' %}
+                {% endunless %}
+            {% endfor %}
+            <div class="article col col-4 col-d-6 col-t-12 animate grid__post lazy article-item" data-tags="{{ article_tags }}">
+                {% include article.html no_wrapper=true %}
+            </div>
             {% endif %}
             {% endfor %}
             {% endif %}
+        </div>
+        
+        <div id="no-results" class="no-results" style="display: none;">
+            <div class="container">
+                <div class="row">
+                    <div class="col col-12">
+                        <h3>No articles found</h3>
+                        <p>No articles match the selected tag.</p>
+                        <a href="{{ site.baseurl }}/articles/" class="button">← Show all articles</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>  
 <!-- End Articles -->
 <hr>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const selectedTag = urlParams.get('tag');
+  
+  // Mobile detection and tag limit
+  const mobileLimit = 10; // Show only 10 tags on mobile by default
+  const desktopLimit = 20; // Show 20 tags on desktop by default
+  const isMobile = window.innerWidth <= 768; // Match tablet breakpoint
+  
+  // Check URL parameter for expanded state
+  const shouldBeExpanded = urlParams.get('expand') === 'tags';
+  
+  // Function to update URL with expand parameter
+  function updateExpandState(expanded) {
+    const currentUrl = new URL(window.location);
+    if (expanded) {
+      currentUrl.searchParams.set('expand', 'tags');
+    } else {
+      currentUrl.searchParams.delete('expand');
+    }
+    // Update URL without reloading if possible, or store in sessionStorage
+    if (history.replaceState) {
+      history.replaceState({}, '', currentUrl);
+    }
+    // Also store in sessionStorage as backup
+    sessionStorage.setItem('tagsExpanded', expanded ? 'true' : 'false');
+  }
+  
+  // Function to apply mobile tag limits
+  function applyMobileTagLimit(forceCollapsed) {
+    const allTagItems = document.querySelectorAll('.tag-cloud-item:not(.tag-cloud-item--all):not(.tag-cloud-item--toggle)');
+    const currentLimit = window.innerWidth <= 768 ? mobileLimit : desktopLimit;
+    
+    allTagItems.forEach(function(tag, index) {
+      if (index >= currentLimit && index < desktopLimit) {
+        // Tags between mobile limit and desktop limit get mobile-hidden class
+        tag.classList.add('tag-cloud-item--mobile-hidden');
+      } else if (index >= desktopLimit) {
+        // Tags beyond desktop limit keep the original hidden class
+        // (these are handled by the toggle button)
+      } else {
+        // Visible tags should not have mobile-hidden
+        tag.classList.remove('tag-cloud-item--mobile-hidden');
+      }
+    });
+  }
+  
+  // Function to expand all tags
+  function expandAllTags() {
+    const hiddenTags = Array.from(document.querySelectorAll('.tag-cloud-item--hidden'));
+    hiddenTags.forEach(function(tag) {
+      tag.classList.remove('tag-cloud-item--hidden');
+    });
+    const mobileHiddenTags = document.querySelectorAll('.tag-cloud-item--mobile-hidden');
+    mobileHiddenTags.forEach(function(tag) {
+      tag.classList.remove('tag-cloud-item--mobile-hidden');
+    });
+  }
+  
+  // Function to collapse tags
+  function collapseTags() {
+    const hiddenTags = Array.from(document.querySelectorAll('.tag-cloud-item--hidden'));
+    hiddenTags.forEach(function(tag) {
+      tag.classList.add('tag-cloud-item--hidden');
+    });
+    applyMobileTagLimit();
+  }
+  
+  // Apply initial state based on URL parameter or sessionStorage
+  let isExpanded = shouldBeExpanded || sessionStorage.getItem('tagsExpanded') === 'true';
+  if (isExpanded) {
+    expandAllTags();
+  } else {
+    applyMobileTagLimit();
+  }
+  
+  // Re-apply on window resize (but maintain expanded state)
+  let resizeTimer;
+  window.addEventListener('resize', function() {
+    if (!isExpanded) {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(function() {
+        applyMobileTagLimit();
+      }, 250);
+    }
+  });
+  
+  // Handle "View all tags" / "Show less" toggle
+  const toggleButton = document.getElementById('toggle-all-tags');
+  if (toggleButton) {
+    // Store the original button text
+    const originalButtonText = toggleButton.innerHTML.trim();
+    // Store references to tags that should be hidden (those with the hidden class initially)
+    // Query them at initialization before we start modifying them
+    const hiddenTags = Array.from(document.querySelectorAll('.tag-cloud-item--hidden'));
+    
+    // Update button state based on current expanded state
+    if (isExpanded) {
+      toggleButton.innerHTML = 'Show less <i class="ion ion-ios-arrow-up"></i>';
+    }
+    
+    toggleButton.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+      if (!isExpanded) {
+        expandAllTags();
+        toggleButton.innerHTML = 'Show less <i class="ion ion-ios-arrow-up"></i>';
+        isExpanded = true;
+        updateExpandState(true);
+      } else {
+        collapseTags();
+        toggleButton.innerHTML = originalButtonText;
+        isExpanded = false;
+        updateExpandState(false);
+      }
+    });
+  }
+  
+  // Preserve expanded state when clicking tag links
+  const tagLinks = document.querySelectorAll('.tag-cloud-item:not(.tag-cloud-item--toggle):not(.tag-cloud-item--all)');
+  tagLinks.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      // If tags are expanded, preserve that state in the URL
+      if (isExpanded) {
+        const href = new URL(link.href);
+        href.searchParams.set('expand', 'tags');
+        link.href = href.toString();
+      }
+    });
+  });
+  
+  // Highlight all matching tags (in tag cloud and article cards)
+  function highlightMatchingTags(tagName) {
+    // Get all tag elements (both in tag cloud and article cards)
+    const allTagElements = document.querySelectorAll('.tag-cloud-item:not(.tag-cloud-item--toggle), .article__tag');
+    
+    allTagElements.forEach(function(element) {
+      // Remove any existing active class
+      element.classList.remove('tag-cloud-item--active', 'article__tag--active');
+      
+      if (tagName) {
+        // If a tag is selected, highlight all matching tags
+        const elementText = element.textContent.trim().toLowerCase();
+        // Remove count if present (e.g., "tag name (5)" -> "tag name")
+        const elementTagName = elementText.split('(')[0].trim();
+        
+        if (elementTagName === tagName.toLowerCase()) {
+          // Add appropriate active class based on element type
+          if (element.classList.contains('tag-cloud-item')) {
+            element.classList.add('tag-cloud-item--active');
+          } else if (element.classList.contains('article__tag')) {
+            element.classList.add('article__tag--active');
+          }
+        }
+      } else {
+        // If no tag is selected, highlight the "All Articles" button
+        if (element.classList.contains('tag-cloud-item--all')) {
+          element.classList.add('tag-cloud-item--active');
+        }
+      }
+    });
+  }
+  
+  // Highlight matching tags based on selected tag
+  highlightMatchingTags(selectedTag);
+    
+  // Filter articles
+  const articleItems = document.querySelectorAll('.article-item');
+  const articlesGrid = document.getElementById('articles-grid');
+  const noResults = document.getElementById('no-results');
+  let visibleCount = 0;
+  
+  if (selectedTag) {
+    // Filter by selected tag
+    articleItems.forEach(function(item) {
+      const tags = item.getAttribute('data-tags').toLowerCase();
+      if (tags && tags.includes(selectedTag.toLowerCase())) {
+        // Show the article
+        item.style.display = '';
+        visibleCount++;
+      } else {
+        // Hide the article
+        item.style.display = 'none';
+      }
+    });
+    
+    // Show no results message if no articles match
+    if (visibleCount === 0) {
+      articlesGrid.style.display = 'none';
+      noResults.style.display = 'block';
+    } else {
+      articlesGrid.style.display = '';
+      noResults.style.display = 'none';
+    }
+  } else {
+    // Show all articles when no tag is selected
+    articleItems.forEach(function(item) {
+      item.style.display = '';
+      visibleCount++;
+    });
+    articlesGrid.style.display = '';
+    noResults.style.display = 'none';
+  }
+});
+</script>
