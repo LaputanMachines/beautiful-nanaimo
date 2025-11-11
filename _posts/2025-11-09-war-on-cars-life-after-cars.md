@@ -29,4 +29,6 @@ Strong Towns Nanaimo is proud to host Doug Gordon and Sarah Goodyear from **The 
 
 _Please explore car-free options to get to this event!_
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d422.91441951555987!2d-123.93642031322946!3d49.16464634606397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5488a15817a72431%3A0xc4e016d6c4401139!2sVancouver%20Island%20Conference%20Centre!5e0!3m2!1sen!2sca!4v1762904208918!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ***
