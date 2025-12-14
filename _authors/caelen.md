@@ -2,7 +2,7 @@
 username: caelen
 name: Caelen M.
 image: '/images/authors/caelen.jpg'
-position: "Director of Community Action"
+position: "Managing Director"
 email: caelen@beautifulnanaimo.ca
 permalink: /members/caelen
 ---

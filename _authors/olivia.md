@@ -2,9 +2,10 @@
 username: olivia
 name: Olivia G.
 image: '/images/authors/olivia.jpg'
-position: "Co-Founder, Editor"
+position: "Co-Founder"
 email: olivia@beautifulnanaimo.ca
 permalink: /members/olivia
+former: true
 ---
 
 Olivia is a lifelong cyclist and transit-lover! 

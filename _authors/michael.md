@@ -2,9 +2,10 @@
 username: michael
 name: Michael B.
 image: '/images/authors/michael.jpg'
-position: "Co-Founder, Managing Director"
+position: "Co-Founder"
 email: michael@beautifulnanaimo.ca
 permalink: /members/michael
+former: true
 ---
 
 Emboldened by Nanaimo’s new OCP, Michael and Olivia started Strong Towns Nanaimo to advocate for new urbanism in the Harbour City. 

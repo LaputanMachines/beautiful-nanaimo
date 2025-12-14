@@ -11,6 +11,12 @@
     text-align: center;
   }
 
+  &--former {
+    margin-top: 40px;
+    padding-top: 30px;
+    border-top: 2px solid var(--border-color);
+  }
+
   .authors__info {
     margin-bottom: 40px;
     text-align: center;
