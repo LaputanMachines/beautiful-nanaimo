@@ -8,7 +8,7 @@ image: '/images/posts/2025-12-07-blue-green-planning/st-george-rainway.png'
 image_caption: "The St. George Rainway in Vancouver, British Columbia (City of Vancouver)"
 permalink: /posts/2025/12/07/blue-green-planning
 tags: [design, planning, greenspace]
-featured: true
+featured: false
 type: post
 toc: true
 ---
