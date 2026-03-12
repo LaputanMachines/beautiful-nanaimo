@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blue and Green Forays into Planning For a Resilient Future: The Example of Vancouver"
+title: "Blue and Green Forays into Planning For a Resilient Future: The Case of Vancouver"
 description: "From daylighted streams to car-free rainways, Vancouver’s blue-green infrastructure showcases how landscape design, hydrology, and urban resilience converge at street level."
 date: 2025-12-07
 author: don

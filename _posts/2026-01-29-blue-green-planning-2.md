@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Blue and Green Forays into Organizing for a Resilient Future: The Case of Vancouver – Part 2"
+title: "Blue and Green Forays into Planning For a Resilient Future: The Case of Vancouver Planning"
 description: "An assessment of Vancouver’s blueways and greenways programs: sustainable approaches, holistic design, policy frameworks, and the challenges of funding and political change."
 date: 2026-01-29
 author: don
 image: '/images/posts/2026-01-29-blue-green-planning/header.png'
 image_caption: "The St. George Rainway in Vancouver (City of Vancouver)"
-permalink: /posts/2026/01/29/blue-green-planning-vancouver-part-2
+permalink: /posts/2026/01/29/blue-green-planning-2
 tags: [design, planning, greenspace]
 featured: false
 type: post
